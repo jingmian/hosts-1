@@ -46,7 +46,9 @@ systemctl restart nscd
 ```
 
 #### Windows
-`Windows PowerShell (Admin)`
+```
+Windows PowerShell (Admin)
+```
 ```powershell
 # Use the below command to get the hosts
 
