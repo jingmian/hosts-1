@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-10-14 01:01 UTC
+# Last updated: 2019-10-14 03:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -177,13 +177,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 zzimg.51.la
 
 # Tag Management Solutions for Web and Mobile - Google Tag Manager
-# Server
+# Web console
 # 0.0.0.0 analytics.google.com
-# Client
+# Client browser
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.googletagservices.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 ssl.google-analytics.com
-0.0.0.0 www.googletagservices.com
 
 # 360
 0.0.0.0 dl.360safe.com
@@ -195,6 +195,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sjws.ssl.qihucdn.com
 
 # Adobe
+0.0.0.0 3dns-1.adobe.com
 0.0.0.0 3dns-2.adobe.com
 0.0.0.0 3dns-3.adobe.com
 0.0.0.0 activate-sea.adobe.com
@@ -262,8 +263,6 @@ Adobe Flash Player
 # WeChat
 # 0.0.0.0 open.weixin.qq.com
 # 0.0.0.0 res.wx.qq.com
-# 0.0.0.0 wq.jd.com
-# 0.0.0.0 wqs.jd.com
 0.0.0.0 game.weixin.qq.com
 
 # Weibo
