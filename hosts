@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-10-15 08:01 UTC
+# Last updated: 2019-10-15 09:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -214,7 +214,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wip3.adobe.com
 0.0.0.0 wwis-dubc1-vip60.adobe.com
 
-Adobe Flash Player
+# Adobe Flash Player
 0.0.0.0 flash.cn
 0.0.0.0 www.flash.cn
 0.0.0.0 2144.cn
