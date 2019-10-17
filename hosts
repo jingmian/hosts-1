@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-10-17 02:01 UTC
+# Last updated: 2019-10-17 08:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -101,80 +101,6 @@ ff02::3 ip6-allhosts
 
 0:0:0:0:0:ffff:a87e:3f01 dns
 0:0:0:0:0:ffff:a87e:3f02 dns
-
-# Block ads
-0.0.0.0 123.jiegeng.com
-0.0.0.0 a.apkpure.com
-0.0.0.0 a.md51.cn
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 ads-union.jd.com
-0.0.0.0 ads.google.com
-0.0.0.0 ads.msn.com
-0.0.0.0 ads.pinterest.com
-0.0.0.0 ads.yahoo.com
-0.0.0.0 ads.youtube.com
-0.0.0.0 adwords.google.com
-0.0.0.0 analysis.7055.net
-0.0.0.0 api.cupid.ptqy.gitv.tv
-0.0.0.0 api.speedpan.com
-0.0.0.0 api.video.yahoo.com
-0.0.0.0 b.md51.cn
-0.0.0.0 bank.govsbank.com
-0.0.0.0 c.md51.cn
-0.0.0.0 cmyk.yansedaquan.com
-0.0.0.0 d.9s7t.cn
-0.0.0.0 d.md51.cn
-0.0.0.0 data.7055.net
-0.0.0.0 faioo.com
-0.0.0.0 files.adform.net
-0.0.0.0 flash.cn
-0.0.0.0 get.adobe.com
-0.0.0.0 google.cn
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 hao.faioo.com
-0.0.0.0 hostloc.ml
-0.0.0.0 jiegeng.com
-0.0.0.0 js001.b0.upaiyun.com
-0.0.0.0 logic.cpm.cm.kankan.com
-0.0.0.0 na.ads.yahoo.com
-0.0.0.0 p.yiqifa.com
-0.0.0.0 pcvqee5qa.bkt.clouddn.com
-0.0.0.0 player.pptv.com
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 rabc1.iteye.com
-0.0.0.0 rabc2.iteye.com
-0.0.0.0 res.sspsky.com
-0.0.0.0 rgb.yansedaquan.com
-0.0.0.0 s0.2mdn.net
-0.0.0.0 s0.meituan.com
-0.0.0.0 s1.2mdn.net
-0.0.0.0 secure-ds.serving-sys.com
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 static.doubleclick.net
-0.0.0.0 update.aegis.aliyun.com
-0.0.0.0 update0.aegis.aliyun.com
-0.0.0.0 update1.aegis.aliyun.com
-0.0.0.0 update2.aegis.aliyun.com
-0.0.0.0 update3.aegis.aliyun.com
-0.0.0.0 update4.aegis.aliyun.com
-0.0.0.0 update5.aegis.aliyun.com
-0.0.0.0 update6.aegis.aliyun.com
-0.0.0.0 update7.aegis.aliyun.com
-0.0.0.0 update8.aegis.aliyun.com
-0.0.0.0 update9.aegis.aliyun.com
-0.0.0.0 vasd.funshion.com
-0.0.0.0 video-api.yql.yahoo.com
-0.0.0.0 video.yahoo.com
-0.0.0.0 www.bobo.com
-0.0.0.0 www.faioo.com
-0.0.0.0 www.flash.cn
-0.0.0.0 www.google.cn
-0.0.0.0 www.hostloc.ml
-0.0.0.0 www.jiegeng.com
-0.0.0.0 www.wenbo58.com
-0.0.0.0 www.yushushangcheng.cn
-0.0.0.0 yep.video.yahoo.com
-0.0.0.0 zzimg.51.la
 
 # Tag Management Solutions for Web and Mobile - Google Tag Manager
 # Web console
@@ -323,6 +249,99 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sublimehq.com
 0.0.0.0 license.sublimehq.com
 0.0.0.0 telemetry.sublimehq.com
+
+# Block ads
+0.0.0.0 123.jiegeng.com
+0.0.0.0 a.apkpure.com
+0.0.0.0 a.md51.cn
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ads-union.jd.com
+0.0.0.0 ads.google.com
+0.0.0.0 ads.msn.com
+0.0.0.0 ads.pinterest.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 adwords.google.com
+0.0.0.0 analysis.7055.net
+0.0.0.0 api.cupid.ptqy.gitv.tv
+0.0.0.0 api.speedpan.com
+0.0.0.0 api.video.yahoo.com
+0.0.0.0 b.md51.cn
+0.0.0.0 bank.govsbank.com
+0.0.0.0 c.md51.cn
+0.0.0.0 cmyk.yansedaquan.com
+0.0.0.0 d.9s7t.cn
+0.0.0.0 d.md51.cn
+0.0.0.0 data.7055.net
+0.0.0.0 faioo.com
+0.0.0.0 files.adform.net
+0.0.0.0 flash.cn
+0.0.0.0 get.adobe.com
+0.0.0.0 google.cn
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 hao.faioo.com
+0.0.0.0 hostloc.ml
+0.0.0.0 jiegeng.com
+0.0.0.0 js001.b0.upaiyun.com
+0.0.0.0 logic.cpm.cm.kankan.com
+0.0.0.0 na.ads.yahoo.com
+0.0.0.0 p.yiqifa.com
+0.0.0.0 pcvqee5qa.bkt.clouddn.com
+0.0.0.0 player.pptv.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 rabc1.iteye.com
+0.0.0.0 rabc2.iteye.com
+0.0.0.0 res.sspsky.com
+0.0.0.0 rgb.yansedaquan.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 s0.meituan.com
+0.0.0.0 s1.2mdn.net
+0.0.0.0 secure-ds.serving-sys.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 update.aegis.aliyun.com
+0.0.0.0 update0.aegis.aliyun.com
+0.0.0.0 update1.aegis.aliyun.com
+0.0.0.0 update2.aegis.aliyun.com
+0.0.0.0 update3.aegis.aliyun.com
+0.0.0.0 update4.aegis.aliyun.com
+0.0.0.0 update5.aegis.aliyun.com
+0.0.0.0 update6.aegis.aliyun.com
+0.0.0.0 update7.aegis.aliyun.com
+0.0.0.0 update8.aegis.aliyun.com
+0.0.0.0 update9.aegis.aliyun.com
+0.0.0.0 vasd.funshion.com
+0.0.0.0 video-api.yql.yahoo.com
+0.0.0.0 video.yahoo.com
+0.0.0.0 www.bobo.com
+0.0.0.0 www.faioo.com
+0.0.0.0 www.flash.cn
+0.0.0.0 www.google.cn
+0.0.0.0 www.hostloc.ml
+0.0.0.0 www.jiegeng.com
+0.0.0.0 www.wenbo58.com
+0.0.0.0 www.yushushangcheng.cn
+0.0.0.0 yep.video.yahoo.com
+0.0.0.0 zzimg.51.la
+
+# Gaming
+0.0.0.0 gdhydzc.com
+0.0.0.0 www.gdhydzc.com
+0.0.0.0 www-89108.com
+0.0.0.0 www.www-89108.com
+0.0.0.0 trotopmach.com
+0.0.0.0 www.trotopmach.com
+0.0.0.0 13255a.com
+0.0.0.0 www.13255a.com
+0.0.0.0 8013.cc
+0.0.0.0 www.8013.cc
+0.0.0.0 969456.com
+0.0.0.0 www.969456.com
+0.0.0.0 www904744.com
+0.0.0.0 www.www904744.com
+0.0.0.0 xxxbtz.com
+0.0.0.0 www.xxxbtz.com
+0.0.0.0 congratulations.xxxbtz.com
 
 # Ultimate Hosts Blacklist
 0.0.0.0 0.0.0.0
