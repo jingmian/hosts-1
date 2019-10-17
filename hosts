@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-10-15 16:01 UTC
+# Last updated: 2019-10-17 02:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -16379,7 +16379,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 datt.ero-advertising.com
 0.0.0.0 daua.ero-advertising.com
 0.0.0.0 dava.ero-advertising.com
-0.0.0.0 davinci.snssdk.com
 0.0.0.0 davor.io
 0.0.0.0 dawa.ero-advertising.com
 0.0.0.0 dawnframing.com
@@ -26828,7 +26827,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 login.dotomi.net
 0.0.0.0 login.gammaplatform.com
 0.0.0.0 login.linkpulse.com
-0.0.0.0 login.sina.com.cn
 0.0.0.0 login.tracking101.com #[Tracking.Cookie]
 0.0.0.0 logitechlogitechglobal.112.2o7.net
 0.0.0.0 logliberation.xiti.com
@@ -45371,6 +45369,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vq91811.com
 0.0.0.0 vq918450.com
 0.0.0.0 vqq.admaster.com.cn
+0.0.0.0 vr.gdt.qq.com
 0.0.0.0 vrl.m.conviva.com
 0.0.0.0 vroll.net
 0.0.0.0 vrs.cz
