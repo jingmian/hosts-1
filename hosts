@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-10-19 03:01 UTC
+# Last updated: 2019-10-19 04:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -16937,8 +16937,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dl_dir2.qq.com
 0.0.0.0 dlads.cn
 0.0.0.0 dlagier.com
-0.0.0.0 dldir2.qq.com
-0.0.0.0 dldir3.qq.com
 0.0.0.0 dle-news.pw
 0.0.0.0 dlero.net
 0.0.0.0 dlf.pl
