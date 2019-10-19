@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-10-19 04:01 UTC
+# Last updated: 2019-10-19 15:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -8811,6 +8811,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.coolguang.com
 0.0.0.0 api.cpu.baidu.com
 0.0.0.0 api.crypto-loot.com
+0.0.0.0 api.csxsyp.cn
 0.0.0.0 api.cupid.iqiyi.com
 0.0.0.0 api.cupid.ptqy.gitv.tv
 0.0.0.0 api.cupid.qiyi.com
@@ -17600,6 +17601,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e-zeitung.de
 0.0.0.0 e-zshopper.activeshopper.com #[Adware.ActivShop]
 0.0.0.0 e.0531mnk.net
+0.0.0.0 e.0544yh.cn
 0.0.0.0 e.05yzt.cn
 0.0.0.0 e.0v15b.cn
 0.0.0.0 e.0wnz6g.cn
@@ -17857,6 +17859,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e.jwiyr.com
 0.0.0.0 e.jxxiangchu.com
 0.0.0.0 e.jzvog.cn
+0.0.0.0 e.k079j.cn
 0.0.0.0 e.kafka8.com
 0.0.0.0 e.kcenu.com
 0.0.0.0 e.kchaq.com
@@ -18086,6 +18089,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e.yieldmanager.net
 0.0.0.0 e.yingchengtou.com
 0.0.0.0 e.yjiaj.com
+0.0.0.0 e.yl64a.cn
 0.0.0.0 e.ynnke.com
 0.0.0.0 e.yoiur.com
 0.0.0.0 e.ypzhwf.cn
@@ -18108,6 +18112,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e.zjkdaikuan.com
 0.0.0.0 e.zkwsdf.com
 0.0.0.0 e.zmlfk.com
+0.0.0.0 e.zu08e.cn
 0.0.0.0 e.zunss.com
 0.0.0.0 e.zvfuka.cn
 0.0.0.0 e0.extreme-dm.com
@@ -21259,6 +21264,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gmanhua.com
 0.0.0.0 gmchevyapprentice.112.2o7.net
 0.0.0.0 gmdtrk.com
+0.0.0.0 gmeng.625323.com
 0.0.0.0 gmglobalt3sites.112.2o7.net
 0.0.0.0 gmgmacfs.112.2o7.net
 0.0.0.0 gmgmacmortgage.112.2o7.net
@@ -21374,6 +21380,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 go.redirectingat.com
 0.0.0.0 go.scdn.co
 0.0.0.0 go.searchlock.com
+0.0.0.0 go.sghjtc.xyz
 0.0.0.0 go.sonobi.com
 0.0.0.0 go.spaceshipads.com
 0.0.0.0 go.stirshakead.com
@@ -21954,6 +21961,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 handlerhackz.tk
 0.0.0.0 handyarchive.com
 0.0.0.0 handyfield.com
+0.0.0.0 hanmiyong.com
 0.0.0.0 hanulsms.com
 0.0.0.0 hao.6955000.com
 0.0.0.0 hao.7654.com
@@ -27165,6 +27173,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.020zrmbwx.com
 0.0.0.0 m.030ha.cn
 0.0.0.0 m.0531mnk.net
+0.0.0.0 m.0544yh.cn
 0.0.0.0 m.05yzt.cn
 0.0.0.0 m.072va.cn
 0.0.0.0 m.07seb.cn
@@ -27243,6 +27252,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.5tbiec.cn
 0.0.0.0 m.5vst8h.cn
 0.0.0.0 m.61lvi.cn
+0.0.0.0 m.62mao.com
 0.0.0.0 m.640640.com
 0.0.0.0 m.649649.com
 0.0.0.0 m.65r3g.cn
@@ -27343,6 +27353,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.aty.sohu.com
 0.0.0.0 m.axzlsc.com
 0.0.0.0 m.ayues.com
+0.0.0.0 m.b1zju.cn
 0.0.0.0 m.b6wabb.cn
 0.0.0.0 m.b93dpn.com
 0.0.0.0 m.baidu.com.yiqisee.cn
@@ -27693,6 +27704,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.jpenk.com
 0.0.0.0 m.jyhwt.cn
 0.0.0.0 m.jzvog.cn
+0.0.0.0 m.k079j.cn
 0.0.0.0 m.kafka8.com
 0.0.0.0 m.kbwmt.cn
 0.0.0.0 m.kcenu.com
@@ -27912,6 +27924,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.sfscooter.cn
 0.0.0.0 m.sgltc.cn
 0.0.0.0 m.shenyunkeji.com
+0.0.0.0 m.shwedar.com.cn
 0.0.0.0 m.simba.taobao.com
 0.0.0.0 m.siwyom.com
 0.0.0.0 m.sjaidu.com
@@ -28112,6 +28125,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.yizhijin.cn
 0.0.0.0 m.yjiaj.com
 0.0.0.0 m.yjias.com
+0.0.0.0 m.yl64a.cn
 0.0.0.0 m.ynnke.com
 0.0.0.0 m.yoiur.com
 0.0.0.0 m.yooli.com
@@ -28156,6 +28170,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.zougg.com
 0.0.0.0 m.zq4ka.cn
 0.0.0.0 m.zr9f7.cn
+0.0.0.0 m.zu08e.cn
 0.0.0.0 m.zuopp.com
 0.0.0.0 m.zvfuka.cn
 0.0.0.0 m0-s.san.ru
@@ -29997,6 +30012,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mldy.xiexiangzi.cn
 0.0.0.0 mldy.yu83r.cn
 0.0.0.0 mldy.yxxgab.cn
+0.0.0.0 mldys.14yzc.cn
 0.0.0.0 mldys.mfis6.cn
 0.0.0.0 mldys.mqchy.cn
 0.0.0.0 mlib.browsermine.com
@@ -31831,6 +31847,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nsrecord.org
 0.0.0.0 nst.broadcast.pm
 0.0.0.0 nstat.tudou.com
+0.0.0.0 nsxtob.cn
 0.0.0.0 nsy.hnzyfs.com
 0.0.0.0 nt-associates.com
 0.0.0.0 nt-cdn.coccoc.com
@@ -39986,6 +40003,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssl.xplosion.de
 0.0.0.0 ssl.ymapp.com
 0.0.0.0 ssl.youkag.com
+0.0.0.0 ssl.yx4818.cn
 0.0.0.0 ssl2.dottexpress.com
 0.0.0.0 ssl2.feihongjiaoyu.com
 0.0.0.0 ssl2.gdqifang.com
@@ -42687,6 +42705,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 toutoucao7.com
 0.0.0.0 toutoucao8.com
 0.0.0.0 toutoucao9.com
+0.0.0.0 touy.deryakose.com
 0.0.0.0 tower.adexpedia.com
 0.0.0.0 towerecords.com
 0.0.0.0 townhallmedia-d.openx.net
@@ -44502,6 +44521,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uxek.85nv96.cn
 0.0.0.0 uxip.meizu.com
 0.0.0.0 uzi66.jozee.cn
+0.0.0.0 uzixia.zwdu.com
 0.0.0.0 uzljra.ru
 0.0.0.0 uzsrh.cn
 0.0.0.0 uzupelniaj-dane.ml
@@ -47186,6 +47206,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.1680go.com
 0.0.0.0 www.170066.com
 0.0.0.0 www.17388.com
+0.0.0.0 www.17bqg.top
 0.0.0.0 www.17kxgame.com
 0.0.0.0 www.17un.com
 0.0.0.0 www.17zhaole.com
