@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-10-23 07:01 UTC
+# Last updated: 2019-10-26 15:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -10939,6 +10939,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 beacons.helium.com
 0.0.0.0 beacons.hottraffic.nl
 0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 beacons5.gvt2.com
 0.0.0.0 bead-ad.com
 0.0.0.0 beads.sx.atl.publicus.com
 0.0.0.0 beam.hlserve.com
@@ -13073,6 +13075,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.bizible.com
 0.0.0.0 cdn.blueconic.net
 0.0.0.0 cdn.boomtrain.com
+0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.braun634.com
 0.0.0.0 cdn.brcdn.com
 0.0.0.0 cdn.broadstreetads.com
@@ -32989,6 +32992,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 otherinbox.com
 0.0.0.0 otherossettlement.com
 0.0.0.0 otherprofit.com
+0.0.0.0 otheve.beacon.qq.com
 0.0.0.0 otheve.play.aiseet.atianqi.com
 0.0.0.0 othstr.play.aiseet.atianqi.com
 0.0.0.0 otletdivak.hu
@@ -33183,6 +33187,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 p.ttwitter.com
 0.0.0.0 p.tvpixel.com
 0.0.0.0 p.twitter.com
+0.0.0.0 p.typekit.net
 0.0.0.0 p.vibrant.co
 0.0.0.0 p.yigao.com
 0.0.0.0 p.yiqifa.com
@@ -33583,6 +33588,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pcper.us.intellitxt.com
 0.0.0.0 pcpitstop.com
 0.0.0.0 pcpro.uk.intellitxt.com
+0.0.0.0 pcr.da.netease.com
 0.0.0.0 pcregistrycleaner.com
 0.0.0.0 pcsecurityshield.com
 0.0.0.0 pcsoftwords.dftoutiao.com
@@ -34135,7 +34141,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.vihub.ru
 0.0.0.0 pixel.watch
 0.0.0.0 pixel.wp.com
-0.0.0.0 pixel.wp.come
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 pixel.yola.com
 0.0.0.0 pixel1.spotify.com
@@ -36285,6 +36290,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 reporo.net
 0.0.0.0 report-ads-to.pubnation.com
 0.0.0.0 report.adview.cn
+0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 report.broadcastpc.tv
 0.0.0.0 report.fff.com.vn
 0.0.0.0 report.hb.brainlyads.com
@@ -36391,6 +36397,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 reuters-d.openx.net
 0.0.0.0 rev.adip.ly
 0.0.0.0 rev.avsforum.com
+0.0.0.0 rev.da.netease.com
 0.0.0.0 rev.lanistaads.com
 0.0.0.0 revboostprocdnadsprod.azureedge.net
 0.0.0.0 revcontent.com
@@ -36589,6 +36596,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rosalieeve.pl
 0.0.0.0 rose.ixbt.com
 0.0.0.0 rosemand.pro
+0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 rosettastone.tt.omtrdc.net
 0.0.0.0 roshanavar.com
 0.0.0.0 rosi.okkkk.com
@@ -36812,6 +36820,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rtvagdpro.net
 0.0.0.0 rtve.d1.sc.omtrdc.net
 0.0.0.0 rtw.monerise.com
+0.0.0.0 rtx.openx.net
 0.0.0.0 rtxplatform.com
 0.0.0.0 ru-geo.cityads.com
 0.0.0.0 ru-gmtdmp.mookie1.com
@@ -41086,6 +41095,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sugar.zhihu.com
 0.0.0.0 sugarcurtain.com
 0.0.0.0 sugoicounter.com
+0.0.0.0 sugs.m.sm.cn
 0.0.0.0 suhprdfb.bid
 0.0.0.0 suhunsoo.uk
 0.0.0.0 suk6mvixsl7e7pnqmcxzq2nlrv23orxa4lnmqehevie5lr46.qcfzwrpafytxzuzudly53cdpuinbus5dryc5yyluqfgstdbk.ifcouvs4yrkvq54g3sqlvxg6iwtieqko3d4z6g43c2na2xok.5l6armklu65sqea3msfquneq7rjwynp42nva5f7pl5qx4a7x.erz4onrdnlviivki.er.spo.spotify.com
@@ -55770,6 +55780,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 x.admob.com
 0.0.0.0 x.adpro.cn
 0.0.0.0 x.azjmp.com
+0.0.0.0 x.bidswitch.com
 0.0.0.0 x.bidswitch.net
 0.0.0.0 x.bikaer.com
 0.0.0.0 x.browsermine.com
