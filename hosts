@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-10-27 19:01 UTC
+# Last updated: 2019-10-28 01:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -55324,6 +55324,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.zalukaj24.com
 0.0.0.0 www.zalukaj24.pl
 0.0.0.0 www.zalukajfilmy.pl
+0.0.0.0 www.zamedi.pl
 0.0.0.0 www.zamiana-koloru.blogspot.com
 0.0.0.0 www.zamora.axiatraders.com
 0.0.0.0 www.zamowienia-priorytetowe.pl
@@ -56655,6 +56656,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zalukajfilmy.pl
 0.0.0.0 zambini.ru
 0.0.0.0 zambrana.com
+0.0.0.0 zamedi.pl
 0.0.0.0 zamiana-koloru.blogspot.com
 0.0.0.0 zamora.axiatraders.com
 0.0.0.0 zamowienia-priorytetowe.pl
