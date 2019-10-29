@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-10-28 01:01 UTC
+# Last updated: 2019-10-29 03:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -8707,6 +8707,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.3c0cb3b4.space
 0.0.0.0 api.3d0cb547.space
 0.0.0.0 api.51sxzz.com
+0.0.0.0 api.5eln.cn
 0.0.0.0 api.7segments.com
 0.0.0.0 api.aalbbh84.info
 0.0.0.0 api.accesstrade.vn
@@ -12611,6 +12612,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cacheserve.williamhill.com
 0.0.0.0 cachewww.europacasino.com
 0.0.0.0 cacl.fr
+0.0.0.0 caclick.baidu.com
 0.0.0.0 cad.chosun.com
 0.0.0.0 cad.chosun.com #[RealMedia]
 0.0.0.0 cad.donga.com
@@ -15489,10 +15491,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 cps.kaola.com
 0.0.0.0 cps.yaoqing.com
 0.0.0.0 cpu-admin.baidu.com
+0.0.0.0 cpu-baidu-com-block.cdn.bcebos.com
 0.0.0.0 cpu.baidu.com
 0.0.0.0 cpu.firingsquad.com
 0.0.0.0 cpu.samsungelectronics.com
 0.0.0.0 cpu2cash.link
+0.0.0.0 cpucdn.baidu.com
 0.0.0.0 cpufan.club
 0.0.0.0 cpull.360.cn
 0.0.0.0 cpusall.112.2o7.net
@@ -15898,6 +15902,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d-cache.microadinc.com
 0.0.0.0 d-markets.net
 0.0.0.0 d-ns.ga
+0.0.0.0 d-test.39.net
 0.0.0.0 d-track.send.microad-cn.com
 0.0.0.0 d-track.send.microad.jp
 0.0.0.0 d-track.send.microadinc.com
@@ -16385,6 +16390,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dcapps.disney.go.com
 0.0.0.0 dcapps.disney.go.com #[WebBug]
 0.0.0.0 dcba.popcash.net
+0.0.0.0 dcc.ghrtgf.xyz
 0.0.0.0 dcci.adsame.com
 0.0.0.0 dcd.adotsolution.com
 0.0.0.0 dce.nextstat.com
@@ -17463,6 +17469,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dvsend.china.com
 0.0.0.0 dvser.china.com
 0.0.0.0 dvser02.china.com
+0.0.0.0 dvv.lkgtvc.xyz
 0.0.0.0 dvx-android.domob.cn
 0.0.0.0 dvzwh.voluumtrk.com
 0.0.0.0 dw-collect.ksosoft.com
@@ -17707,6 +17714,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e.bentengcn.com
 0.0.0.0 e.bgj216.cn
 0.0.0.0 e.bgj582.cn
+0.0.0.0 e.bjvvqu.cn
 0.0.0.0 e.bokanedu.net
 0.0.0.0 e.breezily168.com
 0.0.0.0 e.bsnnk.com
@@ -17796,6 +17804,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e.ggouh.com
 0.0.0.0 e.gjiaj.com
 0.0.0.0 e.gjiak.com
+0.0.0.0 e.gk277.cn
 0.0.0.0 e.gkz39.cn
 0.0.0.0 e.glaef.cn
 0.0.0.0 e.glvej.com
@@ -17815,6 +17824,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e.hdanc.com
 0.0.0.0 e.hduic.com
 0.0.0.0 e.hellomingpian.com
+0.0.0.0 e.hf355.cn
 0.0.0.0 e.hgrqp.com
 0.0.0.0 e.hissq.com
 0.0.0.0 e.hjiec.com
@@ -20192,6 +20202,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fp.valueclick.com
 0.0.0.0 fp1.qdyinglida.com
 0.0.0.0 fpa.ero-advertising.com
+0.0.0.0 fpag.w48ge.cn
 0.0.0.0 fpb.docin.com
 0.0.0.0 fpb.kuhou.com
 0.0.0.0 fpb.mn586.com
@@ -21844,6 +21855,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gxny.imanchu.cn
 0.0.0.0 gxplugin.com
 0.0.0.0 gxwlzz.baiduspider1.cn
+0.0.0.0 gxzjzg.com
 0.0.0.0 gyboo.cruisingsmallship.com
 0.0.0.0 gyca9f.dahuangcheng.cn
 0.0.0.0 gylra.cruisingsmallship.com
@@ -22437,6 +22449,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hlrcv.stage.adobe.com
 0.0.0.0 hlu9tseh.men
 0.0.0.0 hm.baidu.com
+0.0.0.0 hm.baidu.com.jnsiematcnc.com
 0.0.0.0 hm.cdiah.com
 0.0.0.0 hm.d1.sc.omtrdc.net
 0.0.0.0 hm.l.qq.com
@@ -27188,6 +27201,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.0531mnk.net
 0.0.0.0 m.0544yh.cn
 0.0.0.0 m.05yzt.cn
+0.0.0.0 m.06v2j.cn
 0.0.0.0 m.072va.cn
 0.0.0.0 m.07seb.cn
 0.0.0.0 m.08i94.com
@@ -27394,6 +27408,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.bhkhkm.cn
 0.0.0.0 m.bififd.cn
 0.0.0.0 m.biquge5200.cc
+0.0.0.0 m.bjvvqu.cn
 0.0.0.0 m.bkuax.com
 0.0.0.0 m.blfyquz.cn
 0.0.0.0 m.bokanedu.net
@@ -27589,6 +27604,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.gjiaj.com
 0.0.0.0 m.gjiak.com
 0.0.0.0 m.gjuet.com
+0.0.0.0 m.gk277.cn
 0.0.0.0 m.gkz39.cn
 0.0.0.0 m.glaef.cn
 0.0.0.0 m.glvej.com
@@ -27627,6 +27643,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.hellomingpian.com
 0.0.0.0 m.heshanwan.cn
 0.0.0.0 m.heygugu.com
+0.0.0.0 m.hf355.cn
 0.0.0.0 m.hguas.com
 0.0.0.0 m.hhllyt.com
 0.0.0.0 m.hissq.com
@@ -27783,6 +27800,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.m88vina.com
 0.0.0.0 m.m8l0ka.cn
 0.0.0.0 m.mLabf.cn
+0.0.0.0 m.maiduoer.com
 0.0.0.0 m.mansion66.com
 0.0.0.0 m.maopuzw.com
 0.0.0.0 m.masoffer.net
@@ -28719,6 +28737,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 map2.adsniper.ru
 0.0.0.0 mapleway2profit.com
 0.0.0.0 mapp.qzone.qq.com
+0.0.0.0 mapping.adsame.com
 0.0.0.0 mapping.yoyi.com.cn
 0.0.0.0 mapqueat.com
 0.0.0.0 mapquestt.com
@@ -30699,6 +30718,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mvads.kugou.com
 0.0.0.0 mvas.cityads.com
 0.0.0.0 mvip.zhuba8.com
+0.0.0.0 mvo.bd6t4.xyz
 0.0.0.0 mvo.nefcd.xyz
 0.0.0.0 mvo.nwffx.xyz
 0.0.0.0 mvo.ythbr.xyz
@@ -31852,6 +31872,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nsclickvideo.baidu.com
 0.0.0.0 nscreen.neoebiz.co.kr
 0.0.0.0 nsdldlese.112.2o7.net
+0.0.0.0 nsdsok.cn
 0.0.0.0 nsfund.mn
 0.0.0.0 nsis.bisrv.com
 0.0.0.0 nsm.dell.com
@@ -33854,6 +33875,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 photo.backerbiotech.cn
 0.0.0.0 photo.bjdfhy.cn
 0.0.0.0 photo.boweineng.cn
+0.0.0.0 photo.bscy05.cn
 0.0.0.0 photo.ccjxybj.cn
 0.0.0.0 photo.cjh9.cn
 0.0.0.0 photo.cxslchkb.cn
@@ -35356,6 +35378,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 publicidees.com
 0.0.0.0 publicis.adcentriconline.com
 0.0.0.0 publir-d.openx.net
+0.0.0.0 publish-pic-cpu.baidu.com
 0.0.0.0 publish.bonzaii.no
 0.0.0.0 publisher-config.unityads.unity3d.com
 0.0.0.0 publisher.admicro.vn
@@ -36077,6 +36100,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 recl.kulinar.bg
 0.0.0.0 reclamus.com
 0.0.0.0 recmd.html5.qq.com
+0.0.0.0 recommend.union.39.net
 0.0.0.0 recommendedforyou.xyz
 0.0.0.0 recommendedlab.com
 0.0.0.0 recommender.scarabresearch.com
@@ -41685,6 +41709,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 t7z.cupid.iqiyi.com
 0.0.0.0 t7z.cupid.ptqy.gitv.tv
 0.0.0.0 t8.baidu.com
+0.0.0.0 t8ac8a8f8.jingfeed.com
 0.0.0.0 t8t7frium3.s.ad6media.fr
 0.0.0.0 t9.baidu.com
 0.0.0.0 ta.at.ic5mp.net
@@ -45543,6 +45568,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 w2.am15.net
 0.0.0.0 w2.extreme-dm.com
 0.0.0.0 w2.hitbox.com
+0.0.0.0 w2.okcloud.me
 0.0.0.0 w20.am15.net
 0.0.0.0 w20.hitbox.com
 0.0.0.0 w21.am15.net
@@ -48864,6 +48890,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.box.bg
 0.0.0.0 www.boxercrazy.org
 0.0.0.0 www.bracalemusic.com
+0.0.0.0 www.brafsc.top
 0.0.0.0 www.brainfox.com
 0.0.0.0 www.bramka-sms-za-darmo.pl
 0.0.0.0 www.brandedleadgeneration.com
@@ -51446,6 +51473,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.keyshot.cc
 0.0.0.0 www.keywordblocks.com
 0.0.0.0 www.keywordmax.com
+0.0.0.0 www.kfdqwo.top
 0.0.0.0 www.khlgauqt2000.com
 0.0.0.0 www.kiaokuayoutui.com
 0.0.0.0 www.kibo1.eu
