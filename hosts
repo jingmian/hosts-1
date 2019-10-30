@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-10-29 03:01 UTC
+# Last updated: 2019-10-30 02:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -20556,6 +20556,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 g.blogads.com
 0.0.0.0 g.chaishiguan.com
 0.0.0.0 g.cn.miaozhen.com
+0.0.0.0 g.csdnimg.cn
 0.0.0.0 g.d.yoyi.tv
 0.0.0.0 g.daman.cc
 0.0.0.0 g.domob.cn
