@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-10-30 16:01 UTC
+# Last updated: 2019-11-01 02:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -834,37 +834,37 @@ ff02::3 ip6-allhosts
 0.0.0.0 2017img.myxh999.com
 0.0.0.0 2017supremetokyo.com
 0.0.0.0 2018.qucaigg.com
-0.0.0.0 20191001.logic.cpm.cm.kankan.com
-0.0.0.0 20191002.logic.cpm.cm.kankan.com
-0.0.0.0 20191003.logic.cpm.cm.kankan.com
-0.0.0.0 20191004.logic.cpm.cm.kankan.com
-0.0.0.0 20191005.logic.cpm.cm.kankan.com
-0.0.0.0 20191006.logic.cpm.cm.kankan.com
-0.0.0.0 20191007.logic.cpm.cm.kankan.com
-0.0.0.0 20191008.logic.cpm.cm.kankan.com
-0.0.0.0 20191009.logic.cpm.cm.kankan.com
-0.0.0.0 20191010.logic.cpm.cm.kankan.com
-0.0.0.0 20191011.logic.cpm.cm.kankan.com
-0.0.0.0 20191012.logic.cpm.cm.kankan.com
-0.0.0.0 20191013.logic.cpm.cm.kankan.com
-0.0.0.0 20191014.logic.cpm.cm.kankan.com
-0.0.0.0 20191015.logic.cpm.cm.kankan.com
-0.0.0.0 20191016.logic.cpm.cm.kankan.com
-0.0.0.0 20191017.logic.cpm.cm.kankan.com
-0.0.0.0 20191018.logic.cpm.cm.kankan.com
-0.0.0.0 20191019.logic.cpm.cm.kankan.com
-0.0.0.0 20191020.logic.cpm.cm.kankan.com
-0.0.0.0 20191021.logic.cpm.cm.kankan.com
-0.0.0.0 20191022.logic.cpm.cm.kankan.com
-0.0.0.0 20191023.logic.cpm.cm.kankan.com
-0.0.0.0 20191024.logic.cpm.cm.kankan.com
-0.0.0.0 20191025.logic.cpm.cm.kankan.com
-0.0.0.0 20191026.logic.cpm.cm.kankan.com
-0.0.0.0 20191027.logic.cpm.cm.kankan.com
-0.0.0.0 20191028.logic.cpm.cm.kankan.com
-0.0.0.0 20191029.logic.cpm.cm.kankan.com
-0.0.0.0 20191030.logic.cpm.cm.kankan.com
-0.0.0.0 20191031.logic.cpm.cm.kankan.com
+0.0.0.0 20191101.logic.cpm.cm.kankan.com
+0.0.0.0 20191102.logic.cpm.cm.kankan.com
+0.0.0.0 20191103.logic.cpm.cm.kankan.com
+0.0.0.0 20191104.logic.cpm.cm.kankan.com
+0.0.0.0 20191105.logic.cpm.cm.kankan.com
+0.0.0.0 20191106.logic.cpm.cm.kankan.com
+0.0.0.0 20191107.logic.cpm.cm.kankan.com
+0.0.0.0 20191108.logic.cpm.cm.kankan.com
+0.0.0.0 20191109.logic.cpm.cm.kankan.com
+0.0.0.0 20191110.logic.cpm.cm.kankan.com
+0.0.0.0 20191111.logic.cpm.cm.kankan.com
+0.0.0.0 20191112.logic.cpm.cm.kankan.com
+0.0.0.0 20191113.logic.cpm.cm.kankan.com
+0.0.0.0 20191114.logic.cpm.cm.kankan.com
+0.0.0.0 20191115.logic.cpm.cm.kankan.com
+0.0.0.0 20191116.logic.cpm.cm.kankan.com
+0.0.0.0 20191117.logic.cpm.cm.kankan.com
+0.0.0.0 20191118.logic.cpm.cm.kankan.com
+0.0.0.0 20191119.logic.cpm.cm.kankan.com
+0.0.0.0 20191120.logic.cpm.cm.kankan.com
+0.0.0.0 20191121.logic.cpm.cm.kankan.com
+0.0.0.0 20191122.logic.cpm.cm.kankan.com
+0.0.0.0 20191123.logic.cpm.cm.kankan.com
+0.0.0.0 20191124.logic.cpm.cm.kankan.com
+0.0.0.0 20191125.logic.cpm.cm.kankan.com
+0.0.0.0 20191126.logic.cpm.cm.kankan.com
+0.0.0.0 20191127.logic.cpm.cm.kankan.com
+0.0.0.0 20191128.logic.cpm.cm.kankan.com
+0.0.0.0 20191129.logic.cpm.cm.kankan.com
+0.0.0.0 20191130.logic.cpm.cm.kankan.com
+0.0.0.0 20191131.logic.cpm.cm.kankan.com
 0.0.0.0 201mb.com
 0.0.0.0 2020iscoming.info
 0.0.0.0 202ch.com
@@ -8848,6 +8848,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.goulegu.com
 0.0.0.0 api.grandonmedia.com
 0.0.0.0 api.growingio.com
+0.0.0.0 api.gzxiongwa.cn
 0.0.0.0 api.huo360.com
 0.0.0.0 api.hybrid.intl.xiaomi.com
 0.0.0.0 api.iapps.ifeng.com
@@ -9841,6 +9842,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 atom.adjust.com
 0.0.0.0 atousoft.com
 0.0.0.0 atout-energie-69.com
+0.0.0.0 atplay.cn
 0.0.0.0 atrack-a.anthill.vn
 0.0.0.0 atrd.netmng.com
 0.0.0.0 atrk.alexametrics.com
@@ -16345,6 +16347,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dawnnationaladvertiser.com
 0.0.0.0 daylogs.com
 0.0.0.0 dayu.ywccy.com
+0.0.0.0 db.cjtcc.cn
 0.0.0.0 db.riskwaters.com #[WebTrends]
 0.0.0.0 db.video-ak.cdn.spotify.com
 0.0.0.0 db.xiaoshuofuwuqi.com
@@ -16405,6 +16408,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dcapps.disney.go.com #[WebBug]
 0.0.0.0 dcba.popcash.net
 0.0.0.0 dcc.ghrtgf.xyz
+0.0.0.0 dcc.strbgi.xyz
 0.0.0.0 dcci.adsame.com
 0.0.0.0 dcd.adotsolution.com
 0.0.0.0 dce.nextstat.com
@@ -17457,6 +17461,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dtscout.com
 0.0.0.0 dtscout.rtb.adx1.com
 0.0.0.0 dtta.ero-advertising.com
+0.0.0.0 du.biqukan.com
 0.0.0.0 du.jd.com
 0.0.0.0 dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 dualvaccine.com
@@ -17487,6 +17492,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dvser.china.com
 0.0.0.0 dvser02.china.com
 0.0.0.0 dvv.lkgtvc.xyz
+0.0.0.0 dvv.muyfgf.xyz
 0.0.0.0 dvx-android.domob.cn
 0.0.0.0 dvzwh.voluumtrk.com
 0.0.0.0 dw-collect.ksosoft.com
@@ -27891,6 +27897,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.opqsr.com
 0.0.0.0 m.oyrim.com
 0.0.0.0 m.panda.voiceads.cn
+0.0.0.0 m.panwenjun.top
 0.0.0.0 m.pbino.com
 0.0.0.0 m.pcaoo.com
 0.0.0.0 m.pcuna.com
@@ -28169,6 +28176,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.yguap.com
 0.0.0.0 m.yiere.com
 0.0.0.0 m.yingchengtou.com
+0.0.0.0 m.yitime.top
 0.0.0.0 m.yizhijin.cn
 0.0.0.0 m.yjiaj.com
 0.0.0.0 m.yjias.com
@@ -35290,6 +35298,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 psp3d.us.intellitxt.com
 0.0.0.0 pspcave.uk.intellitxt.com
 0.0.0.0 psptoolapi.ctags.cn
+0.0.0.0 pstarv.cn
 0.0.0.0 pstatic.datafastguru.info
 0.0.0.0 pstats.blogworks.com
 0.0.0.0 pstmrk.it
@@ -45414,6 +45423,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vvp.agzxj8990.com
 0.0.0.0 vvps.ws
 0.0.0.0 vvv.lunqudai.com
+0.0.0.0 vvv.qqdashabi.top
 0.0.0.0 vvv.spahelani.com
 0.0.0.0 vvw.wxbgf.top
 0.0.0.0 vw.netmng.com
@@ -51112,6 +51122,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ijinshan.com
 0.0.0.0 www.ikea.122.2o7.net
 0.0.0.0 www.ili100.cn
+0.0.0.0 www.ilkwork.com
 0.0.0.0 www.ilovecheating.com
 0.0.0.0 www.ilovemobi.com
 0.0.0.0 www.imads.ero-advertising.com
@@ -56762,6 +56773,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zbz.m.qxs.la
 0.0.0.0 zc.adpush.cn
 0.0.0.0 zc.biz.weibo.com
+0.0.0.0 zc.guanzistory.com
 0.0.0.0 zc.zeroredirect1.com
 0.0.0.0 zc1.delta-boa.com
 0.0.0.0 zc1.zeroredirect11.com
@@ -56964,6 +56976,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zoracle.com
 0.0.0.0 zous.szm.sk
 0.0.0.0 zouwie.mlhif.com
+0.0.0.0 zp.guanzistory.com
 0.0.0.0 zpe.klre.18183.com
 0.0.0.0 zplayer-trk.zdn.vn
 0.0.0.0 zplayer.trk.zapps.vn
