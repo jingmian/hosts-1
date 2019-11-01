@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-01 04:01 UTC
+# Last updated: 2019-11-01 07:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -2638,6 +2638,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.3au.doubleclick.net
 0.0.0.0 ad.3dnews.ru
 0.0.0.0 ad.3dpop.kr
+0.0.0.0 ad.51wnl-cq.com
 0.0.0.0 ad.51wnl.com
 0.0.0.0 ad.52av.tv
 0.0.0.0 ad.71i.de
@@ -6918,6 +6919,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adsmart.com
 0.0.0.0 adsmart.net
 0.0.0.0 adsmart.yicha.cn
+0.0.0.0 adsmind.apdcdn.tc.qq.com
 0.0.0.0 adsmogo.com
 0.0.0.0 adsnative.com
 0.0.0.0 adsnew.gsmarena.com
@@ -9802,7 +9804,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 at-img1.tdimg.com
 0.0.0.0 at-img2.tdimg.com
 0.0.0.0 at-img3.tdimg.com
-0.0.0.0 at.alicdn.com
 0.0.0.0 at.amgdgt.com
 0.0.0.0 at.atwola.com
 0.0.0.0 at.campaigns.f2.com.au
@@ -10292,6 +10293,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bagsonsale.online
 0.0.0.0 bagsyo.com
 0.0.0.0 bai3.gushiwen.org
+0.0.0.0 baichuan-sdk.alicdn.com
 0.0.0.0 baichuan.baidu.com
 0.0.0.0 baidu-union-js.chuimg.com
 0.0.0.0 baidu-union-js.xiachufang.com
@@ -23371,6 +23373,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 image.sbs-ad.com
 0.0.0.0 image.smart-c.jp
 0.0.0.0 image.ttyouma.cn
+0.0.0.0 image.uczzd.cn
 0.0.0.0 image.upages.cn
 0.0.0.0 image.wzpuff.xyz
 0.0.0.0 image.yigao.com
@@ -26331,6 +26334,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 li.ziffimages.com
 0.0.0.0 li122.cn
 0.0.0.0 liadm.com
+0.0.0.0 lianmengapi.snssdk.com
 0.0.0.0 liapentruromania.ro
 0.0.0.0 lib.bmst.pw
 0.0.0.0 lib.coin-hive.com
@@ -31767,6 +31771,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nordiccountry.cz
 0.0.0.0 noredirecto.redirectme.net
 0.0.0.0 norespar.ru
+0.0.0.0 norma-external-collect.meizu.com
 0.0.0.0 normour.com
 0.0.0.0 nornelis.pw
 0.0.0.0 nortelcom.112.2o7.net
@@ -35590,6 +35595,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 px.qucaigg.com
 0.0.0.0 px.splittag.com
 0.0.0.0 px.steelhousemedia.com
+0.0.0.0 px.ucweb.com
 0.0.0.0 px.za.zaloapp.com
 0.0.0.0 px1.papoto.com
 0.0.0.0 px10.net
@@ -36481,6 +36487,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 resources.kiosked.com
 0.0.0.0 responsin.info
 0.0.0.0 ressp.net
+0.0.0.0 rest.irs01.com
 0.0.0.0 restaurantcom.tt.omtrdc.net
 0.0.0.0 restore-pc.com
 0.0.0.0 restoredchurchofgod.112.2o7.net
@@ -38988,6 +38995,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shopsneakers.pl
 0.0.0.0 shoptosaveenergy.com
 0.0.0.0 shore-view.com
+0.0.0.0 short-video.kakamobi.cn
 0.0.0.0 shorte.st
 0.0.0.0 shouji.360.cn
 0.0.0.0 shouji.sougou.com
@@ -39409,6 +39417,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 smaad.jp
 0.0.0.0 smaato.net
 0.0.0.0 smac-ssp.com
+0.0.0.0 smart-789.image.mucang.cn
+0.0.0.0 smart-789.kakamobi.cn
 0.0.0.0 smart-ad.sakura.ne.jp
 0.0.0.0 smart-c.jp
 0.0.0.0 smart-m-system.com
@@ -45071,6 +45081,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vidcpm.com
 0.0.0.0 videe.tv
 0.0.0.0 video-ad-stats.googlesyndication.com
+0.0.0.0 video-ad.sm.cn
 0.0.0.0 video-adserver.ibillboard.com
 0.0.0.0 video-bazis.com
 0.0.0.0 video-fa-b.cdn.spotify.com
