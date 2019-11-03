@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-01 07:01 UTC
+# Last updated: 2019-11-03 18:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -3693,6 +3693,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adb.fling.com
 0.0.0.0 adb.nikkei.co.jp
 0.0.0.0 adb.wp.pl
+0.0.0.0 adback.co
 0.0.0.0 adbana.adultcity.tv
 0.0.0.0 adbana.com
 0.0.0.0 adbanner.adxcore.com
@@ -8000,7 +8001,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allamericanmadetoys.com
 0.0.0.0 allanimehentai.com
 0.0.0.0 allaskme.com
-0.0.0.0 allbest-medicalbillingandcoding-deals.com
 0.0.0.0 allbestpantyhose.com
 0.0.0.0 allboys.buckshost.com
 0.0.0.0 allbritishescorts.com
@@ -10027,7 +10027,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 avitocars.ru
 0.0.0.0 aviva.112.2o7.net
 0.0.0.0 avixxx.com
-0.0.0.0 avkzarabotok.com
 0.0.0.0 avkzarabotok.info
 0.0.0.0 avn.innity.com
 0.0.0.0 avocet.io
@@ -16929,7 +16928,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 djfhwosjck.bi
 0.0.0.0 djfhwosjck.bid
 0.0.0.0 djsrp.com
-0.0.0.0 djtfkakbufpwot.com
 0.0.0.0 djugoogs.com
 0.0.0.0 djwnatural.go2cloud.org
 0.0.0.0 dk-gmtdmp.mookie1.com
@@ -25491,6 +25489,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kaiu-marketing.com
 0.0.0.0 kaizentraffic.com
 0.0.0.0 kajakiperkoz.pl
+0.0.0.0 kajakurier.com
 0.0.0.0 kakabrands.org
 0.0.0.0 kakkoii.razil.jp
 0.0.0.0 kalantzis.net
@@ -29881,6 +29880,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 milleniumpapelaria.com.br
 0.0.0.0 milleonid.com
 0.0.0.0 millionways.duckdns.org
+0.0.0.0 milotree.com
 0.0.0.0 milyondolar.com
 0.0.0.0 mimageads.googleadservices.com
 0.0.0.0 mimageads1.googleadservices.com
@@ -31145,6 +31145,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 napiujsag.hu
 0.0.0.0 naplo-extra.com
 0.0.0.0 napraw-laptopa.waw.pl
+0.0.0.0 naradxb.com
 0.0.0.0 narrow.azenergyforum.com
 0.0.0.0 narwhal.hitbox.com
 0.0.0.0 narzedzia-fb.blogspot.com
@@ -34995,6 +34996,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 prmtracking.com
 0.0.0.0 prnewswire.122.2o7.net
 0.0.0.0 pro-advertising.com
+0.0.0.0 pro-market.net
 0.0.0.0 pro-networks.us.intellitxt.com
 0.0.0.0 pro.baidu.com
 0.0.0.0 pro.clanweb.cz
@@ -35128,7 +35130,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 promote.caixin.com
 0.0.0.0 promote.knowchat.com
 0.0.0.0 promote.pair.com
-0.0.0.0 promotion-campaigns.com
 0.0.0.0 promotion.com-rewards.club
 0.0.0.0 promotion.gomlab.com
 0.0.0.0 promotion.partnercash.com
@@ -42920,6 +42921,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trace.m1905.cn
 0.0.0.0 trace.qq.com
 0.0.0.0 trace.rtbasia.com
+0.0.0.0 trace.svc.ui.com # End StevenBlack
 0.0.0.0 trace.ynet.com
 0.0.0.0 tracer.a-cast.jp
 0.0.0.0 tracer.jp
@@ -51547,6 +51549,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.kaitoupiao.com
 0.0.0.0 www.kajahdfssa.net
 0.0.0.0 www.kajakiperkoz.pl
+0.0.0.0 www.kajakurier.com
 0.0.0.0 www.kalantzis.net
 0.0.0.0 www.kalipasindra.online
 0.0.0.0 www.kampanyatakip.net
