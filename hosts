@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-03 18:01 UTC
+# Last updated: 2019-11-05 06:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -8141,6 +8141,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 amcglobal.sc.omtrdc.net
 0.0.0.0 amch.questionmarket.com
 0.0.0.0 amdc.m.taobao.com
+0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 amdvtest.112.2o7.net
 0.0.0.0 amdzone.us.intellitxt.com
 0.0.0.0 ameba.d.ad-cloud.jp
@@ -8763,6 +8764,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.adv.ott.cibntv.net
 0.0.0.0 api.adverster.com
 0.0.0.0 api.adx.adnxs.com
+0.0.0.0 api.adxpand.com
 0.0.0.0 api.ae888.com
 0.0.0.0 api.aeon.hashvault.pro
 0.0.0.0 api.affinesystems.com
@@ -8963,6 +8965,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.trackuity.com
 0.0.0.0 api.treasuredata.com
 0.0.0.0 api.triver.jp
+0.0.0.0 api.ts.feedback.71.am
 0.0.0.0 api.tuisong.baidu.com
 0.0.0.0 api.tumra.com
 0.0.0.0 api.tvpage.com
@@ -11324,6 +11327,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bkrntr.netmng.com
 0.0.0.0 bkrtx.com
 0.0.0.0 bksdkconfig.play.cp81.ott.cibntv.net
+0.0.0.0 bksoup.v.qq.com
 0.0.0.0 bl.b78y7.com
 0.0.0.0 bl.snzze.com
 0.0.0.0 bl.wavecdn.de
@@ -14428,7 +14432,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cmicapui.ce.gov.br
 0.0.0.0 cmm.xmfish.com
 0.0.0.0 cmn1lsm2.beliefnet.com
-0.0.0.0 cmonitor.iqiyi.com
 0.0.0.0 cmop.mgtv.com
 0.0.0.0 cmp.112.2o7.net
 0.0.0.0 cmp.us.intellitxt.com
@@ -16731,10 +16734,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 dex.advg.jp
 0.0.0.0 dexdexprod.112.2o7.net
 0.0.0.0 dexim.space
+0.0.0.0 df.mic.mob.com
 0.0.0.0 df.tanx.com
 0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 df.video-ak.cdn.spotify.com
 0.0.0.0 dfc1.benbaisteel.com
+0.0.0.0 dfe.mic.mob.com
 0.0.0.0 dff7tx5c2qbxc.cloudfront.net
 0.0.0.0 dfp.doubleclick.net
 0.0.0.0 dfp.suning.com
@@ -16971,7 +16976,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dl.provesoftware.review
 0.0.0.0 dl.sybspools.com
 0.0.0.0 dl.union.ijinshan.com
-0.0.0.0 dl.url.cn
 0.0.0.0 dl.uu.cc
 0.0.0.0 dl.wan.sogoucdn.com
 0.0.0.0 dl.xzqxzs.com
@@ -19327,6 +19331,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 f.fff.com.vn
 0.0.0.0 f.fj95560.com
 0.0.0.0 f.gj555.net
+0.0.0.0 f.gm.mob.com
 0.0.0.0 f.haoxinjaju.com
 0.0.0.0 f.hongm.com
 0.0.0.0 f.monetate.net
@@ -25959,6 +25964,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 l.fancyapi.com
 0.0.0.0 l.fastapi.net
 0.0.0.0 l.ftx.fancyapi.com
+0.0.0.0 l.gm.mob.com
 0.0.0.0 l.kavanga.ru
 0.0.0.0 l.linkpulse.com
 0.0.0.0 l.logly.co.jp
@@ -26481,6 +26487,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lishi.yxbao.com
 0.0.0.0 lishi1.yxbao.com
 0.0.0.0 list.ru
+0.0.0.0 list.z.qingting.fm
 0.0.0.0 listat.biz
 0.0.0.0 listennewsnetwork.com
 0.0.0.0 listlog.baofeng.net
@@ -26676,6 +26683,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.pladform.ru
 0.0.0.0 log.pv.eclick.vn
 0.0.0.0 log.pv1.eclick.vn
+0.0.0.0 log.qchannel03.cn
 0.0.0.0 log.quora.com
 0.0.0.0 log.rc.hunantv.com
 0.0.0.0 log.sdk.zadn.vn
@@ -29000,6 +29008,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mcdonaldscorporation.tt.omtrdc.net
 0.0.0.0 mcfg.sandai.net
 0.0.0.0 mcgi.play.cp81.ott.cibntv.net
+0.0.0.0 mcgi.v.qq.com
 0.0.0.0 mcgm.sakura.ne.jp
 0.0.0.0 mci12.clicksor.com
 0.0.0.0 mckinseyknowledge.122.2o7.net
@@ -39731,6 +39740,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sostats.mozilla.com
 0.0.0.0 sou.dkdlsj.com
 0.0.0.0 soundofhope.org
+0.0.0.0 soup.v.qq.com
 0.0.0.0 source.youxiaoad.com
 0.0.0.0 sourceforgemedia-computing.t.domdex.com
 0.0.0.0 sources.kpdir.cn
