@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-05 06:01 UTC
+# Last updated: 2019-11-05 11:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -3650,6 +3650,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad9.checkm8.com
 0.0.0.0 ad9.contentabc.com
 0.0.0.0 ad9.speedbit.com
+0.0.0.0 ad999.biz
 0.0.0.0 ad9digital.checkm8.com
 0.0.0.0 adaction.de
 0.0.0.0 adactiongapl.hit.gemius.pl
