@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-13 04:01 UTC
+# Last updated: 2019-11-13 05:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -8710,6 +8710,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api-tv-canary.wg.spotify.com
 0.0.0.0 api.11h5.com
 0.0.0.0 api.1beb2a44.space
+0.0.0.0 api.24kidea.com
 0.0.0.0 api.300ca0d0.space
 0.0.0.0 api.310ca263.space
 0.0.0.0 api.320ca3f6.space
@@ -21805,6 +21806,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gsp3.baidu.com
 0.0.0.0 gspro.adocean.pl
 0.0.0.0 gspro.hit.gemius.pl
+0.0.0.0 gss0.bdstatic.com
 0.0.0.0 gsspat.jp
 0.0.0.0 gsspcln.jp
 0.0.0.0 gssprt.jp
@@ -24299,6 +24301,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iopeninghours.co.uk
 0.0.0.0 ioredi.com
 0.0.0.0 ios.426g.com
+0.0.0.0 ios.bugly.qq.com
 0.0.0.0 iosipa.b0.upaiyun.com
 0.0.0.0 iosw.cc
 0.0.0.0 iotiot.cf
@@ -30840,6 +30843,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 my-cash-bot.co
 0.0.0.0 my-cdn.effectivemeasure.net
 0.0.0.0 my-diaryzone.juicyads.com
+0.0.0.0 my-material.zone1.meitudata.com
 0.0.0.0 my-pc-cleaner.org
 0.0.0.0 my-retrospace.sbhmn-miner.com
 0.0.0.0 my-reward-channel.com
@@ -44767,6 +44771,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 v2.cnzz.com
 0.0.0.0 v2.da.mgtv.com
 0.0.0.0 v2.fm.n.duokanbox.com
+0.0.0.0 v2.gdt.qq.com
 0.0.0.0 v2.hd.log.hunantv.com
 0.0.0.0 v2.hdd.log.hunantv.com
 0.0.0.0 v2.jiathis.com
@@ -56127,6 +56132,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xbs.pao.mtree.com #[TROJ_DYFUCA.X]
 0.0.0.0 xbs.sea.mtree.com #[MoneyTree Dialer]
 0.0.0.0 xc.08an.com
+0.0.0.0 xc.gdt.qq.com
 0.0.0.0 xc.macd.cn
 0.0.0.0 xc.mydrivers.com
 0.0.0.0 xcache.ad360.vn
