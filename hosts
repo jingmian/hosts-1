@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-05 11:01 UTC
+# Last updated: 2019-11-13 04:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -4144,6 +4144,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adlog.flurry.com
 0.0.0.0 adlog.molitv.cn
 0.0.0.0 adlog.spotify.com
+0.0.0.0 adlog.tagtic.cn
 0.0.0.0 adloox.com
 0.0.0.0 adlooxtracking.com
 0.0.0.0 adlove.jp
@@ -9169,6 +9170,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 appad.click
 0.0.0.0 appad02.mbsp.jp
 0.0.0.0 appandroider.com
+0.0.0.0 appapisdk.tanv.com
 0.0.0.0 apparel-offer.com
 0.0.0.0 apparelncs.com
 0.0.0.0 appc.baidu.com
@@ -9275,6 +9277,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 apps5.oingo.com
 0.0.0.0 apps9039.super-your-prize33.loan
 0.0.0.0 appscout.us.intellitxt.com
+0.0.0.0 appsdk.tanv.com
 0.0.0.0 appsdorado.com
 0.0.0.0 appsdt.com
 0.0.0.0 appsflyer.com
@@ -19271,6 +19274,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 external.monerise.com
 0.0.0.0 external.stealthedeal.com
 0.0.0.0 extinstalls.icu
+0.0.0.0 extlog.snssdk.com
 0.0.0.0 extmoney.i1608.com
 0.0.0.0 extntechnologies.us.intellitxt.com
 0.0.0.0 extra.eboundservices.com
@@ -20602,7 +20606,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 g.blogads.com
 0.0.0.0 g.chaishiguan.com
 0.0.0.0 g.cn.miaozhen.com
-0.0.0.0 g.csdnimg.cn
 0.0.0.0 g.d.yoyi.tv
 0.0.0.0 g.daman.cc
 0.0.0.0 g.domob.cn
@@ -23701,6 +23704,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 img1.pszyzxh.org
 0.0.0.0 img1.ru.redtram.com
 0.0.0.0 img1.sj.qq.com
+0.0.0.0 img1.tanv.com
 0.0.0.0 img1.zergnet.com
 0.0.0.0 img100-321.xvideos.com
 0.0.0.0 img2.126.net
@@ -23713,6 +23717,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 img2.qekun.com
 0.0.0.0 img2.ru.redtram.com
 0.0.0.0 img2.sankakustatic.com
+0.0.0.0 img2.tanv.com
 0.0.0.0 img2.zergnet.com
 0.0.0.0 img3.126.net
 0.0.0.0 img3.fy1g.com
@@ -40212,6 +40217,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sspi.adpopcorn.com
 0.0.0.0 sspintrafmsmt.com
 0.0.0.0 sspservice.ad-survey.com
+0.0.0.0 sss.bxnms.com
 0.0.0.0 sss.cnscdj.com
 0.0.0.0 sss.jusha.com
 0.0.0.0 sss.soarfi.cn
@@ -47494,6 +47500,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.2girls1finger.org
 0.0.0.0 www.2guys1stump.org
 0.0.0.0 www.2no.co
+0.0.0.0 www.2shouhc.com
 0.0.0.0 www.2sk9.com
 0.0.0.0 www.30-day-change.com
 0.0.0.0 www.3000-od-reki.pl
@@ -48720,6 +48727,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.baiduccdn1.com
 0.0.0.0 www.baiducdn.org
 0.0.0.0 www.baidujs.vip
+0.0.0.0 www.baidushifen.com
 0.0.0.0 www.baiduzhidahao.cc
 0.0.0.0 www.baifendian.com
 0.0.0.0 www.baigm.com
@@ -49681,6 +49689,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.danangluxury.com
 0.0.0.0 www.dance-alarm.de
 0.0.0.0 www.danpinwu.com
+0.0.0.0 www.danqingschool.com
 0.0.0.0 www.daoyoudao.com
 0.0.0.0 www.dark-forum.net
 0.0.0.0 www.darking03.tk
@@ -50704,6 +50713,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.gcwdq.com
 0.0.0.0 www.gdgy56.com
 0.0.0.0 www.gdlbdzkj.com
+0.0.0.0 www.gdtqq.cn
 0.0.0.0 www.geiyujieda.com
 0.0.0.0 www.gemius.pl
 0.0.0.0 www.gemverify.com
@@ -51348,6 +51358,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.irony.world
 0.0.0.0 www.irrrymucwxjl.ru
 0.0.0.0 www.is1.clixgalore.com
+0.0.0.0 www.iscrv.com
 0.0.0.0 www.isettatech.com
 0.0.0.0 www.isfilebest.com
 0.0.0.0 www.isitone.com
@@ -51437,6 +51448,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.jiongshiwu.com
 0.0.0.0 www.jisucn.com
 0.0.0.0 www.jiubuhua.com
+0.0.0.0 www.jiudianxing.cn
+0.0.0.0 www.jiudianxing.com
 0.0.0.0 www.jivox.com
 0.0.0.0 www.jiztini.com
 0.0.0.0 www.jizzads.com
@@ -51448,6 +51461,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.jmp2click.com
 0.0.0.0 www.jmxlaser.com
 0.0.0.0 www.jndczg.com
+0.0.0.0 www.jobduo.cn
 0.0.0.0 www.joincreditexpert.co.uk
 0.0.0.0 www.joinfree.ro
 0.0.0.0 www.joinourwebsite.com
@@ -51863,6 +51877,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.linkz.it
 0.0.0.0 www.liqwid.net
 0.0.0.0 www.listennewsnetwork.com
+0.0.0.0 www.liteapp.mobi
 0.0.0.0 www.litec-fr.com
 0.0.0.0 www.litra.com.mk
 0.0.0.0 www.little-help.com
@@ -52155,6 +52170,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.miegpokitjxm.com
 0.0.0.0 www.mientayweb.com
 0.0.0.0 www.mieszkania-pokoje-wynajem.pl
+0.0.0.0 www.migdtqq.com
 0.0.0.0 www.mightymagoo.com
 0.0.0.0 www.miidi.net
 0.0.0.0 www.mijifen.com
@@ -52776,6 +52792,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.over50datingservices.com
 0.0.0.0 www.overcreative.com
 0.0.0.0 www.overturechina.com
+0.0.0.0 www.owueis.com
 0.0.0.0 www.oxiads.fr
 0.0.0.0 www.oxwwoeukjispema.ru
 0.0.0.0 www.oz-offers.com
@@ -53785,6 +53802,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.simpli.fi
 0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sin.ero-advertising.com
+0.0.0.0 www.sinawap.com
 0.0.0.0 www.sinera.org
 0.0.0.0 www.singlesadnetwork.com
 0.0.0.0 www.singular-cy.com
@@ -53993,6 +54011,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.stamplive.com
 0.0.0.0 www.star-advertising.com
 0.0.0.0 www.star-life.pl
+0.0.0.0 www.star-media.cn
 0.0.0.0 www.starlife.eu
 0.0.0.0 www.starshipsanctuary.pl
 0.0.0.0 www.start-page.org
@@ -54195,6 +54214,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.tankhoi.vn
 0.0.0.0 www.tao123.com
 0.0.0.0 www.taobaobo5.com
+0.0.0.0 www.taojin1688.com
 0.0.0.0 www.taotaoju.info
 0.0.0.0 www.tapair.com
 0.0.0.0 www.tapxchange.com
@@ -54878,6 +54898,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.vuryua.ru
 0.0.0.0 www.vuysooqimdbt.com
 0.0.0.0 www.vvvic.com
+0.0.0.0 www.vxsnk.com
 0.0.0.0 www.vydoxtrial.com
 0.0.0.0 www.vzzexalcirfgrf.ru
 0.0.0.0 www.w.crypto-webminer.com
@@ -54898,6 +54919,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.wangdu.info
 0.0.0.0 www.wangketuan.com
 0.0.0.0 www.wannawatch.com
+0.0.0.0 www.wannianli.mobi
 0.0.0.0 www.wantsfly.com
 0.0.0.0 www.wap.mobiltek.pl
 0.0.0.0 www.wapster.malutki.pl
@@ -55025,6 +55047,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.wielkanagroda.com
 0.0.0.0 www.wielkaniespodzianka.pl
 0.0.0.0 www.wielkopolskie.refundacjeregionalne.pl
+0.0.0.0 www.wifidown.com
 0.0.0.0 www.wifijia.net
 0.0.0.0 www.wifiprotector.com
 0.0.0.0 www.wigetmedia.com
@@ -55055,6 +55078,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.wisebanc.com
 0.0.0.0 www.witnatura.pl
 0.0.0.0 www.witthethim.com
+0.0.0.0 www.wjxcdn.com
 0.0.0.0 www.wkkjfcgjofbix.ru
 0.0.0.0 www.wkmg.co.kr
 0.0.0.0 www.wks.ero-advertising.com
@@ -55311,6 +55335,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.xbox1emulator.org
 0.0.0.0 www.xbox360emulator.com
 0.0.0.0 www.xbzzzx.com
+0.0.0.0 www.xcggpt.cn
+0.0.0.0 www.xcggpt.com
+0.0.0.0 www.xcggpt.net
 0.0.0.0 www.xchangetrak.com
 0.0.0.0 www.xclicks.net
 0.0.0.0 www.xcr-286.com
@@ -55323,6 +55350,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.xiaohui2.cn
 0.0.0.0 www.xiaojinqipai.com
 0.0.0.0 www.xiazai.pdfexpert.cc
+0.0.0.0 www.xingchenjia.com
 0.0.0.0 www.xingxd.com
 0.0.0.0 www.xinhao29.com
 0.0.0.0 www.xiniuz.com
