@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-13 05:01 UTC
+# Last updated: 2019-11-14 13:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -13385,6 +13385,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.tanx.com
 0.0.0.0 cdn.tapstream.com
 0.0.0.0 cdn.targetfuel.com
+0.0.0.0 cdn.targetpush.co.kr
 0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn.teamskeetimages.com
 0.0.0.0 cdn.tianmidian.com
