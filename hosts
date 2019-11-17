@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-15 16:01 UTC
+# Last updated: 2019-11-17 12:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -3150,6 +3150,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.qingting.fm
 0.0.0.0 ad.qq.com
 0.0.0.0 ad.qun.qq.com
+0.0.0.0 ad.quwin.cn
 0.0.0.0 ad.qwapi.com
 0.0.0.0 ad.qyer.com
 0.0.0.0 ad.rambler.ru
@@ -8922,6 +8923,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.optnmnstr.com
 0.0.0.0 api.petametrics.com
 0.0.0.0 api.pingstart.com
+0.0.0.0 api.poll.aiseet.atianqi.com
 0.0.0.0 api.popads.net
 0.0.0.0 api.popcash.net
 0.0.0.0 api.popin.cc
@@ -8975,6 +8977,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.treasuredata.com
 0.0.0.0 api.triver.jp
 0.0.0.0 api.ts.feedback.71.am
+0.0.0.0 api.ts.feedback.qy.net
 0.0.0.0 api.tuisong.baidu.com
 0.0.0.0 api.tumra.com
 0.0.0.0 api.tvpage.com
@@ -10322,6 +10325,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 baidua1.cardbaobao.com
 0.0.0.0 baidua2.cardbaobao.com
 0.0.0.0 baiduccdn1.com
+0.0.0.0 baiducdncmn.inter.iqiyi.com
 0.0.0.0 baidut.github.io
 0.0.0.0 baidutv.baidu.com
 0.0.0.0 baiduyubaidu.com
@@ -22030,6 +22034,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 h21.ru
 0.0.0.0 h5.3ps03.cn
 0.0.0.0 h5.7vyou.com
+0.0.0.0 h5.analytics.126.net
 0.0.0.0 h5.holalauncher.com
 0.0.0.0 h5.jiumaster.com
 0.0.0.0 h5.mse.360.cn
@@ -30453,6 +30458,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 msga.ptqy.gitv.tv
 0.0.0.0 msgstore2.pldtprv.net
 0.0.0.0 msgtag.com #[Email tracker]
+0.0.0.0 msgv6.qy.net
 0.0.0.0 mshelp247.weebly.com
 0.0.0.0 mshow.fang.com
 0.0.0.0 msite.baidu.com
