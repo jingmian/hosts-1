@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-20 20:01 UTC
+# Last updated: 2019-11-21 20:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -36150,7 +36150,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 redirectingat.com #[SkimLinks]
 0.0.0.0 redirectlnk.redirectme.net
 0.0.0.0 redirectme.net
-0.0.0.0 redirector.gvt1.com
 0.0.0.0 redirects.coldhardcash.com
 0.0.0.0 redirects.ero-advertising.com
 0.0.0.0 redirectvoluum.com
