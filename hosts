@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-23 00:01 UTC
+# Last updated: 2019-11-23 05:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -52718,7 +52718,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.paycounter.com
 0.0.0.0 www.payn.me
 0.0.0.0 www.paypal-exchange.com
-0.0.0.0 www.paypalobjects.com
 0.0.0.0 www.payperclickadvertising.org.uk
 0.0.0.0 www.payperranking.com
 0.0.0.0 www.paypopup.com
