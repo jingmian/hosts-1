@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-21 20:01 UTC
+# Last updated: 2019-11-23 00:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -21680,6 +21680,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 googleadsserving.cn
 0.0.0.0 googleanalytcs.com
 0.0.0.0 googlecommerce.com
+0.0.0.0 googlehosted.l.googleusercontent.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
@@ -36150,6 +36151,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 redirectingat.com #[SkimLinks]
 0.0.0.0 redirectlnk.redirectme.net
 0.0.0.0 redirectme.net
+0.0.0.0 redirector.gvt1.com
 0.0.0.0 redirects.coldhardcash.com
 0.0.0.0 redirects.ero-advertising.com
 0.0.0.0 redirectvoluum.com
@@ -45925,6 +45927,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 webhosting.hut1.ru
 0.0.0.0 webiq005.webiqonline.com
 0.0.0.0 webkurchatov.ru
+0.0.0.0 weblb-wg.gslb.spotify.com
 0.0.0.0 weblink.settrade.com
 0.0.0.0 webload101.hitbox.com
 0.0.0.0 weblog.blogads.com
@@ -48480,6 +48483,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.audacity.fr
 0.0.0.0 www.audia6.com
 0.0.0.0 www.audio-book.net.pl
+0.0.0.0 www.audio2.spotify.com
 0.0.0.0 www.audmax.pl
 0.0.0.0 www.aureate.com
 0.0.0.0 www.auroramine.com
