@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-26 02:01 UTC
+# Last updated: 2019-11-26 06:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -2676,6 +2676,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.abum.com
 0.0.0.0 ad.accessmediaproductions.com
 0.0.0.0 ad.accesstrade.vn
+0.0.0.0 ad.aceplanet.co.kr
 0.0.0.0 ad.activesolutions.cz
 0.0.0.0 ad.ad-arata.com
 0.0.0.0 ad.ad-rider.com
@@ -3112,6 +3113,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.netgoo.com
 0.0.0.0 ad.netowl.jp
 0.0.0.0 ad.network60.com
+0.0.0.0 ad.newssense.co.kr
 0.0.0.0 ad.nicovideo.jp
 0.0.0.0 ad.nl.doubleclick.net
 0.0.0.0 ad.no.doubleclick.net
@@ -56588,6 +56590,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yotefiles.com
 0.0.0.0 yotube.com
 0.0.0.0 you-have-0ne-messsagehe0.top
+0.0.0.0 you.claremedia.co.kr
 0.0.0.0 you.tubetitties.com
 0.0.0.0 you.youerxinj.com
 0.0.0.0 youaresogay.com
