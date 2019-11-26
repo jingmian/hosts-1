@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-23 06:01 UTC
+# Last updated: 2019-11-26 02:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -8756,6 +8756,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api-tv-canary.wg.spotify.com
 0.0.0.0 api.11h5.com
 0.0.0.0 api.1beb2a44.space
+0.0.0.0 api.1q8h.cn
 0.0.0.0 api.24kidea.com
 0.0.0.0 api.300ca0d0.space
 0.0.0.0 api.310ca263.space
@@ -11810,6 +11811,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bs.5442.com
 0.0.0.0 bs.israelinfo.ru
 0.0.0.0 bs.l.qq.com
+0.0.0.0 bs.lamrd.cn
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bs.yandex.ru
 0.0.0.0 bs14.9669.cn
@@ -13691,6 +13693,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cf.ads.kontextua.com
 0.0.0.0 cf.cdn.inmobi.com
 0.0.0.0 cf.effectivemeasure.net
+0.0.0.0 cf.k053f0.cn
 0.0.0.0 cf.kampyle.com
 0.0.0.0 cf.smaad.net
 0.0.0.0 cf.video-ak.cdn.spotify.com
@@ -13749,6 +13752,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 chanclickao.fff.com.vn
 0.0.0.0 changan.bama555.com
 0.0.0.0 changduk26.com # Facebook trojan
+0.0.0.0 changmaoxinjzo.com
 0.0.0.0 chanicut.com
 0.0.0.0 channel.fanxing.kugou.com
 0.0.0.0 channel.togo666.com
@@ -17961,6 +17965,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e.gnfpzc.cn
 0.0.0.0 e.gomev.cn
 0.0.0.0 e.goodgz.cn
+0.0.0.0 e.gpzndq.cn
 0.0.0.0 e.gsycdb.com
 0.0.0.0 e.gtrve.cn
 0.0.0.0 e.gtuoj.com
@@ -18541,10 +18546,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 educing.info
 0.0.0.0 eduib.adnxs.com
 0.0.0.0 ee-in-f95.1.e100.net
+0.0.0.0 ee.2v0ni.cn
 0.0.0.0 ee.adocean.pl
 0.0.0.0 ee.connextra.com
 0.0.0.0 ee.hit.gemius.pl
 0.0.0.0 ee.video-ak.cdn.spotify.com
+0.0.0.0 ee.x0u4o.cn
 0.0.0.0 eecd179r3b.com
 0.0.0.0 eecky.butlerelectricsupply.com
 0.0.0.0 eed.ntjrh.com
@@ -25506,6 +25513,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 k.henanfs.com
 0.0.0.0 k.iinfo.cz
 0.0.0.0 k.intellitxt.com
+0.0.0.0 k.kksgl.top
 0.0.0.0 k.qzzxjc.com
 0.0.0.0 k.streamrail.com
 0.0.0.0 k.xmtsyg.com
@@ -27256,6 +27264,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.1sur6d.cn
 0.0.0.0 m.1x3td.cn
 0.0.0.0 m.1yjlm.com
+0.0.0.0 m.20mao.com
 0.0.0.0 m.247pb.cn
 0.0.0.0 m.24haitao.net
 0.0.0.0 m.24ihe.cn
@@ -27636,6 +27645,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.glvej.com
 0.0.0.0 m.gnfpzc.cn
 0.0.0.0 m.gomev.cn
+0.0.0.0 m.gpzndq.cn
 0.0.0.0 m.gtaih.com
 0.0.0.0 m.gtiou.com
 0.0.0.0 m.gtnde.com
@@ -28982,6 +28992,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 md.he9630.com
 0.0.0.0 md.m-space.jp
 0.0.0.0 md.sh5e.com
+0.0.0.0 md.tvzhe.com
 0.0.0.0 mdamarillo.112.2o7.net
 0.0.0.0 mdap.alipaylog.com
 0.0.0.0 mdc.meitustat.com
@@ -30747,6 +30758,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mvas.cityads.com
 0.0.0.0 mvip.zhuba8.com
 0.0.0.0 mvo.bd6t4.xyz
+0.0.0.0 mvo.g4rre.xyz
 0.0.0.0 mvo.nefcd.xyz
 0.0.0.0 mvo.nwffx.xyz
 0.0.0.0 mvo.ythbr.xyz
@@ -38963,6 +38975,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shzyjbr.wtdtjs.rocks
 0.0.0.0 si.2.cqcounter.com
 0.0.0.0 si.adocean.pl
+0.0.0.0 si.efwga.xyz
 0.0.0.0 si.hit.gemius.pl
 0.0.0.0 si.nuggad.net
 0.0.0.0 si.wemfbox.ch
@@ -41534,6 +41547,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 t.mdn2015x3.com
 0.0.0.0 t.medialytics.com
 0.0.0.0 t.mibet.com
+0.0.0.0 t.mofun.ltd
 0.0.0.0 t.mookie1.com
 0.0.0.0 t.mplxtms.com
 0.0.0.0 t.myvisualiq.net
@@ -55986,6 +56000,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 x.lzspf.com
 0.0.0.0 x.mochiads.com
 0.0.0.0 x.niuliyan.cn
+0.0.0.0 x.ojgoy.cn
 0.0.0.0 x.vamaker.com
 0.0.0.0 x.zeroredirect.com
 0.0.0.0 x.zhuyuanp.top
