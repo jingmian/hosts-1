@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-27 06:01 UTC
+# Last updated: 2019-11-27 07:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -3323,6 +3323,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.wowtv.co.kr
 0.0.0.0 ad.wretch.cc
 0.0.0.0 ad.wsod.com
+0.0.0.0 ad.wx.com
 0.0.0.0 ad.wynk.in
 0.0.0.0 ad.wz.cz
 0.0.0.0 ad.xc.netinsight.co.kr
@@ -6917,6 +6918,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservice.google.de
 0.0.0.0 adservice.google.nl
 0.0.0.0 adservice.google.se
+0.0.0.0 adserviceretry.kglink.cn
+0.0.0.0 adserviceretry.kugou.com
 0.0.0.0 adservices.google.com
 0.0.0.0 adservices.picadmedia.com
 0.0.0.0 adservicestats.com
@@ -11901,6 +11904,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 btn.onlylady.com
 0.0.0.0 btnativedirect.com
 0.0.0.0 btprmnav.com
+0.0.0.0 btrace.qq.com
 0.0.0.0 btrace.video.qq.com
 0.0.0.0 btstatic.com
 0.0.0.0 bttrack.com
@@ -19876,6 +19880,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fb.fff.com.vn
 0.0.0.0 fb.xk.miui.com
 0.0.0.0 fb88.com
+0.0.0.0 fbapi.guguread.com
 0.0.0.0 fbb.nbhotpo.com
 0.0.0.0 fbc.ffychb.com
 0.0.0.0 fbcolor.blogspot.com
@@ -25169,6 +25174,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jqueryscript.net
 0.0.0.0 jqwww.download
 0.0.0.0 jqxrrygqnagn.ru
+0.0.0.0 jrad.jd.com
 0.0.0.0 jrcdelcotimescom.122.2o7.net
 0.0.0.0 jrcom.112.2o7.net
 0.0.0.0 jrj.adsame.com
@@ -44308,7 +44314,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ulnawoyyzbljc.ru
 0.0.0.0 ulog.umengcloud.com
 0.0.0.0 ulogs.umeng.com
-0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 ulok.zutodu.cn
 0.0.0.0 ultimateclixx.com
 0.0.0.0 ultimatecounter.com
