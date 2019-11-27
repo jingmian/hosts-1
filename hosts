@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-26 08:01 UTC
+# Last updated: 2019-11-27 06:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -16908,6 +16908,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dex.advg.jp
 0.0.0.0 dexdexprod.112.2o7.net
 0.0.0.0 dexim.space
+0.0.0.0 dezf3o8j9jdt6.cloudfront.net
 0.0.0.0 df.mic.mob.com
 0.0.0.0 df.tanx.com
 0.0.0.0 df.telemetry.microsoft.com
@@ -28947,6 +28948,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 marketing.doubleclickindustries.com
 0.0.0.0 marketing.etouch.cn
 0.0.0.0 marketing.hearstmagazines.nl
+0.0.0.0 marketing.net.home24.de
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketing.osijek031.com
 0.0.0.0 marketingauto.e-learning.admicro.vn
