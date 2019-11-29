@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-27 07:01 UTC
+# Last updated: 2019-11-29 06:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -42682,6 +42682,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tlvmedia.com
 0.0.0.0 tlx.3lift.com
 0.0.0.0 tm.ad-srv.net
+0.0.0.0 tm.interworksmedia.co.kr
 0.0.0.0 tm.r-ad.ne.jp
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 tm1.hoiplay.com
