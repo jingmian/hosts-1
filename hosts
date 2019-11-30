@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-29 06:01 UTC
+# Last updated: 2019-11-30 15:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -10407,11 +10407,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 baidu.dsp.tansuotv.com
 0.0.0.0 baidu.greenxf.cn
 0.0.0.0 baidu.jz5u.net
+0.0.0.0 baidu.tlssyg.com
 0.0.0.0 baidu1.weather.com.cn
 0.0.0.0 baidua1.cardbaobao.com
 0.0.0.0 baidua2.cardbaobao.com
 0.0.0.0 baiduccdn1.com
 0.0.0.0 baiducdncmn.inter.iqiyi.com
+0.0.0.0 baiducom.bj.bcebos.com
 0.0.0.0 baidut.github.io
 0.0.0.0 baidutv.baidu.com
 0.0.0.0 baiduyubaidu.com
@@ -18627,6 +18629,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 eduib.adnxs.com
 0.0.0.0 ee-in-f95.1.e100.net
 0.0.0.0 ee.2v0ni.cn
+0.0.0.0 ee.32z8d.cn
+0.0.0.0 ee.57m1j.cn
+0.0.0.0 ee.57m1j.com
+0.0.0.0 ee.805zx.cn
 0.0.0.0 ee.adocean.pl
 0.0.0.0 ee.connextra.com
 0.0.0.0 ee.hit.gemius.pl
@@ -24888,6 +24894,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jbeet.cjt1.net
 0.0.0.0 jbflil.cn
 0.0.0.0 jbit.cjt1.net
+0.0.0.0 jc.0351dvd.cn
 0.0.0.0 jc.3amall.cn
 0.0.0.0 jc.4006825178.com
 0.0.0.0 jc.anhuilitian.net
@@ -26633,6 +26640,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lkjy.net
 0.0.0.0 lkme.cc
 0.0.0.0 lkqd.com
+0.0.0.0 lkxanf7ad6g.zgyryt.com
 0.0.0.0 ll.0395seo.cn
 0.0.0.0 ll.atdmt.com
 0.0.0.0 ll.gxsky.com
@@ -27408,6 +27416,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.34uvn.cn
 0.0.0.0 m.35rqb.cn
 0.0.0.0 m.3987.com
+0.0.0.0 m.3m49h.cn
 0.0.0.0 m.3r76q.cn
 0.0.0.0 m.3t48d.cn
 0.0.0.0 m.3tx8zr.cn
@@ -27430,6 +27439,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.53trya.cn
 0.0.0.0 m.53y8t.cn
 0.0.0.0 m.551144.com
+0.0.0.0 m.57m1j.cn
 0.0.0.0 m.598md.cn
 0.0.0.0 m.5d63b.cn
 0.0.0.0 m.5h9gdb.cn
@@ -27960,6 +27970,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.ly0p9e.cn
 0.0.0.0 m.lyjz001.com
 0.0.0.0 m.lzida.com
+0.0.0.0 m.m216j.cn
+0.0.0.0 m.m216j.com
 0.0.0.0 m.m72r.cn
 0.0.0.0 m.m88cvf.com
 0.0.0.0 m.m88my.com
@@ -28088,6 +28100,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.qulishi.com
 0.0.0.0 m.qusub.com
 0.0.0.0 m.r507p.cn
+0.0.0.0 m.r528e.cn
 0.0.0.0 m.rcaiu.com
 0.0.0.0 m.rdxhrd.com
 0.0.0.0 m.reachmax.cn
@@ -29899,6 +29912,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mhlnk.com
 0.0.0.0 mhradio.org
 0.0.0.0 mhuodong.elong.com
+0.0.0.0 mhwozc.cn
 0.0.0.0 mi-de-ner-nis3.info
 0.0.0.0 mi.5.p2l.info
 0.0.0.0 mi.adinterax.com
@@ -34069,6 +34083,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 photo.jbbath.cn
 0.0.0.0 photo.jiaxiyuan.cn
 0.0.0.0 photo.jingxiangyalvji.cn
+0.0.0.0 photo.krryh.cn
 0.0.0.0 photo.lyghjzs.cn
 0.0.0.0 photo.maimi88.cn
 0.0.0.0 photo.majiang188.cn
@@ -37184,6 +37199,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.17173cdn.com
 0.0.0.0 s.206ads.com
 0.0.0.0 s.206solutions.com
+0.0.0.0 s.23dsf.top
 0.0.0.0 s.35kds.com
 0.0.0.0 s.360.cn
 0.0.0.0 s.360.com
@@ -44446,6 +44462,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uolnetzeronet2.112.2o7.net
 0.0.0.0 uolphotosite.112.2o7.net
 0.0.0.0 uop.umeng.com
+0.0.0.0 up.clscsbcj.com
 0.0.0.0 up.cm.ksmobile.com
 0.0.0.0 up.mykings.pw
 0.0.0.0 up.nytimes.com #[WebBug][About.com]
@@ -44548,6 +44565,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 url.jiemengle.com
 0.0.0.0 url.ms
 0.0.0.0 url.tudown.com
+0.0.0.0 url.txt2019.cc
 0.0.0.0 urlcash.net
 0.0.0.0 urlcut.net
 0.0.0.0 urldata.net
@@ -53219,6 +53237,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.podgladfacebokaa.blogspot.com
 0.0.0.0 www.podologik.ca
 0.0.0.0 www.poesiadelsud.it
+0.0.0.0 www.poijugh.top
 0.0.0.0 www.pointclicktrack.com
 0.0.0.0 www.pointroll.com
 0.0.0.0 www.poke88.com
@@ -56843,6 +56862,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yihu.s06th.cn
 0.0.0.0 yihuifu.cn
 0.0.0.0 yijifen.com
+0.0.0.0 yijuxie.com
 0.0.0.0 yiliao.hupan.com
 0.0.0.0 yimingkennel.com
 0.0.0.0 ying.hitbox.com
@@ -57042,6 +57062,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z1.extreme-dm.com
 0.0.0.0 z1.zbet.com
 0.0.0.0 z1.zedo.com
+0.0.0.0 z1.zhishidu.com
 0.0.0.0 z10.cnzz.com
 0.0.0.0 z102v.com
 0.0.0.0 z11.cnzz.com
@@ -57053,6 +57074,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z2.lnymd.com
 0.0.0.0 z2.zbet.com
 0.0.0.0 z2.zedo.com
+0.0.0.0 z2.zhishidu.com
 0.0.0.0 z2jakqoshx.com
 0.0.0.0 z3.cnzz.com
 0.0.0.0 z3.zbet.com
