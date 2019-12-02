@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-11-30 15:01 UTC
+# Last updated: 2019-12-02 14:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -44444,6 +44444,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 unrulymedia.com
 0.0.0.0 unrummaged.com
 0.0.0.0 uns.soarfi.cn
+0.0.0.0 unse4u.com
 0.0.0.0 unstat.baidu.com
 0.0.0.0 untd.com
 0.0.0.0 unthem.com
