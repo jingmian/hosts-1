@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-02 20:01 UTC
+# Last updated: 2019-12-05 18:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -840,37 +840,37 @@ ff02::3 ip6-allhosts
 0.0.0.0 2017img.myxh999.com
 0.0.0.0 2017supremetokyo.com
 0.0.0.0 2018.qucaigg.com
-0.0.0.0 20191101.logic.cpm.cm.kankan.com
-0.0.0.0 20191102.logic.cpm.cm.kankan.com
-0.0.0.0 20191103.logic.cpm.cm.kankan.com
-0.0.0.0 20191104.logic.cpm.cm.kankan.com
-0.0.0.0 20191105.logic.cpm.cm.kankan.com
-0.0.0.0 20191106.logic.cpm.cm.kankan.com
-0.0.0.0 20191107.logic.cpm.cm.kankan.com
-0.0.0.0 20191108.logic.cpm.cm.kankan.com
-0.0.0.0 20191109.logic.cpm.cm.kankan.com
-0.0.0.0 20191110.logic.cpm.cm.kankan.com
-0.0.0.0 20191111.logic.cpm.cm.kankan.com
-0.0.0.0 20191112.logic.cpm.cm.kankan.com
-0.0.0.0 20191113.logic.cpm.cm.kankan.com
-0.0.0.0 20191114.logic.cpm.cm.kankan.com
-0.0.0.0 20191115.logic.cpm.cm.kankan.com
-0.0.0.0 20191116.logic.cpm.cm.kankan.com
-0.0.0.0 20191117.logic.cpm.cm.kankan.com
-0.0.0.0 20191118.logic.cpm.cm.kankan.com
-0.0.0.0 20191119.logic.cpm.cm.kankan.com
-0.0.0.0 20191120.logic.cpm.cm.kankan.com
-0.0.0.0 20191121.logic.cpm.cm.kankan.com
-0.0.0.0 20191122.logic.cpm.cm.kankan.com
-0.0.0.0 20191123.logic.cpm.cm.kankan.com
-0.0.0.0 20191124.logic.cpm.cm.kankan.com
-0.0.0.0 20191125.logic.cpm.cm.kankan.com
-0.0.0.0 20191126.logic.cpm.cm.kankan.com
-0.0.0.0 20191127.logic.cpm.cm.kankan.com
-0.0.0.0 20191128.logic.cpm.cm.kankan.com
-0.0.0.0 20191129.logic.cpm.cm.kankan.com
-0.0.0.0 20191130.logic.cpm.cm.kankan.com
-0.0.0.0 20191131.logic.cpm.cm.kankan.com
+0.0.0.0 20191201.logic.cpm.cm.kankan.com
+0.0.0.0 20191202.logic.cpm.cm.kankan.com
+0.0.0.0 20191203.logic.cpm.cm.kankan.com
+0.0.0.0 20191204.logic.cpm.cm.kankan.com
+0.0.0.0 20191205.logic.cpm.cm.kankan.com
+0.0.0.0 20191206.logic.cpm.cm.kankan.com
+0.0.0.0 20191207.logic.cpm.cm.kankan.com
+0.0.0.0 20191208.logic.cpm.cm.kankan.com
+0.0.0.0 20191209.logic.cpm.cm.kankan.com
+0.0.0.0 20191210.logic.cpm.cm.kankan.com
+0.0.0.0 20191211.logic.cpm.cm.kankan.com
+0.0.0.0 20191212.logic.cpm.cm.kankan.com
+0.0.0.0 20191213.logic.cpm.cm.kankan.com
+0.0.0.0 20191214.logic.cpm.cm.kankan.com
+0.0.0.0 20191215.logic.cpm.cm.kankan.com
+0.0.0.0 20191216.logic.cpm.cm.kankan.com
+0.0.0.0 20191217.logic.cpm.cm.kankan.com
+0.0.0.0 20191218.logic.cpm.cm.kankan.com
+0.0.0.0 20191219.logic.cpm.cm.kankan.com
+0.0.0.0 20191220.logic.cpm.cm.kankan.com
+0.0.0.0 20191221.logic.cpm.cm.kankan.com
+0.0.0.0 20191222.logic.cpm.cm.kankan.com
+0.0.0.0 20191223.logic.cpm.cm.kankan.com
+0.0.0.0 20191224.logic.cpm.cm.kankan.com
+0.0.0.0 20191225.logic.cpm.cm.kankan.com
+0.0.0.0 20191226.logic.cpm.cm.kankan.com
+0.0.0.0 20191227.logic.cpm.cm.kankan.com
+0.0.0.0 20191228.logic.cpm.cm.kankan.com
+0.0.0.0 20191229.logic.cpm.cm.kankan.com
+0.0.0.0 20191230.logic.cpm.cm.kankan.com
+0.0.0.0 20191231.logic.cpm.cm.kankan.com
 0.0.0.0 201mb.com
 0.0.0.0 2020iscoming.info
 0.0.0.0 202ch.com
@@ -11857,6 +11857,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 brxfinance.com
 0.0.0.0 bs-meta.yandex.ru
 0.0.0.0 bs.5442.com
+0.0.0.0 bs.csshq.com.cn
 0.0.0.0 bs.israelinfo.ru
 0.0.0.0 bs.l.qq.com
 0.0.0.0 bs.lamrd.cn
@@ -13082,6 +13083,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cd-ads.com
 0.0.0.0 cd.bendibao.com
 0.0.0.0 cd.freecontent.win
+0.0.0.0 cd.jejre.cn
 0.0.0.0 cd.ladsp.com
 0.0.0.0 cd.video-ak.cdn.spotify.com
 0.0.0.0 cd001.www.duba.net
@@ -18628,10 +18630,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 ee.32z8d.cn
 0.0.0.0 ee.57m1j.cn
 0.0.0.0 ee.57m1j.com
+0.0.0.0 ee.60w3s.cn
+0.0.0.0 ee.6x53p.cn
 0.0.0.0 ee.805zx.cn
+0.0.0.0 ee.8tk5d.cn
 0.0.0.0 ee.adocean.pl
 0.0.0.0 ee.connextra.com
+0.0.0.0 ee.hdboping.com
 0.0.0.0 ee.hit.gemius.pl
+0.0.0.0 ee.t3j6a.cn
 0.0.0.0 ee.video-ak.cdn.spotify.com
 0.0.0.0 ee.x0u4o.cn
 0.0.0.0 eecd179r3b.com
@@ -25795,6 +25802,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kign.biluzhang.cn
 0.0.0.0 kiks.yandex.ru
 0.0.0.0 kikuku.net
+0.0.0.0 kil.longkoupeanut.cn
 0.0.0.0 killerstartups.us.intellitxt.com
 0.0.0.0 killingtonchukka.pl
 0.0.0.0 kilomniadst.info
@@ -27479,6 +27487,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.8live.com
 0.0.0.0 m.8of9hd.cn
 0.0.0.0 m.8p30k.cn
+0.0.0.0 m.8tk5d.cn
+0.0.0.0 m.91heima.cn
 0.0.0.0 m.937920.com
 0.0.0.0 m.958so.cn
 0.0.0.0 m.95z3a.cn
@@ -27578,6 +27588,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.bjvvqu.cn
 0.0.0.0 m.bkuax.com
 0.0.0.0 m.blfyquz.cn
+0.0.0.0 m.bogubogu.cn
 0.0.0.0 m.bokanedu.net
 0.0.0.0 m.bong99.com
 0.0.0.0 m.breezily168.com
@@ -27598,6 +27609,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.cdn.mx1688.com.cn
 0.0.0.0 m.cdntlz.cn
 0.0.0.0 m.cdouj.com
+0.0.0.0 m.cdxtny.cn
 0.0.0.0 m.cenrs.com
 0.0.0.0 m.cepga.cn
 0.0.0.0 m.ceyiuy.com
@@ -27809,6 +27821,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.hchig.com
 0.0.0.0 m.hchik.com
 0.0.0.0 m.hdanc.com
+0.0.0.0 m.hdboping.com
 0.0.0.0 m.hdjy999.com
 0.0.0.0 m.hduic.com
 0.0.0.0 m.hellomingpian.com
@@ -27832,6 +27845,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.hpfjy.com
 0.0.0.0 m.hpzyl.com
 0.0.0.0 m.hrjjs.cn
+0.0.0.0 m.hua6.cn
 0.0.0.0 m.huanyuexpress.com
 0.0.0.0 m.hun3f.cn
 0.0.0.0 m.huyulh.com
@@ -28157,6 +28171,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.szmt11.cn
 0.0.0.0 m.szmt18.cn
 0.0.0.0 m.szqifu.com
+0.0.0.0 m.t3j6a.cn
 0.0.0.0 m.t528zl.cn
 0.0.0.0 m.t98rzq.cn
 0.0.0.0 m.tansuotv.com
@@ -28362,6 +28377,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.za5.net
 0.0.0.0 m.zabxb.com
 0.0.0.0 m.zaoss.com
+0.0.0.0 m.zbhbs.cn
 0.0.0.0 m.zbied.com
 0.0.0.0 m.zcand.com
 0.0.0.0 m.zcaod.com
@@ -30912,8 +30928,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 mvip.zhuba8.com
 0.0.0.0 mvo.bd6t4.xyz
 0.0.0.0 mvo.g4rre.xyz
+0.0.0.0 mvo.mftgyh.xyz
 0.0.0.0 mvo.nefcd.xyz
 0.0.0.0 mvo.nwffx.xyz
+0.0.0.0 mvo.sqa54e.xyz
 0.0.0.0 mvo.ythbr.xyz
 0.0.0.0 mvonline.com
 0.0.0.0 mvp.mediav.com
@@ -31354,6 +31372,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nbcuniversal.122.2o7.net
 0.0.0.0 nbcuniversaltv.us.intellitxt.com
 0.0.0.0 nbcustr.netmng.com
+0.0.0.0 nbgorv.cn
 0.0.0.0 nbimg.dt00.net
 0.0.0.0 nbiw12.me
 0.0.0.0 nbjmp.com
@@ -45538,6 +45557,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vpmc.122.2o7.net
 0.0.0.0 vpn-ash1-1.ash.spotify.com
 0.0.0.0 vpn-lon-001.lon.spotify.com
+0.0.0.0 vpn.baolq666.com
 0.0.0.0 vpnaffiliates.com
 0.0.0.0 vpon.com
 0.0.0.0 vpptv.admaster.com.cn
@@ -46346,6 +46366,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 weiwei-recipes-collection.juicyads.com
 0.0.0.0 weixin.renrenying.com
 0.0.0.0 weixin0452.com
+0.0.0.0 weizjzg.com
 0.0.0.0 welcome.faptitans.com
 0.0.0.0 welcome.j8inn1zektoe.com
 0.0.0.0 welcome.pussysaga.com
@@ -54864,6 +54885,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.u1trkqf.com
 0.0.0.0 www.u5i7k.cn
 0.0.0.0 www.ublock.org
+0.0.0.0 www.ucbaba.top
 0.0.0.0 www.ucchari.com
 0.0.0.0 www.uciservice.com
 0.0.0.0 www.ucsmqq.site
