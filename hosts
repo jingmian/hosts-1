@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-07 09:01 UTC
+# Last updated: 2019-12-07 16:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -27397,6 +27397,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.181mob.com
 0.0.0.0 m.183pu.cn
 0.0.0.0 m.1919388.net
+0.0.0.0 m.198nc.cn
 0.0.0.0 m.1i94f.cn
 0.0.0.0 m.1j5wc.cn
 0.0.0.0 m.1p04f.cn
@@ -30929,6 +30930,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mvip.zhuba8.com
 0.0.0.0 mvo.bd6t4.xyz
 0.0.0.0 mvo.g4rre.xyz
+0.0.0.0 mvo.lki6hy.xyz
 0.0.0.0 mvo.mftgyh.xyz
 0.0.0.0 mvo.nefcd.xyz
 0.0.0.0 mvo.nwffx.xyz
@@ -41725,6 +41727,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 t.arrows-hitech.com
 0.0.0.0 t.atdmt.com
 0.0.0.0 t.atpanel.com
+0.0.0.0 t.basictool.vip
 0.0.0.0 t.bbtrack.net
 0.0.0.0 t.beanstalkdata.com
 0.0.0.0 t.blogreaderproject.com #[WebBug]
@@ -41821,6 +41824,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 t.teads.tv
 0.0.0.0 t.tmdn2015x9.com
 0.0.0.0 t.trackedlink.net
+0.0.0.0 t.trackingxnads.com
 0.0.0.0 t.trafmag.com
 0.0.0.0 t.tttmedd.com
 0.0.0.0 t.tzcccm.com
