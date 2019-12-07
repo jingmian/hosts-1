@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-05 18:01 UTC
+# Last updated: 2019-12-07 09:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -21737,6 +21737,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 goawos.com
 0.0.0.0 gobba.myeffect.net
 0.0.0.0 gobettygo.com
+0.0.0.0 goblin.hupu.com
 0.0.0.0 gobusinessloan.com
 0.0.0.0 gobuy678.com
 0.0.0.0 gocarisoprodol.polybuild.ru
@@ -57055,7 +57056,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 yumekin.com
 0.0.0.0 yumenetworks.com
 0.0.0.0 yummymobile.pl
-0.0.0.0 yun-hl.3g.qq.com
 0.0.0.0 yun-static.soperson.com
 0.0.0.0 yun.lvehaisen.com
 0.0.0.0 yun.sifuhe.cn
