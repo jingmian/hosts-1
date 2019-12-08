@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-07 16:01 UTC
+# Last updated: 2019-12-08 04:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -10959,6 +10959,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bd1.idgdmgroup.com.cn
 0.0.0.0 bd1.nipic.com
 0.0.0.0 bd1.pipaw.com
+0.0.0.0 bd1.zuimeitianqi.com
 0.0.0.0 bd2.52che.com
 0.0.0.0 bd2.dopa.com
 0.0.0.0 bd2.flfgw.cn
@@ -10968,6 +10969,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bd2.jobui.com
 0.0.0.0 bd2.nipic.com
 0.0.0.0 bd2.pipaw.com
+0.0.0.0 bd2.zuimeitianqi.com
 0.0.0.0 bd3.chuiyue.com
 0.0.0.0 bd3.idgdmgroup.com.cn
 0.0.0.0 bd3.jobui.com
@@ -15883,6 +15885,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cs.shiporama.com
 0.0.0.0 cs.spotlessweb.com
 0.0.0.0 cs.twcczhu.com
+0.0.0.0 cs02-pps-drcn.dbankcdn.com
 0.0.0.0 cs1.adxpansion.com
 0.0.0.0 cs126.wpc.edgecastcdn.net
 0.0.0.0 cs126.wpc.teliasoneracdn.net
@@ -23125,6 +23128,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hv3.webstat.com
 0.0.0.0 hvd-store.com
 0.0.0.0 hvetdfqh.sufx.net
+0.0.0.0 hwad.zuimeitianqi.com
 0.0.0.0 hwt.player888.cn
 0.0.0.0 hwww.zweryfiikujdane.tk
 0.0.0.0 hx.hexun.com
@@ -41210,6 +41214,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 store.tv.api.3g.youku.com
 0.0.0.0 store.videojj.com
 0.0.0.0 store.xl.api.3g.youku.com
+0.0.0.0 store2.hispace.hicloud.com
+0.0.0.0 store3.hispace.hicloud.com
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 storeconfig.mistat.xiaomi.com
 0.0.0.0 storecor.net
@@ -41774,6 +41780,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 t.grtyb.com
 0.0.0.0 t.grtyi.com
 0.0.0.0 t.h5data.com
+0.0.0.0 t.hmwebs.top
 0.0.0.0 t.hrtyc.com
 0.0.0.0 t.huipinlou.com
 0.0.0.0 t.hypers.com.cn
@@ -44263,6 +44270,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 uc.csc.adserver.yahoo.com
 0.0.0.0 uc.haoyunyuan.cc
 0.0.0.0 uc.xiansuper.com
+0.0.0.0 uc2.hispace.hicloud.com
+0.0.0.0 uc3.hispace.hicloud.com
 0.0.0.0 uc9.ucweb.com
 0.0.0.0 ucan.25pp.com
 0.0.0.0 ucfunnel.com
