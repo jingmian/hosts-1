@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-08 04:01 UTC
+# Last updated: 2019-12-11 13:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -6454,7 +6454,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adscript.gmarket.co.kr
 0.0.0.0 adsdaq.com
 0.0.0.0 adsdk.9imobi.com
-0.0.0.0 adsdk.dmzj.com
 0.0.0.0 adse.ximalaya.com
 0.0.0.0 adsearch.adkontekst.pl
 0.0.0.0 adsearch.pl
@@ -39012,7 +39011,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sf.vserv.mobi
 0.0.0.0 sf01.fastapi.net
 0.0.0.0 sf1-ttcdn-tos.pstatp.com
-0.0.0.0 sf6-ttcdn-tos.pstatp.com
 0.0.0.0 sfads.osdn.com
 0.0.0.0 sfd.maizhenai.cn
 0.0.0.0 sfemble.pl
@@ -44658,6 +44656,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 us.j1.yimg.com
 0.0.0.0 us.k1.yimg.com
 0.0.0.0 us.kopuz.com
+0.0.0.0 us.l.qq.com
 0.0.0.0 us.l1.yimg.com
 0.0.0.0 us.m1.yimg.com
 0.0.0.0 us.moneroocean.stream
