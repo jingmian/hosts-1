@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-11 19:01 UTC
+# Last updated: 2019-12-13 08:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -13001,6 +13001,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.adpacks.com
 0.0.0.0 cdn.adpicker.net
 0.0.0.0 cdn.adplxmd.com
+0.0.0.0 cdn.adpushup.com
 0.0.0.0 cdn.adquantix.com
 0.0.0.0 cdn.adriver.ru
 0.0.0.0 cdn.adrtx.net
