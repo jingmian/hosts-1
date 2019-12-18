@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-15 06:01 UTC
+# Last updated: 2019-12-18 13:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -9933,6 +9933,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ayehcleaners.com
 0.0.0.0 ayerbo.xhost.ro
 0.0.0.0 ayhjj.top
+0.0.0.0 ayidaye.m.zwdu.com
 0.0.0.0 aynachatsrv.com
 0.0.0.0 ayyoy.com
 0.0.0.0 az.5.p2l.info
@@ -18130,13 +18131,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 ee.57m1j.cn
 0.0.0.0 ee.57m1j.com
 0.0.0.0 ee.60w3s.cn
+0.0.0.0 ee.6et8a.cn
+0.0.0.0 ee.6r7yc.cn
 0.0.0.0 ee.6x53p.cn
 0.0.0.0 ee.805zx.cn
+0.0.0.0 ee.8h3mc.cn
+0.0.0.0 ee.8t5xo.cn
 0.0.0.0 ee.8tk5d.cn
 0.0.0.0 ee.adocean.pl
 0.0.0.0 ee.connextra.com
 0.0.0.0 ee.hdboping.com
 0.0.0.0 ee.hit.gemius.pl
+0.0.0.0 ee.i36mf.cn
+0.0.0.0 ee.j5s9b.cn
 0.0.0.0 ee.t3j6a.cn
 0.0.0.0 ee.video-ak.cdn.spotify.com
 0.0.0.0 ee.x0u4o.cn
@@ -22531,6 +22538,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hz.miercn.com
 0.0.0.0 hz.mmstat.com
 0.0.0.0 hz1.lanmei80.com
+0.0.0.0 hzdaye.m.zwdu.com
 0.0.0.0 hzdmacore.kejet.net
 0.0.0.0 hzdoctor.com
 0.0.0.0 hzs1.cnzz.com
@@ -24620,6 +24628,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 js.lieqitianxia.cn
 0.0.0.0 js.livehelper.com
 0.0.0.0 js.lmggdka.cn
+0.0.0.0 js.lovexia.top
 0.0.0.0 js.lwnne.cn
 0.0.0.0 js.matheranalytics.com
 0.0.0.0 js.mbaidu.top
@@ -24919,6 +24928,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 k.domob.cn
 0.0.0.0 k.gsdhome.cn
 0.0.0.0 k.h.a.d.free.fr
+0.0.0.0 k.hbfls.vip
 0.0.0.0 k.hdjxmf.com
 0.0.0.0 k.henanfs.com
 0.0.0.0 k.iinfo.cz
@@ -25542,6 +25552,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ld.kuaigames.com
 0.0.0.0 ld.mediaget.com
 0.0.0.0 ld.selaiwang.cn
+0.0.0.0 ld.za9mnx.com
 0.0.0.0 ld1.criteo.com
 0.0.0.0 ld2.criteo.com
 0.0.0.0 ldglob01.adtech.de
@@ -26710,10 +26721,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.649649.com
 0.0.0.0 m.65r3g.cn
 0.0.0.0 m.69o1c.cn
+0.0.0.0 m.6et8a.cn
 0.0.0.0 m.6g53b.cn
 0.0.0.0 m.6gv4d.cn
 0.0.0.0 m.6i9th.cn
 0.0.0.0 m.6l1967.cn
+0.0.0.0 m.6r7yc.cn
 0.0.0.0 m.6w23i.cn
 0.0.0.0 m.6z1gf.cn
 0.0.0.0 m.7180443.com
@@ -26735,9 +26748,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.88viet.com
 0.0.0.0 m.89bia.cn
 0.0.0.0 m.8b7zja.cn
+0.0.0.0 m.8h3mc.cn
 0.0.0.0 m.8live.com
 0.0.0.0 m.8of9hd.cn
 0.0.0.0 m.8p30k.cn
+0.0.0.0 m.8t5xo.cn
 0.0.0.0 m.8tk5d.cn
 0.0.0.0 m.91heima.cn
 0.0.0.0 m.937920.com
@@ -27098,12 +27113,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.hua6.cn
 0.0.0.0 m.huanyuexpress.com
 0.0.0.0 m.hun3f.cn
+0.0.0.0 m.huoyiad1.cn
 0.0.0.0 m.huyulh.com
 0.0.0.0 m.hvjxf.cn
 0.0.0.0 m.hyzui.com
 0.0.0.0 m.hzuic.com
 0.0.0.0 m.hzuok.com
 0.0.0.0 m.i05h.cn
+0.0.0.0 m.i36mf.cn
 0.0.0.0 m.i810c.cn
 0.0.0.0 m.iangp.com
 0.0.0.0 m.iangs.com
@@ -27142,6 +27159,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.izaos.com
 0.0.0.0 m.izouo.com
 0.0.0.0 m.izuis.com
+0.0.0.0 m.j5s9b.cn
 0.0.0.0 m.jackaow.com
 0.0.0.0 m.jasmin.com
 0.0.0.0 m.jbanb.com
@@ -30523,6 +30541,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nd.5.p2l.info
 0.0.0.0 nd1.gamecopyworld.com
 0.0.0.0 nd11mx1-a-fixed.sancharnet.in
+0.0.0.0 ndapus.cn
 0.0.0.0 nddmcconmqsy.ru
 0.0.0.0 ndl1mc1-a-fixed.sancharnet.in
 0.0.0.0 ndl1mx1-a-fixed.sancharnet.in
@@ -34903,6 +34922,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qy080.vip
 0.0.0.0 qz.informs.com
 0.0.0.0 qzip.cjb.net
+0.0.0.0 qzxcvb.m.zwdu.com
 0.0.0.0 r.254a.com
 0.0.0.0 r.254a.comjs.moatads.com
 0.0.0.0 r.4at1.com
@@ -36282,6 +36302,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.wapadv.com
 0.0.0.0 s.webtrends.com
 0.0.0.0 s.wrating.com
+0.0.0.0 s.wxewm.site
 0.0.0.0 s.wxktv.cn
 0.0.0.0 s.x.cn.xtgreat.com
 0.0.0.0 s.xcfe.cn
@@ -38945,6 +38966,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssl-willhab.oewabox.at
 0.0.0.0 ssl-wko.oewabox.at
 0.0.0.0 ssl.51lhcx.com
+0.0.0.0 ssl.aszy.club
 0.0.0.0 ssl.bezpieczne-platnosci.pl
 0.0.0.0 ssl.bsriedu.cn
 0.0.0.0 ssl.clickbank.net
@@ -40762,6 +40784,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 td.xue63.com
 0.0.0.0 tdameritrade.tt.omtrdc.net
 0.0.0.0 tdc.advertorials.dk
+0.0.0.0 tdc.qq.com
 0.0.0.0 tdcv3.talkingdata.net
 0.0.0.0 tdethzebgufhuqt.cinci.rr.com
 0.0.0.0 tdkads.ads.dk
@@ -43073,6 +43096,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 unverf.com
 0.0.0.0 unwashedsound.com
 0.0.0.0 unwrittenspot.com
+0.0.0.0 uo.jstaogu.com
 0.0.0.0 uoaofgqu.angelcities.com
 0.0.0.0 uod2quk646.com
 0.0.0.0 uojamcse.angelcities.com
@@ -44115,6 +44139,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vpn-ash1-1.ash.spotify.com
 0.0.0.0 vpn-lon-001.lon.spotify.com
 0.0.0.0 vpn.baolq666.com
+0.0.0.0 vpn.tuodupingguomiao.com
 0.0.0.0 vpnaffiliates.com
 0.0.0.0 vpon.com
 0.0.0.0 vpptv.admaster.com.cn
@@ -45965,6 +45990,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.56711.com
 0.0.0.0 www.5675146.com
 0.0.0.0 www.569250063.cn
+0.0.0.0 www.56yk.com
 0.0.0.0 www.57.com.cn
 0.0.0.0 www.5758yy.com
 0.0.0.0 www.57799p.com
@@ -53047,6 +53073,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.xiaojinqipai.com
 0.0.0.0 www.xiazai.pdfexpert.cc
 0.0.0.0 www.xingchenjia.com
+0.0.0.0 www.xingtai0.com
 0.0.0.0 www.xingxd.com
 0.0.0.0 www.xinhao29.com
 0.0.0.0 www.xiniuz.com
