@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-19 05:01 UTC
+# Last updated: 2019-12-19 06:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -116,9 +116,13 @@ ff02::3 ip6-allhosts
 2610:a1:1018::4 dns.location
 2610:a1:1019::4 dns.location
 
-# Comodo Secure DNS – Free Public DNS IP address
+# Comodo Secure DNS – Enjoy a Safer, Smarter and Faster Internet!
+# Secure DNS public servers below will help you enjoy a safe, smart, and fast Internet experience.
 8.26.56.26 dns.location
 8.20.247.20 dns.location
+# Enhance that experience with customizable advanced protection, web-filtering, off-network protection and much.
+8.26.56.10 dns.location
+8.20.247.10 dns.location
 
 # Level 3 Communications – Free Public DNS IP address
 4.2.2.1 dns.location
