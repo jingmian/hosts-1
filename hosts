@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-19 04:01 UTC
+# Last updated: 2019-12-19 05:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -51,109 +51,102 @@ ff02::3 ip6-allhosts
 # End of custom host records.
 
 # Global Managed DNS – Cloudflare
-1.1.1.1 dns.lan
-1.0.0.1 dns.lan
-
-2606:4700:4700::1111 dns.lan
-2606:4700:4700::1001 dns.lan
+1.1.1.1 dns.location
+1.0.0.1 dns.location
+2606:4700:4700::1111 dns.location
+2606:4700:4700::1001 dns.location
 
 # Google Public DNS
-8.8.8.8 dns.lan
-8.8.4.4 dns.lan
-
-2001:4860:4860::8888 dns.lan
-2001:4860:4860::8844 dns.lan
+8.8.8.8 dns.location
+8.8.4.4 dns.location
+2001:4860:4860::8888 dns.location
+2001:4860:4860::8844 dns.location
 
 # Quad9 DNS server
-9.9.9.9 dns.lan
-149.112.112.112 dns.lan
-
-2620:fe::fe dns.lan
-2620:fe::9 dns.lan
+9.9.9.9 dns.location
+149.112.112.112 dns.location
+2620:fe::fe dns.location
+2620:fe::9 dns.location
 
 # OpenDNS
-208.67.222.222 dns.lan
-208.67.220.220 dns.lan
-
-2620:0:ccc::2 dns.lan
-2620:0:ccd::2 dns.lan
+208.67.222.222 dns.location
+208.67.220.220 dns.location
+2620:0:ccc::2 dns.location
+2620:0:ccd::2 dns.location
 
 # AdGuard DNS
-176.103.130.130 dns.lan
-176.103.130.131 dns.lan
-
-2a00:5a60::ad1:0ff dns.lan
-2a00:5a60::ad2:0ff dns.lan
-
-176.103.130.132 dns.lan
-176.103.130.134 dns.lan
-
-2a00:5a60::bad1:0ff dns.lan
-2a00:5a60::bad2:0ff dns.lan
+# Default
+176.103.130.130 dns.location
+176.103.130.131 dns.location
+2a00:5a60::ad1:0ff dns.location
+2a00:5a60::ad2:0ff dns.location
+# Family protection
+176.103.130.132 dns.location
+176.103.130.134 dns.location
+2a00:5a60::bad1:0ff dns.location
+2a00:5a60::bad2:0ff dns.location
 
 # SafeDNS – Cloud Based Web Filtering
-195.46.39.39 dns.lan
-195.46.39.40 dns.lan
+195.46.39.39 dns.location
+195.46.39.40 dns.location
 
-# UltraRecursive DNS – Public DNS
+# UltraRecursive DNS on the Global Anycast Network – Neustar
 # Reliability & Performance
 # For users that want reliable and fast DNS lookups without blocking any specific categories.
-156.154.70.1 dns.lan
-156.154.71.1 dns.lan
-2610:a1:1018::1 dns.lan
-2610:a1:1019::1 dns.lan
+156.154.70.1 dns.location
+156.154.71.1 dns.location
+2610:a1:1018::1 dns.location
+2610:a1:1019::1 dns.location
 # Threat Protection
 # For users who want protection against malicious domains for security purposes. Includes Reliability & Performance.
-156.154.70.2 dns.lan
-156.154.71.2 dns.lan
-2610:a1:1018::2 dns.lan
-2610:a1:1019::2 dns.lan
+156.154.70.2 dns.location
+156.154.71.2 dns.location
+2610:a1:1018::2 dns.location
+2610:a1:1019::2 dns.location
 # Family Secure
 # For families that want to ensure children don’t have access to mature content. Includes Reliability & Performance + Threat Protection.
-156.154.70.3 dns.lan
-156.154.71.3 dns.lan
-2610:a1:1018::3 dns.lan
-2610:a1:1019::3 dns.lan
+156.154.70.3 dns.location
+156.154.71.3 dns.location
+2610:a1:1018::3 dns.location
+2610:a1:1019::3 dns.location
 # Business Secure
 # For businesses that want to ensure employee productivity by blocking unwanted and time-wasting content. Includes Reliability & Performance + Threat Protection + Family Secure.
-156.154.70.4 dns.lan
-156.154.71.4 dns.lan
-2610:a1:1018::4 dns.lan
-2610:a1:1019::4 dns.lan
+156.154.70.4 dns.location
+156.154.71.4 dns.location
+2610:a1:1018::4 dns.location
+2610:a1:1019::4 dns.location
 
 # Comodo Secure DNS – Free Public DNS IP address
-8.26.56.26 dns.lan
-8.20.247.20 dns.lan
+8.26.56.26 dns.location
+8.20.247.20 dns.location
 
 # Level 3 Communications – Free Public DNS IP address
-4.2.2.1 dns.lan
-4.2.2.2 dns.lan
-4.2.2.3 dns.lan
-4.2.2.4 dns.lan
-4.2.2.5 dns.lan
-4.2.2.6 dns.lan
+4.2.2.1 dns.location
+4.2.2.2 dns.location
+4.2.2.3 dns.location
+4.2.2.4 dns.location
+4.2.2.5 dns.location
+4.2.2.6 dns.location
 
 # OneDNS
-117.50.11.11 dns.lan
-52.80.66.66 dns.lan
+117.50.11.11 dns.location
+52.80.66.66 dns.location
 
 # Hong Kong – Location: Yuen Long
-210.176.64.218 dns.lan
-210.176.64.219 dns.lan
+210.176.64.218 dns.location
+210.176.64.219 dns.location
 
 # Taiwan HiNet DNS server
-168.95.1.1 dns.lan
-168.95.192.1 dns.lan
-
-2001:b000:168::1 dns.lan
-2001:b000:168::2 dns.lan
+168.95.1.1 dns.location
+168.95.192.1 dns.location
+2001:b000:168::1 dns.location
+2001:b000:168::2 dns.location
 
 # Korea KT Corporation DNS server
-168.126.63.1 dns.lan
-168.126.63.2 dns.lan
-
-0:0:0:0:0:ffff:a87e:3f01 dns.lan
-0:0:0:0:0:ffff:a87e:3f02 dns.lan
+168.126.63.1 dns.location
+168.126.63.2 dns.location
+0:0:0:0:0:ffff:a87e:3f01 dns.location
+0:0:0:0:0:ffff:a87e:3f02 dns.location
 
 # Tag Management Solutions for Web and Mobile – Google Tag Manager
 # Web console
