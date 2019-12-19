@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-19 03:01 UTC
+# Last updated: 2019-12-19 04:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -50,7 +50,7 @@ ff02::3 ip6-allhosts
 
 # End of custom host records.
 
-# Global Managed DNS - Cloudflare
+# Global Managed DNS – Cloudflare
 1.1.1.1 dns.lan
 1.0.0.1 dns.lan
 
@@ -91,11 +91,54 @@ ff02::3 ip6-allhosts
 2a00:5a60::bad1:0ff dns.lan
 2a00:5a60::bad2:0ff dns.lan
 
+# SafeDNS – Cloud Based Web Filtering
+195.46.39.39 dns.lan
+195.46.39.40 dns.lan
+
+# UltraRecursive DNS – Public DNS
+# Reliability & Performance
+# For users that want reliable and fast DNS lookups without blocking any specific categories.
+156.154.70.1 dns.lan
+156.154.71.1 dns.lan
+2610:a1:1018::1 dns.lan
+2610:a1:1019::1 dns.lan
+# Threat Protection
+# For users who want protection against malicious domains for security purposes. Includes Reliability & Performance.
+156.154.70.2 dns.lan
+156.154.71.2 dns.lan
+2610:a1:1018::2 dns.lan
+2610:a1:1019::2 dns.lan
+# Family Secure
+# For families that want to ensure children don’t have access to mature content. Includes Reliability & Performance + Threat Protection.
+156.154.70.3 dns.lan
+156.154.71.3 dns.lan
+2610:a1:1018::3 dns.lan
+2610:a1:1019::3 dns.lan
+# Business Secure
+# For businesses that want to ensure employee productivity by blocking unwanted and time-wasting content. Includes Reliability & Performance + Threat Protection + Family Secure.
+156.154.70.4 dns.lan
+156.154.71.4 dns.lan
+2610:a1:1018::4 dns.lan
+2610:a1:1019::4 dns.lan
+
+# Comodo Secure DNS – Free Public DNS IP address
+8.26.56.26 dns.lan
+8.20.247.20 dns.lan
+
+# Level 3 Communications – Free Public DNS IP address
+4.2.2.1 dns.lan
+4.2.2.2 dns.lan
+4.2.2.3 dns.lan
+4.2.2.4 dns.lan
+4.2.2.5 dns.lan
+4.2.2.6 dns.lan
+
 # OneDNS
 117.50.11.11 dns.lan
 52.80.66.66 dns.lan
 
-# Hong Kong - Location: Yuen Long
+# Hong Kong – Location: Yuen Long
+210.176.64.218 dns.lan
 210.176.64.219 dns.lan
 
 # Taiwan HiNet DNS server
@@ -112,7 +155,7 @@ ff02::3 ip6-allhosts
 0:0:0:0:0:ffff:a87e:3f01 dns.lan
 0:0:0:0:0:ffff:a87e:3f02 dns.lan
 
-# Tag Management Solutions for Web and Mobile - Google Tag Manager
+# Tag Management Solutions for Web and Mobile – Google Tag Manager
 # Web console
 # 0.0.0.0 analytics.google.com
 # Client browser
