@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-20 05:01 UTC
+# Last updated: 2019-12-20 08:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -135,6 +135,19 @@ ff02::3 ip6-allhosts
 # OneDNS
 117.50.11.11 dns.location
 52.80.66.66 dns.location
+
+# Ali DNS
+223.5.5.5 dns.location
+223.6.6.6 dns.location
+2400:3200::1 dns.location
+2400:3200:baba::1 dns.location
+
+# Baidu DNS
+180.76.76.76 dns.location
+2400:da00::6666 dns.location
+
+# DNSPod Public DNS+
+119.29.29.29 dns.location
 
 # Hong Kong – Location: Yuen Long
 210.176.64.218 dns.location
