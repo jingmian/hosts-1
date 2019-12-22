@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-21 05:01 UTC
+# Last updated: 2019-12-22 02:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -1359,6 +1359,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 6.adsco.re
 0.0.0.0 6.hidemyass.com
 0.0.0.0 6.mamaswishes.com
+0.0.0.0 6.spacepur.de
 0.0.0.0 60.adsina.allyes.com
 0.0.0.0 6000518.com
 0.0.0.0 600co.info
@@ -3361,6 +3362,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad4mat.com
 0.0.0.0 ad4mat.de
 0.0.0.0 ad4mat.net
+0.0.0.0 ad4max.com
 0.0.0.0 ad4partners.com
 0.0.0.0 ad5.adspaces.ero-advertising.com
 0.0.0.0 ad5.bannerbank.ru
@@ -3472,6 +3474,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adbiz2.co.kr
 0.0.0.0 adbiz3.co.kr
 0.0.0.0 adblade.com
+0.0.0.0 adblade.org
 0.0.0.0 adblock-listefr.com
 0.0.0.0 adblock.fr
 0.0.0.0 adblockanalytics.com
@@ -13424,7 +13427,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 clipbongda.info
 0.0.0.0 clips.coolerads.com
 0.0.0.0 clipserv.adclip.com
-0.0.0.0 cliqz.com
 0.0.0.0 clit.sextracker.com
 0.0.0.0 clit1.sextracker.com #[Tracking.Cookie]
 0.0.0.0 clit10.sextracker.com
@@ -19464,7 +19466,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fxstyle.net
 0.0.0.0 fxyc0dwa.com
 0.0.0.0 fyal.e9emh.cn
-0.0.0.0 fyber.com
 0.0.0.0 fych.uranus.sogou.com
 0.0.0.0 fynskemedieradmin.adservinginternational.com
 0.0.0.0 fyq.wlgszt.com
@@ -19967,6 +19968,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 geopolice.com
 0.0.0.0 georgewbush.112.2o7.net
 0.0.0.0 georgewbushcom.112.2o7.net
+0.0.0.0 georiot.com
 0.0.0.0 geoservice.curse.com
 0.0.0.0 geosign.112.2o7.net
 0.0.0.0 geovisite.com
@@ -30718,7 +30720,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 offer-mediaservices.download
 0.0.0.0 offer.alibaba.com
 0.0.0.0 offer.camp
+0.0.0.0 offer.fyber.com
 0.0.0.0 offer.mediaz.vn
+0.0.0.0 offer.sponsorpay.com
 0.0.0.0 offerfactory.click
 0.0.0.0 offerforge.com
 0.0.0.0 offermatica.com
