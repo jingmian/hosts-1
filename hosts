@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-22 02:01 UTC
+# Last updated: 2019-12-23 00:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -17339,6 +17339,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ecmc.bdimg.com
 0.0.0.0 eco-flow.pl
 0.0.0.0 eco-tag.jp
+0.0.0.0 eco.myt7th.xyz
 0.0.0.0 ecoencomputer.com
 0.0.0.0 ecoflow.pl
 0.0.0.0 ecomadserver.com
@@ -17402,6 +17403,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 educationmanagementl.tt.omtrdc.net
 0.0.0.0 educationmanagementllc.112.2o7.net
 0.0.0.0 educing.info
+0.0.0.0 ee.1s8pj.cn
 0.0.0.0 ee.2v0ni.cn
 0.0.0.0 ee.32z8d.cn
 0.0.0.0 ee.57m1j.cn
@@ -17412,8 +17414,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 ee.6x53p.cn
 0.0.0.0 ee.805zx.cn
 0.0.0.0 ee.8h3mc.cn
+0.0.0.0 ee.8i1xc.cn
 0.0.0.0 ee.8t5xo.cn
 0.0.0.0 ee.8tk5d.cn
+0.0.0.0 ee.9e6zb.cn
 0.0.0.0 ee.adocean.pl
 0.0.0.0 ee.connextra.com
 0.0.0.0 ee.hdboping.com
@@ -25675,6 +25679,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.1q89b.cn
 0.0.0.0 m.1qp9k.cn
 0.0.0.0 m.1r8th.cn
+0.0.0.0 m.1s8pj.cn
 0.0.0.0 m.1sur6d.cn
 0.0.0.0 m.1x3td.cn
 0.0.0.0 m.1yjlm.com
@@ -25760,6 +25765,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.89bia.cn
 0.0.0.0 m.8b7zja.cn
 0.0.0.0 m.8h3mc.cn
+0.0.0.0 m.8i1xc.cn
 0.0.0.0 m.8live.com
 0.0.0.0 m.8of9hd.cn
 0.0.0.0 m.8p30k.cn
@@ -25775,6 +25781,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.97tuk.cn
 0.0.0.0 m.980he.cn
 0.0.0.0 m.98tpof.cn
+0.0.0.0 m.9e6zb.cn
 0.0.0.0 m.9n3ig.cn
 0.0.0.0 m.9r48f.cn
 0.0.0.0 m.9xws7p.cn
@@ -26262,6 +26269,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.lzida.com
 0.0.0.0 m.m216j.cn
 0.0.0.0 m.m216j.com
+0.0.0.0 m.m5z3e.cn
 0.0.0.0 m.m72r.cn
 0.0.0.0 m.m88cvf.com
 0.0.0.0 m.m88my.com
@@ -29073,6 +29081,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mvo.g4rre.xyz
 0.0.0.0 mvo.lki6hy.xyz
 0.0.0.0 mvo.mftgyh.xyz
+0.0.0.0 mvo.myt7th.xyz
 0.0.0.0 mvo.nefcd.xyz
 0.0.0.0 mvo.nwffx.xyz
 0.0.0.0 mvo.sqa54e.xyz
@@ -35204,6 +35213,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.x.cn.xtgreat.com
 0.0.0.0 s.xcfe.cn
 0.0.0.0 s.xhsxgmt.cn
+0.0.0.0 s.xiang7.vip
 0.0.0.0 s.xinghao89.com
 0.0.0.0 s.xmcmn.com
 0.0.0.0 s.xodyw.com
@@ -42913,6 +42923,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vpmc.122.2o7.net
 0.0.0.0 vpn.baolq666.com
 0.0.0.0 vpn.tuodupingguomiao.com
+0.0.0.0 vpn.yike0515.com
 0.0.0.0 vpnaffiliates.com
 0.0.0.0 vpon.com
 0.0.0.0 vpptv.admaster.com.cn
@@ -47848,6 +47859,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.helloworld.ddnsking.com
 0.0.0.0 www.helltraffic.com
 0.0.0.0 www.helpmedownload.com
+0.0.0.0 www.hengshui1.com
 0.0.0.0 www.hentaidatabase.com
 0.0.0.0 www.herbalife.pl
 0.0.0.0 www.herbeauty.co
@@ -52725,6 +52737,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--adspace-kvg.ero-advertising.com
 0.0.0.0 xn--discrd-zxa.com
 0.0.0.0 xn--disordapp-s3a.com
+0.0.0.0 xn--fjqz50cv5q3so.ltd
 0.0.0.0 xn--lt-68s.com
 0.0.0.0 xn--minecrft-5za.com
 0.0.0.0 xn--oogle-wmc.com
@@ -52732,6 +52745,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--poyczaj-xwb.online.pl
 0.0.0.0 xn--srahah-bua.eu
 0.0.0.0 xn--srahah-bua.pl
+0.0.0.0 xn--wxtr9fwyxk9c.top
 0.0.0.0 xn--yotu-1ra.be
 0.0.0.0 xn--zuzy24d.co
 0.0.0.0 xndjh.hebiz.cn
