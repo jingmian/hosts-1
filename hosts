@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-23 00:01 UTC
+# Last updated: 2019-12-23 03:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -327,6 +327,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adwords.google.com
 0.0.0.0 analysis.7055.net
 0.0.0.0 api.cupid.ptqy.gitv.tv
+0.0.0.0 api.itzjj.com
 0.0.0.0 api.speedpan.com
 0.0.0.0 api.video.yahoo.com
 0.0.0.0 b.md51.cn
