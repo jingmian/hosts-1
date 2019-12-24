@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-24 02:01 UTC
+# Last updated: 2019-12-24 08:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -6519,6 +6519,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservice.google.com.mt
 0.0.0.0 adservice.google.com.vn
 0.0.0.0 adservice.google.nl
+0.0.0.0 adservice.sigmob.cn
 0.0.0.0 adserviceretry.kglink.cn
 0.0.0.0 adserviceretry.kugou.com
 0.0.0.0 adservices.google.com
@@ -22484,6 +22485,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 img01.taotaosou.cn
 0.0.0.0 img1.126.net
 0.0.0.0 img1.18183.com
+0.0.0.0 img1.360buyimg.com
 0.0.0.0 img1.g.pptv.com
 0.0.0.0 img1.km.com
 0.0.0.0 img1.mini.cache.wps.cn
