@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-29 10:00 UTC
+# Last updated: 2019-12-30 06:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -2563,6 +2563,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.beritasatumedia.com
 0.0.0.0 ad.bg.doubleclick.net
 0.0.0.0 ad.birdmedia.com
+0.0.0.0 ad.bitmedia.io
 0.0.0.0 ad.bizo.com
 0.0.0.0 ad.bloggerads.net
 0.0.0.0 ad.bnmla.com
@@ -4463,7 +4464,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.banner.t-online.de
 0.0.0.0 ads.baodatviet.vn
 0.0.0.0 ads.barnonedrinks.com
-0.0.0.0 ads.batpmturner.com
 0.0.0.0 ads.battle.net
 0.0.0.0 ads.bauerpublishing.com
 0.0.0.0 ads.baventures.com
@@ -7265,6 +7265,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 affiliates.thrixxx.com
 0.0.0.0 affiliates.ultrahosting.com
 0.0.0.0 affiliates.upforitnetworks.com
+0.0.0.0 affiliates.vietbet.eu
 0.0.0.0 affiliates.yourapprovaltracker.com
 0.0.0.0 affiliatetracking.com
 0.0.0.0 affiliatetracking.net
@@ -9148,6 +9149,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 assets.popmarker.com
 0.0.0.0 assets.servedby-buysellads.com
 0.0.0.0 assets.tapad.com
+0.0.0.0 assets.vietbet.eu
 0.0.0.0 assets1.adroll.com
 0.0.0.0 assets1.exgfnetwork.com
 0.0.0.0 assets3.admulti.com
@@ -10458,6 +10460,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bid.openx.net
 0.0.0.0 bid.pubmatic.com
 0.0.0.0 bid.socdm.com
+0.0.0.0 bid.underdog.media
 0.0.0.0 bidclix.com
 0.0.0.0 bidclix.net
 0.0.0.0 bidder.criteo.com
@@ -10798,6 +10801,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bonswiateczny.24.eu
 0.0.0.0 bontril.1.p2l.info
 0.0.0.0 bontril.ourtablets.com
+0.0.0.0 bonus.vietbet.eu
 0.0.0.0 bonuscashh.com
 0.0.0.0 bonzbuddy.com
 0.0.0.0 bonzibuddi.com
@@ -12057,6 +12061,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cashengines.com
 0.0.0.0 cashfiesta.com
 0.0.0.0 cashflowmarketing.com
+0.0.0.0 cashier.vietbet.eu
 0.0.0.0 cashpartner.com
 0.0.0.0 cashreportz.com
 0.0.0.0 casino-gambling-online.searchservice.info
@@ -16209,6 +16214,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 doublemax.net
 0.0.0.0 doublepimp.com
 0.0.0.0 doublepimpads.com
+0.0.0.0 doublepimpads.com # End StevenBlack
 0.0.0.0 doubleviking.us.intellitxt.com
 0.0.0.0 doublewww.x.net
 0.0.0.0 doublex.net
@@ -16285,6 +16291,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 download.televisionfanatic.com
 0.0.0.0 download.torchbrowser.com
 0.0.0.0 download.ttrili.com
+0.0.0.0 download.vietbet.eu
 0.0.0.0 download.wan.sohu.com
 0.0.0.0 download.weatherblink.com
 0.0.0.0 download.wholestuff.win
@@ -18153,7 +18160,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 exch.quantserve.com
 0.0.0.0 exchange-it.com
 0.0.0.0 exchange.adswizz.com
-0.0.0.0 exchange.bg
 0.0.0.0 exchange.face2trade.com
 0.0.0.0 exchange.ipdx.cn.miaozhen.com
 0.0.0.0 exchange.nativeads.com
@@ -18738,7 +18744,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fevitum.pl
 0.0.0.0 fexclick.baidu.com
 0.0.0.0 fexfcyn.cn
-0.0.0.0 feynmanhopeful.eu
 0.0.0.0 ff.connextra.com
 0.0.0.0 ff.xue63.com
 0.0.0.0 ff123.hao0202.com
@@ -19724,7 +19729,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 gate.technopolis.kirov.ru
 0.0.0.0 gatehousemedia.122.2o7.net
 0.0.0.0 gateway.122.2o7.net
+0.0.0.0 gateway.jbovn.com
 0.0.0.0 gatewaymedia-d.openx.net
+0.0.0.0 gatewayvn.jbovn.com
 0.0.0.0 gather.us.intellitxt.com
 0.0.0.0 gator.com
 0.0.0.0 gatr.hit.gemius.pl
@@ -20790,6 +20797,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 h-afnetwww.adshuffle.com
+0.0.0.0 h-bid.com
 0.0.0.0 h-sdk.online-metrix.net
 0.0.0.0 h-villamotel.com
 0.0.0.0 h.accesstrade.net
@@ -22838,6 +22846,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ininmacerad.pro
 0.0.0.0 init.phpwind.com
 0.0.0.0 init.phpwind.net
+0.0.0.0 init.polskapaczka24.net
 0.0.0.0 init.startappexchange.com
 0.0.0.0 init.startappservice.com
 0.0.0.0 init.supersonicads.com
@@ -23412,6 +23421,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jbeet.cjt1.net
 0.0.0.0 jbflil.cn
 0.0.0.0 jbit.cjt1.net
+0.0.0.0 jbovn.com
 0.0.0.0 jc.0351dvd.cn
 0.0.0.0 jc.3amall.cn
 0.0.0.0 jc.4006825178.com
@@ -24720,6 +24730,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lbb.undisdlls.com
 0.0.0.0 lbn.ru
 0.0.0.0 lbstatic-a.akamaihd.net
+0.0.0.0 lbultra.vietbet.eu
 0.0.0.0 lc.jiathis.com
 0.0.0.0 lc.livefyre.com
 0.0.0.0 lc090.com
@@ -24957,6 +24968,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lin31.metriweb.be
 0.0.0.0 linconpark.com
 0.0.0.0 line.beike188.com
+0.0.0.0 lines.vietbet.eu
 0.0.0.0 lingintirejohny.club
 0.0.0.0 linglong.supersuer.com
 0.0.0.0 link-a.net
@@ -27252,7 +27264,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 marketingauto.e-learning.admicro.vn
 0.0.0.0 marketingenhanced.com
 0.0.0.0 marketingking.co.kr
-0.0.0.0 marketingplatform.google.com # End StevenBlack
+0.0.0.0 marketingplatform.google.com
 0.0.0.0 marketingsolutions.yahoo.com
 0.0.0.0 marketlive.122.2o7.net
 0.0.0.0 marketo.com
@@ -28573,12 +28585,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobi.adsage.com
 0.0.0.0 mobi.luxad.kr
 0.0.0.0 mobi.luxad.net
+0.0.0.0 mobi.vietbet.eu
 0.0.0.0 mobiapp-games.com
 0.0.0.0 mobicpi.com
 0.0.0.0 mobila.pl
 0.0.0.0 mobile-android.lfstmedia.com
 0.0.0.0 mobile-antivirus.club
 0.0.0.0 mobile-browser.me
+0.0.0.0 mobile-check.vietbet.eu
 0.0.0.0 mobile-redirection.com
 0.0.0.0 mobile-service.segment.com
 0.0.0.0 mobile.2200120.com
@@ -30952,6 +30966,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 one88.com
 0.0.0.0 one88.fun
 0.0.0.0 one88.us
+0.0.0.0 one88.vn
 0.0.0.0 oneandonlynetwork.com
 0.0.0.0 onedrive.su
 0.0.0.0 onef.cf
@@ -32734,6 +32749,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 polsatboxingnight-transmisjahd.ujm.pl
 0.0.0.0 polska-gazeta-dnia.pl
 0.0.0.0 polska-tv.pl
+0.0.0.0 polskapaczka24.net
 0.0.0.0 polskasupermarkecie.website
 0.0.0.0 polski-poranek-pl.com
 0.0.0.0 polski-poranek.pl
@@ -32744,6 +32760,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 polyad.galaxypub.vn
 0.0.0.0 polyad.net
 0.0.0.0 polymorphicads.jp
+0.0.0.0 pomoc.kylos.pl
 0.0.0.0 pomocnapozyczka.pro
 0.0.0.0 pon.ewtuyytdf45.com
 0.0.0.0 pong.fccay.cn
@@ -32830,6 +32847,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 popups.ad-logics.com
 0.0.0.0 popups.afftrack001.com
 0.0.0.0 popups.infostart.com
+0.0.0.0 popups.vietbet.eu
 0.0.0.0 popuptraf.ru
 0.0.0.0 popuptraffic.com
 0.0.0.0 pork.2tumeng.com
@@ -36225,6 +36243,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 secure.medleyads.com
 0.0.0.0 secure.netscope.marktest.pt
 0.0.0.0 secure.nicemilfass.com
+0.0.0.0 secure.polskapaczka24.net
 0.0.0.0 secure.quantserve.com
 0.0.0.0 secure.statcounter.com
 0.0.0.0 secure.sweetasianjuice.com
@@ -37201,6 +37220,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 smartads.mobile.yahoo.co.jp
 0.0.0.0 smartadserver.com
 0.0.0.0 smartcanvas.net
+0.0.0.0 smartcare.xja.pl
 0.0.0.0 smartcarfinder.us.intellitxt.com
 0.0.0.0 smartclip.com
 0.0.0.0 smartclip.net
@@ -39720,6 +39740,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 technicserv.com
 0.0.0.0 technicupdate.com
 0.0.0.0 technobuffalo.us.intellitxt.com
+0.0.0.0 technologia24.com
 0.0.0.0 technology-revealed.com
 0.0.0.0 technology.msnbc.us.intellitxt.com
 0.0.0.0 technologyguide.us.intellitxt.com
@@ -41634,6 +41655,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 u1.img.mobile.sina.cn
 0.0.0.0 u1.s.minisplat.cn
 0.0.0.0 u1817.16.spylog.com
+0.0.0.0 u192389.stronazen.pl
 0.0.0.0 u2.s.minisplat.cn
 0.0.0.0 u291014.nr1234.com
 0.0.0.0 u3102.47.spylog.com
@@ -42682,6 +42704,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vidutils.taboola.com
 0.0.0.0 vidzsource.net
 0.0.0.0 vietad.vn
+0.0.0.0 vietbet.eu
 0.0.0.0 vietbuzzad.com
 0.0.0.0 vietdorje.com
 0.0.0.0 vietnamhouse.mangoads.vn
@@ -42706,6 +42729,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 viewerstats.docstoc.com.s3.amazonaws.com
 0.0.0.0 views.m4n.nl
 0.0.0.0 viewtools.com
+0.0.0.0 vig.vietbet.eu
 0.0.0.0 viglink.com
 0.0.0.0 viglink.pgpartner.com
 0.0.0.0 vikg.mpp9h.cn
@@ -43316,6 +43340,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wad.adbasket.net
 0.0.0.0 wadisa.wkbmw.cn
 0.0.0.0 wafmedia3.com
+0.0.0.0 wager.vietbet.eu
 0.0.0.0 wahoha.com
 0.0.0.0 wahyufian.zoomshare.com
 0.0.0.0 wait3sec.org
@@ -43565,6 +43590,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 webcounter.together.net
 0.0.0.0 webd.home.news.cn
 0.0.0.0 webdata.vidz.com
+0.0.0.0 webdev.vietbet.eu
 0.0.0.0 webdevelopmentcompany.j8inn1zektoe.com
 0.0.0.0 webdisk.one88.com
 0.0.0.0 webdisk.websvn.info
@@ -48126,6 +48152,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.infotelsrl.com
 0.0.0.0 www.infotop.jp
 0.0.0.0 www.infra.by
+0.0.0.0 www.init.polskapaczka24.net
 0.0.0.0 www.inkscape.es
 0.0.0.0 www.inkscape.fr
 0.0.0.0 www.inmobi.com
@@ -48241,6 +48268,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.jasnypoker.pl
 0.0.0.0 www.jav23.com
 0.0.0.0 www.javascriptobfuscator.com
+0.0.0.0 www.jbovn.com
 0.0.0.0 www.jcmarcadolib.com
 0.0.0.0 www.jcwhiney.com
 0.0.0.0 www.jcwhintey.com
@@ -49742,6 +49770,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.polsatboxingnight-transmisjahd.ujm.pl
 0.0.0.0 www.polska-gazeta-dnia.pl
 0.0.0.0 www.polska-tv.pl
+0.0.0.0 www.polskapaczka24.net
 0.0.0.0 www.polskasupermarkecie.website
 0.0.0.0 www.polski-poranek-pl.com
 0.0.0.0 www.polski-poranek.pl
@@ -49749,6 +49778,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.polskieinfo365.wordpress.com
 0.0.0.0 www.polskieinformacje24.eu
 0.0.0.0 www.polskifilm.com.pl
+0.0.0.0 www.pomoc.kylos.pl
 0.0.0.0 www.pomocnapozyczka.pro
 0.0.0.0 www.pop.bid
 0.0.0.0 www.popacs.ero-advertising.com
@@ -50332,6 +50362,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.secure-eplatnosc.com
 0.0.0.0 www.secure-pge.eu
 0.0.0.0 www.secure-processingcenter.com
+0.0.0.0 www.secure.polskapaczka24.net
 0.0.0.0 www.secure4app.com
 0.0.0.0 www.securecloud-smart.com
 0.0.0.0 www.securecontactinfo.com
@@ -50506,6 +50537,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.smart-m-system.com
 0.0.0.0 www.smart-scripts.com
 0.0.0.0 www.smartadserver.com
+0.0.0.0 www.smartcare.xja.pl
 0.0.0.0 www.smartconnect.duckdns.org
 0.0.0.0 www.smarterlifefinance.com
 0.0.0.0 www.smartgiveaway.com
@@ -50864,6 +50896,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.techconfigformat.com
 0.0.0.0 www.techiwant.com
 0.0.0.0 www.technix.it
+0.0.0.0 www.technologia24.com
 0.0.0.0 www.technowebs.xyz
 0.0.0.0 www.tedsaliesdirekt.info
 0.0.0.0 www.teespoon.co
@@ -51214,6 +51247,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.tz-dsp.com
 0.0.0.0 www.tzhjxf.com
 0.0.0.0 www.tzw.com
+0.0.0.0 www.u192389.stronazen.pl
 0.0.0.0 www.u1trkqf.com
 0.0.0.0 www.u5i7k.cn
 0.0.0.0 www.ublock.org
@@ -51399,6 +51433,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.vidutils.taboola.com
 0.0.0.0 www.vidzsource.net
 0.0.0.0 www.vietad.vn
+0.0.0.0 www.vietbet.eu
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
 0.0.0.0 www.vietnamnetad.vn
