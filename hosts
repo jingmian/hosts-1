@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-30 06:01 UTC
+# Last updated: 2019-12-30 09:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -25386,6 +25386,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 logping.exblog.jp
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 logs.51cto.com
+0.0.0.0 logs.amap.com
 0.0.0.0 logs.cnfol.com
 0.0.0.0 logs.comics.com
 0.0.0.0 logs.eresmas.com
