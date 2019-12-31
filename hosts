@@ -3,7 +3,7 @@
 # https://github.com/bushub/hosts
 # https://raw.githubusercontent.com/bushub/hosts/master/hosts
 
-# Last updated: 2019-12-30 09:01 UTC
+# Last updated: 2019-12-31 03:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -1607,6 +1607,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 9ics.cn
 0.0.0.0 9k9by.com
 0.0.0.0 9ll01.com
+0.0.0.0 9llm.com
 0.0.0.0 9med.net
 0.0.0.0 9print.pl
 0.0.0.0 9stoneinvestments.com
@@ -6923,6 +6924,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 advert.istanbul.net
 0.0.0.0 advert.leo.org
 0.0.0.0 advert.livesportmedia.eu
+0.0.0.0 advert.mting.info
 0.0.0.0 advert.rare.ru
 0.0.0.0 advert.ru.redtram.com
 0.0.0.0 advert.runescape.com
@@ -13094,6 +13096,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ck.kejet.net
 0.0.0.0 ck.storematch.jp
 0.0.0.0 ckck.fun
+0.0.0.0 ckjyck.qxs.la
 0.0.0.0 ckkummq.cn
 0.0.0.0 ckmap.mediav.com
 0.0.0.0 ckstatic.com
@@ -17351,6 +17354,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eco-flow.pl
 0.0.0.0 eco-tag.jp
 0.0.0.0 eco.myt7th.xyz
+0.0.0.0 eco.vcbn65.xyz
 0.0.0.0 ecoencomputer.com
 0.0.0.0 ecoflow.pl
 0.0.0.0 ecomadserver.com
@@ -17389,7 +17393,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 edge.reporo.net
 0.0.0.0 edge.sharethis.com
 0.0.0.0 edge.simplereach.com
-0.0.0.0 edge.yunjiasu.com
 0.0.0.0 edgecastcdn.net
 0.0.0.0 edgeio.com
 0.0.0.0 edietsmain.112.2o7.net
@@ -17423,7 +17426,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 ee.6et8a.cn
 0.0.0.0 ee.6r7yc.cn
 0.0.0.0 ee.6x53p.cn
+0.0.0.0 ee.6xr2j.cn
 0.0.0.0 ee.805zx.cn
+0.0.0.0 ee.86rtg.cn
 0.0.0.0 ee.8h3mc.cn
 0.0.0.0 ee.8i1xc.cn
 0.0.0.0 ee.8t5xo.cn
@@ -17435,6 +17440,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ee.hit.gemius.pl
 0.0.0.0 ee.i36mf.cn
 0.0.0.0 ee.j5s9b.cn
+0.0.0.0 ee.m19ud.cn
 0.0.0.0 ee.t3j6a.cn
 0.0.0.0 ee.x0u4o.cn
 0.0.0.0 eecd179r3b.com
@@ -17852,6 +17858,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 enviousthread.com
 0.0.0.0 environmentalgraffiti.uk.intellitxt.com
 0.0.0.0 enwazpje.lnnrw.top
+0.0.0.0 eo.sdagxz.xyz
 0.0.0.0 eo.ssdoi.com
 0.0.0.0 eol1.egyptonline.com
 0.0.0.0 eon.tags.sitetagger.co.uk
@@ -25760,6 +25767,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.6l1967.cn
 0.0.0.0 m.6r7yc.cn
 0.0.0.0 m.6w23i.cn
+0.0.0.0 m.6xr2j.cn
 0.0.0.0 m.6z1gf.cn
 0.0.0.0 m.7180443.com
 0.0.0.0 m.73z9p.cn
@@ -25777,6 +25785,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.7wx8f.cn
 0.0.0.0 m.80o4j.cn
 0.0.0.0 m.85rvq.cn
+0.0.0.0 m.86rtg.cn
 0.0.0.0 m.88viet.com
 0.0.0.0 m.89bia.cn
 0.0.0.0 m.8b7zja.cn
@@ -26283,6 +26292,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.ly0p9e.cn
 0.0.0.0 m.lyjz001.com
 0.0.0.0 m.lzida.com
+0.0.0.0 m.m19ud.cn
 0.0.0.0 m.m216j.cn
 0.0.0.0 m.m216j.com
 0.0.0.0 m.m5z3e.cn
@@ -29105,6 +29115,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mvo.nefcd.xyz
 0.0.0.0 mvo.nwffx.xyz
 0.0.0.0 mvo.sqa54e.xyz
+0.0.0.0 mvo.vcbn65.xyz
 0.0.0.0 mvo.ythbr.xyz
 0.0.0.0 mvonline.com
 0.0.0.0 mvp.mediav.com
@@ -33721,6 +33732,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qenabled.com
 0.0.0.0 qeoa.hawbfa.com
 0.0.0.0 qfdn3gyfbs.com
+0.0.0.0 qguwoq.cn
 0.0.0.0 qhc60.com
 0.0.0.0 qhl.bealge.sogou.com
 0.0.0.0 qhm1.cnzz.com
@@ -36692,6 +36704,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 sf.vserv.mobi
 0.0.0.0 sf01.fastapi.net
 0.0.0.0 sf1-ttcdn-tos.pstatp.com
+0.0.0.0 sf3-ttcdn-tos.pstatp.com
+0.0.0.0 sf6-ttcdn-tos.pstatp.com
 0.0.0.0 sfads.osdn.com
 0.0.0.0 sfd.maizhenai.cn
 0.0.0.0 sfo.thor.rtk.io
@@ -39363,9 +39377,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 t.xamaky.top
 0.0.0.0 t.xymj.xyz
 0.0.0.0 t.yesware.com
+0.0.0.0 t.youhua.pw
 0.0.0.0 t.youmi.net
 0.0.0.0 t.yunsoka.com
 0.0.0.0 t.zeroredirect.com
+0.0.0.0 t.zisu.cn.com
 0.0.0.0 t.zqtk.net
 0.0.0.0 t0.extreme-dm.com
 0.0.0.0 t01.proximic.com
@@ -42957,6 +42973,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vpn.baolq666.com
 0.0.0.0 vpn.tuodupingguomiao.com
 0.0.0.0 vpn.yike0515.com
+0.0.0.0 vpn.zhengyejixie.com
 0.0.0.0 vpnaffiliates.com
 0.0.0.0 vpon.com
 0.0.0.0 vpptv.admaster.com.cn
@@ -53211,6 +53228,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z.zeroredirect.com
 0.0.0.0 z0.extreme-dm.com
 0.0.0.0 z1.adserver.com
+0.0.0.0 z1.cnywst.com
 0.0.0.0 z1.cnzz.com
 0.0.0.0 z1.dawanjiahn.com
 0.0.0.0 z1.extreme-dm.com
@@ -53223,6 +53241,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z12.cnzz.com
 0.0.0.0 z13.cnzz.com
 0.0.0.0 z1hihu.xmcimg.com
+0.0.0.0 z2.cnywst.com
 0.0.0.0 z2.cnzz.com
 0.0.0.0 z2.dawanjiahn.com
 0.0.0.0 z2.lnymd.com
