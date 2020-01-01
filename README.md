@@ -4,7 +4,7 @@
 ```bash
 # Use the below command to get the hosts
 
-wget -O /etc/hosts https://rawcdn.githack.com/bushub/hosts/master/hosts
+wget -O /etc/hosts https://rawcdn.githack.com/hishis/hosts/master/hosts
 
 rm /jffs/configs/hosts
 
@@ -21,7 +21,7 @@ killall -SIGHUP dnsmasq
 
 sudo mv /etc/hosts /etc/hosts.backup
 
-sudo wget -O /etc/hosts https://rawcdn.githack.com/bushub/hosts/master/hosts
+sudo wget -O /etc/hosts https://rawcdn.githack.com/hishis/hosts/master/hosts
 
 # Flush DNS cache
 
@@ -36,7 +36,7 @@ sudo killall -HUP mDNSResponder
 
 mv /etc/hosts /etc/hosts.backup
 
-wget -O /etc/hosts https://rawcdn.githack.com/bushub/hosts/master/hosts
+wget -O /etc/hosts https://rawcdn.githack.com/hishis/hosts/master/hosts
 
 # Flush DNS cache
 
@@ -56,7 +56,7 @@ mv "C:\Windows\System32\drivers\etc\hosts" "C:\Windows\System32\drivers\etc\host
 
 [Net.ServicePointManager]::SecurityProtocol = "tls13, tls12, tls11, tls"
 
-Invoke-WebRequest -OutFile "C:\Windows\System32\drivers\etc\hosts" -Uri "https://rawcdn.githack.com/bushub/hosts/master/hosts"
+Invoke-WebRequest -OutFile "C:\Windows\System32\drivers\etc\hosts" -Uri "https://rawcdn.githack.com/hishis/hosts/master/hosts"
 
 # Flush DNS cache
 
