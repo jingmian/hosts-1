@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-01-01 08:01 UTC
+# Last updated: 2020-01-01 19:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -10526,6 +10526,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bin.clearspring.com
 0.0.0.0 binadroid.com
 0.0.0.0 binaryage-leechgate.herokuapp.com
+0.0.0.0 binarybusiness.de
 0.0.0.0 bindedge.com
 0.0.0.0 bindfast.com
 0.0.0.0 bingads.microsoft.com
@@ -13500,6 +13501,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 clonezilla.fr
 0.0.0.0 closeoutproductsreview.com
 0.0.0.0 clothmmt.club
+0.0.0.0 cloud-miner.de
+0.0.0.0 cloud-miner.eu
 0.0.0.0 cloud-observer.ip-label.net
 0.0.0.0 cloud-umeng.com
 0.0.0.0 cloud-us.analytics-egain.com
@@ -17274,6 +17277,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 easyadservice.com
 0.0.0.0 easyadvertonline.com
 0.0.0.0 easydownload.pl
+0.0.0.0 easyhash.de
 0.0.0.0 easyhitcounters.com
 0.0.0.0 easyhits4u.com
 0.0.0.0 easynet.pierre-lang.com
