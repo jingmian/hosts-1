@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-01-02 01:01 UTC
+# Last updated: 2020-01-04 05:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -51538,7 +51538,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.wallynosa.com
 0.0.0.0 www.wanbuy.net
 0.0.0.0 www.wancai.com
-0.0.0.0 www.wangbase.com
 0.0.0.0 www.wangdu.info
 0.0.0.0 www.wangketuan.com
 0.0.0.0 www.wannawatch.com
