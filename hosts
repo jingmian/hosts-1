@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-01-07 04:01 UTC
+# Last updated: 2020-01-07 05:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -12573,6 +12573,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.revcontent.com
 0.0.0.0 cdn.rhombusads.com
 0.0.0.0 cdn.rossoad.com
+0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 cdn.rungrinh.vn
 0.0.0.0 cdn.sagent.io
 0.0.0.0 cdn.sail-horizon.com
@@ -12851,7 +12852,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cgdh.fenbengpan.cn
 0.0.0.0 cgi-view-item-co-uk.xf.cz
 0.0.0.0 cgi.adriver.ru
-0.0.0.0 cgi.connect.qq.com
 0.0.0.0 cgi.hitbox.com
 0.0.0.0 cgi.honesty.com
 0.0.0.0 cgi.hotstat.nl
@@ -14041,6 +14041,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 conpst.112.2o7.net
 0.0.0.0 consciouschairs.com
 0.0.0.0 consensad.com
+0.0.0.0 consent.cookiebot.com
 0.0.0.0 consent.truste.com
 0.0.0.0 console.rtk.io
 0.0.0.0 constantcontact.tt.omtrdc.net
@@ -18118,6 +18119,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 events.vungtv.com
 0.0.0.0 events.webflowmetrics.com
 0.0.0.0 events3.adcolony.com
+0.0.0.0 events3alt.adcolony.com
 0.0.0.0 eventtracker.videostrip.com
 0.0.0.0 evepdaggiesports.112.2o7.net
 0.0.0.0 evepdaikencom.112.2o7.net
@@ -20720,7 +20722,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gsp3.baidu.com
 0.0.0.0 gspro.adocean.pl
 0.0.0.0 gspro.hit.gemius.pl
-0.0.0.0 gss0.bdstatic.com
 0.0.0.0 gsspat.jp
 0.0.0.0 gsspcln.jp
 0.0.0.0 gssprt.jp
@@ -34010,6 +34011,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 r2.popcash.net
 0.0.0.0 r3.adwo.com
 0.0.0.0 r55268.com
+0.0.0.0 r6.mo.baidu.com
 0.0.0.0 r7mediar.com
 0.0.0.0 r88150.com
 0.0.0.0 r8nu86wg.me
