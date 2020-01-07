@@ -4,9 +4,11 @@
 ```bash
 # Use the below command to get the hosts
 
+rm -rf /etc/hosts
+
 wget -O /etc/hosts https://rawcdn.githack.com/hishis/hosts/master/hosts
 
-rm /jffs/configs/hosts
+rm -rf /jffs/configs/hosts
 
 cp /etc/hosts /jffs/configs/hosts
 
