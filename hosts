@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-01-16 23:01 UTC
+# Last updated: 2020-01-17 03:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -1872,6 +1872,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 5i2.net
 0.0.0.0 5k-player.com
 0.0.0.0 5kstore.com
+0.0.0.0 5kv261gjmq04c9.com
 0.0.0.0 5mcwl.pw
 0.0.0.0 5nspn.skpbp14.pw
 0.0.0.0 5nt1gx7o57.com
@@ -9214,8 +9215,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 amobee.com
 0.0.0.0 amobi.vn
 0.0.0.0 amoeba.fudata.cn
-0.0.0.0 amorelove.com
 0.0.0.0 amorepaixaomensagens.com.br
+0.0.0.0 amorluv.com
 0.0.0.0 amospalla.es
 0.0.0.0 amoxicillin.ourtablets.com
 0.0.0.0 amp-error-reporting.appspot.com
@@ -20576,6 +20577,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 dsum.casalemedia.com
 0.0.0.0 dsv2-lifebuzz-d.openx.net
+0.0.0.0 dsw44z5igdmmbo.com
 0.0.0.0 dsxdn.com
 0.0.0.0 dt.admission.net
 0.0.0.0 dt.adsafeprotected.com
@@ -35944,6 +35946,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 n01d05.cumulus-cloud.com
 0.0.0.0 n02.unternehmen.com
 0.0.0.0 n1275adserv.xyz
+0.0.0.0 n13x4nfw8frika.com
 0.0.0.0 n149adserv.com
 0.0.0.0 n152adserv.com
 0.0.0.0 n162adserv.com
@@ -54155,6 +54158,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 windowsbbs.us.intellitxt.com
 0.0.0.0 windowserror7.tech
 0.0.0.0 windowsitpro.us.intellitxt.com
+0.0.0.0 windowsphishingalert158.s3.amazonaws.com
 0.0.0.0 windpl.org
 0.0.0.0 windspotter.net
 0.0.0.0 windsprocentral.aoredi.com
