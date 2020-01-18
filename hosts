@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-01-18 03:01 UTC
+# Last updated: 2020-01-18 11:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -21540,10 +21540,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 eco-api.meiqia.com
 0.0.0.0 eco-flow.pl
 0.0.0.0 eco-tag.jp
+0.0.0.0 eco.chng5.xyz
 0.0.0.0 eco.myt7th.xyz
 0.0.0.0 eco.qasdw3.xyz
 0.0.0.0 eco.taobao.com
 0.0.0.0 eco.vcbn65.xyz
+0.0.0.0 eco.vng25.xyz
 0.0.0.0 ecobutysklep.com
 0.0.0.0 ecoencomputer.com
 0.0.0.0 ecoflow.pl
@@ -21638,16 +21640,20 @@ ff02::3 ip6-allhosts
 0.0.0.0 ee.9e6zb.cn
 0.0.0.0 ee.adocean.pl
 0.0.0.0 ee.connextra.com
+0.0.0.0 ee.f2z4d.cn
 0.0.0.0 ee.hdboping.com
 0.0.0.0 ee.hit.gemius.pl
 0.0.0.0 ee.i36mf.cn
+0.0.0.0 ee.j06kc.cn
 0.0.0.0 ee.j5s9b.cn
 0.0.0.0 ee.m19ud.cn
 0.0.0.0 ee.t3j6a.cn
 0.0.0.0 ee.w82ph.cn
+0.0.0.0 ee.wh723.cn
 0.0.0.0 ee.wv26d.cn
 0.0.0.0 ee.x0u4o.cn
 0.0.0.0 ee.x8r9m.cn
+0.0.0.0 ee.xq375.cn
 0.0.0.0 ee.zq13n.cn
 0.0.0.0 eecd179r3b.com
 0.0.0.0 eecky.butlerelectricsupply.com
@@ -27704,6 +27710,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 img.jgchq.com
 0.0.0.0 img.jizzads.com
 0.0.0.0 img.jwgro.com
+0.0.0.0 img.kukudm.com
 0.0.0.0 img.kuwanpx.com
 0.0.0.0 img.lavanetwork.net
 0.0.0.0 img.layer-ads.de
@@ -31975,6 +31982,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.exactag.com
 0.0.0.0 m.exusr.com
 0.0.0.0 m.ezuon.com
+0.0.0.0 m.f2z4d.cn
 0.0.0.0 m.f846b.cn
 0.0.0.0 m.fbaix.com
 0.0.0.0 m.fbaot.com
@@ -32156,6 +32164,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.izaos.com
 0.0.0.0 m.izouo.com
 0.0.0.0 m.izuis.com
+0.0.0.0 m.j06kc.cn
 0.0.0.0 m.j5s9b.cn
 0.0.0.0 m.jackaow.com
 0.0.0.0 m.jasmin.com
@@ -32558,6 +32567,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.weixingshexiangji.net
 0.0.0.0 m.wervp.com
 0.0.0.0 m.wgewj.cn
+0.0.0.0 m.wh723.cn
 0.0.0.0 m.whsjg.cn
 0.0.0.0 m.wikigifth.com
 0.0.0.0 m.wjier.com
@@ -32607,6 +32617,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.xmgysweb.com
 0.0.0.0 m.xmljx.cn
 0.0.0.0 m.xpjis.com
+0.0.0.0 m.xq375.cn
 0.0.0.0 m.xroun.com
 0.0.0.0 m.xsk5j.cn
 0.0.0.0 m.xsm98e.cn
@@ -35687,6 +35698,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mvconf.uk.cloud.360safe.com
 0.0.0.0 mvip.zhuba8.com
 0.0.0.0 mvo.bd6t4.xyz
+0.0.0.0 mvo.chng5.xyz
 0.0.0.0 mvo.g4rre.xyz
 0.0.0.0 mvo.lki6hy.xyz
 0.0.0.0 mvo.mftgyh.xyz
@@ -35952,6 +35964,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 n.mplxtms.com
 0.0.0.0 n.pc1ads.com
 0.0.0.0 n.pcads.ru
+0.0.0.0 n.qudwrj.cn
 0.0.0.0 n.smnr6.cn
 0.0.0.0 n.targetctracker.com
 0.0.0.0 n.yfi8.com
@@ -52218,6 +52231,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 v.lvlt.crcdn.net
 0.0.0.0 v.oq68.com
 0.0.0.0 v.popcash.net
+0.0.0.0 v.qudwrj.cn
 0.0.0.0 v.rmbn.net
 0.0.0.0 v.smtcdns.net
 0.0.0.0 v.ssacdn.com
@@ -53101,6 +53115,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vpn-europe.conversantmedia.com
 0.0.0.0 vpn-us-west.conversantmedia.com
 0.0.0.0 vpn.baolq666.com
+0.0.0.0 vpn.celueziben.com
 0.0.0.0 vpn.tuodupingguomiao.com
 0.0.0.0 vpn.yike0515.com
 0.0.0.0 vpn.zhengyejixie.com
@@ -55806,6 +55821,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.affpartners.com
 0.0.0.0 www.afftrack.com
 0.0.0.0 www.afi-b.com
+0.0.0.0 www.afj0.com
 0.0.0.0 www.africanmango.pl
 0.0.0.0 www.africanmango900.pl
 0.0.0.0 www.afs.ero-advertising.com
@@ -64088,6 +64104,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yfjq.a6ntv.cn
 0.0.0.0 yfxpcode.m.gxwztv.com
 0.0.0.0 yfyv.getnewsupdate.info
+0.0.0.0 yfzcuw.cn
 0.0.0.0 yhcw.org.cn
 0.0.0.0 yhdichan.com
 0.0.0.0 yhelper.188jinbi.com
@@ -64308,6 +64325,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yx.j1sz.com
 0.0.0.0 yxrp.lianfuhuang.cn
 0.0.0.0 yxs.tymsyx.com
+0.0.0.0 yxyhtea.com
 0.0.0.0 yyffeicd.m.qxs.la
 0.0.0.0 yylimg.clsj365.com
 0.0.0.0 yyn.us
