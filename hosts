@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-01-19 04:00 UTC
+# Last updated: 2020-01-19 23:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -2770,6 +2770,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 abc.imrworldwide.com
 0.0.0.0 abc.logly.co.jp
 0.0.0.0 abc.pema.cl
+0.0.0.0 abc.prawo.link
 0.0.0.0 abc.ruiwen.com
 0.0.0.0 abc.xtyx918.com
 0.0.0.0 abc.yjbys.com
@@ -8339,7 +8340,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adworks.rediff.com
 0.0.0.0 adworldnetwork.com
 0.0.0.0 adworx.at
-0.0.0.0 adworx.be
 0.0.0.0 adworx.nl
 0.0.0.0 adwpaces.ero-advertising.com
 0.0.0.0 adwpro.adwareprof.hop.clickbank.net
@@ -12849,6 +12849,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 becomedebtfree.com.au
 0.0.0.0 becomegorgeous.us.intellitxt.com
 0.0.0.0 bedach.stream
+0.0.0.0 bedsbreath.com
 0.0.0.0 beemray.com
 0.0.0.0 beeradvocate-d.openx.net
 0.0.0.0 beespace.com.ua
@@ -12990,7 +12991,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 beyondcompare.cc
 0.0.0.0 beyondhollywood.us.intellitxt.com
 0.0.0.0 beyondwhois.com
-0.0.0.0 beyourbest.pl
 0.0.0.0 bezbiku.pro
 0.0.0.0 bezpieczne-nieruchomosci.pl
 0.0.0.0 bezproudoff.cz
@@ -13877,6 +13877,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 butypremium.pl
 0.0.0.0 butypumasklep.pl
 0.0.0.0 butyreebokcrossfit.pl
+0.0.0.0 butyreebokpl.pl
 0.0.0.0 butysalomonsklep.com
 0.0.0.0 butysalomonsklep.pl
 0.0.0.0 butyskecherspolska.pl
@@ -16703,7 +16704,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 clonezilla.es
 0.0.0.0 clonezilla.fr
 0.0.0.0 closeoutproductsreview.com
-0.0.0.0 clothmmt.club
 0.0.0.0 cloud-emea.analytics-egain.com
 0.0.0.0 cloud-graphql-live.us-east-1.elasticbeanstalk.com
 0.0.0.0 cloud-miner.de
@@ -17365,7 +17365,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 company-target.com
 0.0.0.0 company.com.ph
 0.0.0.0 companycreators.co.uk
-0.0.0.0 compartnew.eu
 0.0.0.0 compass.adop.cc
 0.0.0.0 compassenergyservices.com
 0.0.0.0 competition7472.megaprizes-server76.loan
@@ -17641,7 +17640,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 convertro.com
 0.0.0.0 convertwordtoexcel.com
 0.0.0.0 convhkmp.taboola.com
-0.0.0.0 conviktus.eu
 0.0.0.0 convlatbmp.taboola.com
 0.0.0.0 convnjmp.basebanner.com
 0.0.0.0 convnjmp.taboola.com
@@ -20255,7 +20253,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dorangesource.alicdn.com
 0.0.0.0 dos.velek.com
 0.0.0.0 doski.by
-0.0.0.0 doslubu24.pl
 0.0.0.0 dosszie.com
 0.0.0.0 dosugcz.biz
 0.0.0.0 dot-metrix.com
@@ -25535,7 +25532,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 grvspn.com
 0.0.0.0 grybow24.pl
 0.0.0.0 gryjava.gsm.pl
-0.0.0.0 grynanecie.pl
 0.0.0.0 gryonline24h.pl
 0.0.0.0 grypsuj.pl
 0.0.0.0 grz67.com
@@ -25917,7 +25913,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hawebs.adform.com
 0.0.0.0 haymarketbusinesspublications.122.2o7.net
 0.0.0.0 haynet.adbureau.net
-0.0.0.0 hazoombienesraices.com
 0.0.0.0 hb-ad.bidgear.com
 0.0.0.0 hb-analytics.hotstar.com
 0.0.0.0 hb-config.vntsm.com
@@ -29868,7 +29863,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kdl.huaxinsp.cn
 0.0.0.0 kdmkauchahynhrs.ru
 0.0.0.0 kdowqlpt.info
-0.0.0.0 kdplay.net
 0.0.0.0 kds-pixel.kargo.com
 0.0.0.0 kds.ero-advertising.com
 0.0.0.0 keargc.com
@@ -30197,7 +30191,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kserv.krldysh.ru
 0.0.0.0 ksiazka-telefoniczna-online.pl
 0.0.0.0 ksiazkatunele.pl
-0.0.0.0 ksiazkiokomunikacji.pl
 0.0.0.0 kslmfym8.cn
 0.0.0.0 ksr.juuhe.com
 0.0.0.0 kstj.baidu.com
@@ -37996,7 +37989,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 onlineappcheats.com
 0.0.0.0 onlinebestoffers.net
 0.0.0.0 onlinecash.com
-0.0.0.0 onlinecashmethod.com
 0.0.0.0 onlinedownloads.org
 0.0.0.0 onlinegurupopularsitecom.112.2o7.net
 0.0.0.0 onlineindigoca.112.2o7.net
@@ -39793,7 +39785,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl.centrumofert.com
 0.0.0.0 pl.coral-club.com
 0.0.0.0 pl.cp12.wasu.tv
-0.0.0.0 pl.dailyoffer.top
 0.0.0.0 pl.exoclick.com
 0.0.0.0 pl.fmworld.com
 0.0.0.0 pl.fohow.eu
@@ -40087,6 +40078,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pocketmath.com
 0.0.0.0 pocofh.com
 0.0.0.0 poconorecordcom.112.2o7.net
+0.0.0.0 poczta-login-neostrada.com
 0.0.0.0 poczta-polska.net
 0.0.0.0 pocztapolska48.net
 0.0.0.0 pocztex-48.net
@@ -40921,6 +40913,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pruszkowmieszkania.pl
 0.0.0.0 prwidgets.com
 0.0.0.0 prx.com
+0.0.0.0 przechwyconafota.eu
 0.0.0.0 przechwycone-zdjecia.00x.eu
 0.0.0.0 przegladaj-zdjeecia.eu
 0.0.0.0 przejdz.ml
@@ -41178,6 +41171,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pumapl.pl
 0.0.0.0 pumashopjapan.com
 0.0.0.0 pumaskleponline.pl
+0.0.0.0 pumaskleppolska.pl
 0.0.0.0 pumawyprzedaz.pl
 0.0.0.0 pumpkin.brisik.net
 0.0.0.0 pumpkin.co.uk
@@ -42112,6 +42106,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 reeboknpcii.pl
 0.0.0.0 reebokoutlet.pl
 0.0.0.0 reebokpromocje.pl
+0.0.0.0 reebokpump.pl
 0.0.0.0 reed-cw.grapeshot.co.uk
 0.0.0.0 reelmovienews.us.intellitxt.com
 0.0.0.0 ref.12365chia.com
@@ -42515,6 +42510,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rickparty.com
 0.0.0.0 rickrolling.com
 0.0.0.0 ridepush.com
+0.0.0.0 rig-przemysl.com.pl
 0.0.0.0 rig.idg.no
 0.0.0.0 rigel.baidustatic.com
 0.0.0.0 rigelink.com
@@ -42709,6 +42705,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 roulette-online.petrovka.info
 0.0.0.0 roulette.racyphotos.net
 0.0.0.0 roulettenumber.com
+0.0.0.0 roundcube.pl
 0.0.0.0 route.izooto.com
 0.0.0.0 router.adlure.net
 0.0.0.0 router.cint.com
@@ -43988,7 +43985,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sc1.admob.com
 0.0.0.0 sc10.net
 0.0.0.0 sc2.appldp.com
-0.0.0.0 sc21.pl
 0.0.0.0 sc3.omniture.com
 0.0.0.0 sc5-chart-1.omniture.com
 0.0.0.0 sc5-chart-2.omniture.com
@@ -44889,7 +44885,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 separatesilver.com
 0.0.0.0 september.cityads.com
 0.0.0.0 ser.adledge.com
-0.0.0.0 serendipitygalenite.club
 0.0.0.0 serenescreen-marine-aquarium.en.softonic.com #[Win32/SoftonicDownloader.F]
 0.0.0.0 sergarius.popunder.ru
 0.0.0.0 serial.alcohol-soft.com
@@ -45344,6 +45339,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shmoop-d.openx.net
 0.0.0.0 shoal.grahanusareadymix.com
 0.0.0.0 shockgore.com
+0.0.0.0 shockinggrass.com
 0.0.0.0 shoesland.pl
 0.0.0.0 shoesvclub.com
 0.0.0.0 shoeswars.com
@@ -45459,6 +45455,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 silkysquirrel.com
 0.0.0.0 sillyscrew.com
 0.0.0.0 silurian.cn
+0.0.0.0 silvalliant.info
 0.0.0.0 silveragesoftware.com
 0.0.0.0 silvermob.com
 0.0.0.0 silvets.pl
@@ -45516,6 +45513,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sinvideo.adsrvr.org
 0.0.0.0 siobhanmcminn.com
 0.0.0.0 sionicmedia.com
+0.0.0.0 sipp.pl
 0.0.0.0 siqwqjza.m.yikanxiaoshuo.net
 0.0.0.0 sirijayareddypsychologist.com
 0.0.0.0 sirius-expedition.com
@@ -49731,7 +49729,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tommyhalfigero.top
 0.0.0.0 tommysbookmarks.com
 0.0.0.0 tommysbookmarks.net
-0.0.0.0 tomojawiara.pl
 0.0.0.0 tomorrownewstoday.com # I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
 0.0.0.0 toms.us.intellitxt.com
 0.0.0.0 tomsforumz.us.intellitxt.com
@@ -50938,6 +50935,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 triggers1.wfxtriggers.com
 0.0.0.0 trikegarage.pl
+0.0.0.0 trinitybeautypoland.pl
 0.0.0.0 trinitymirror-d.openx.net
 0.0.0.0 trinitymirror.112.2o7.net
 0.0.0.0 trinitymirror.grapeshot.co.uk
@@ -51587,7 +51585,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ulic.baidu.com
 0.0.0.0 ulink.cc
 0.0.0.0 ulink.immomo.com
-0.0.0.0 ulink.pl
 0.0.0.0 ulml.mob.com
 0.0.0.0 ulog.ksapisrv.com
 0.0.0.0 ulog.umengcloud.com
@@ -54245,7 +54242,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 witthethim.com
 0.0.0.0 wixx.caliptopis.cl
 0.0.0.0 wiyun.com
-0.0.0.0 wizjalokalna24.pl
 0.0.0.0 wizzogames-sdk.wappier.com
 0.0.0.0 wkfilms.pl
 0.0.0.0 wkladpompy.pl
@@ -55438,6 +55434,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ab4hr.com
 0.0.0.0 www.abbp35.com
 0.0.0.0 www.abbyychina.com
+0.0.0.0 www.abc.prawo.link
 0.0.0.0 www.abcjmp.com
 0.0.0.0 www.abcu2lk.fun
 0.0.0.0 www.abetterinternet.com
@@ -56351,7 +56348,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bewaycare.com
 0.0.0.0 www.beyondcompare.cc
 0.0.0.0 www.beyondwhois.com
-0.0.0.0 www.beyourbest.pl
 0.0.0.0 www.bezbiku.pro
 0.0.0.0 www.bezpieczne-nieruchomosci.pl
 0.0.0.0 www.bfglasses.com
@@ -56575,6 +56571,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.butypremium.pl
 0.0.0.0 www.butypumasklep.pl
 0.0.0.0 www.butyreebokcrossfit.pl
+0.0.0.0 www.butyreebokpl.pl
 0.0.0.0 www.butysalomonsklep.com
 0.0.0.0 www.butysalomonsklep.pl
 0.0.0.0 www.butyskecherspolska.pl
@@ -56893,7 +56890,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.clonezilla.es
 0.0.0.0 www.clonezilla.fr
 0.0.0.0 www.closeoutproductsreview.com
-0.0.0.0 www.clothmmt.club
 0.0.0.0 www.cloud-umeng.com
 0.0.0.0 www.cloudflane.com
 0.0.0.0 www.cloudtokenwallet.com
@@ -56963,7 +56959,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.commercialclientsgroup.ru
 0.0.0.0 www.commission-junction.com #[Tracking.Cookie]
 0.0.0.0 www.commissionempire.com
-0.0.0.0 www.compartnew.eu
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.computer-offer.com
 0.0.0.0 www.computer-offer.net
@@ -56997,7 +56992,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.conversewyprzedaz.pl
 0.0.0.0 www.conversionruler.com
 0.0.0.0 www.convhkmp.taboola.com
-0.0.0.0 www.conviktus.eu
 0.0.0.0 www.convlatbmp.taboola.com
 0.0.0.0 www.cooguo.com
 0.0.0.0 www.cookingtiprewards.com
@@ -57344,7 +57338,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.dontwatch.us
 0.0.0.0 www.dopalacze-sklep.org
 0.0.0.0 www.doski.by
-0.0.0.0 www.doslubu24.pl
 0.0.0.0 www.dotabet100.com
 0.0.0.0 www.dotabet103.com
 0.0.0.0 www.dotzup.com
@@ -57662,7 +57655,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.expedia.com.hk
 0.0.0.0 www.experclick.com #[Tracking.Cookie]
 0.0.0.0 www.expressomatogrosso.com.br
-0.0.0.0 www.expressvpn.com
 0.0.0.0 www.ext.privacyassistant.net
 0.0.0.0 www.extragenerators.xyz
 0.0.0.0 www.extreme-dm.com
@@ -58402,7 +58394,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.grupowo24.pl
 0.0.0.0 www.grybow24.pl
 0.0.0.0 www.gryjava.gsm.pl
-0.0.0.0 www.grynanecie.pl
 0.0.0.0 www.gryonline24h.pl
 0.0.0.0 www.grypsuj.pl
 0.0.0.0 www.grz67.com
@@ -58466,7 +58457,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.hausnet.ru
 0.0.0.0 www.hauwzm.com
 0.0.0.0 www.havemeforfree.com
-0.0.0.0 www.hazoombienesraices.com
 0.0.0.0 www.hblinwei.com
 0.0.0.0 www.hd11328.com
 0.0.0.0 www.hdhkwl.com
@@ -59070,7 +59060,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.kbdiu5z8ah.us
 0.0.0.0 www.kc75.com
 0.0.0.0 www.kcta.or.kr
-0.0.0.0 www.kdplay.net
 0.0.0.0 www.kds.ero-advertising.com
 0.0.0.0 www.keenbuty.pl
 0.0.0.0 www.keepass.com
@@ -59201,7 +59190,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.krzysztofbielanski.pl
 0.0.0.0 www.ksiazka-telefoniczna-online.pl
 0.0.0.0 www.ksiazkatunele.pl
-0.0.0.0 www.ksiazkiokomunikacji.pl
 0.0.0.0 www.kslmfym8.cn
 0.0.0.0 www.ksuniazabkowice.pl
 0.0.0.0 www.ktopodgladamnienafacebooku.wordpress.com
@@ -60530,6 +60518,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pobierzteraz.mobi
 0.0.0.0 www.pobiieerz-fotografiee.eu
 0.0.0.0 www.pociagdoukrainy.pl
+0.0.0.0 www.poczta-login-neostrada.com
 0.0.0.0 www.poczta-polska.net
 0.0.0.0 www.pocztapolska48.net
 0.0.0.0 www.pocztex-48.net
@@ -60745,6 +60734,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.provida.pl
 0.0.0.0 www.prriceline.com
 0.0.0.0 www.pruszkowmieszkania.pl
+0.0.0.0 www.przechwyconafota.eu
 0.0.0.0 www.przechwycone-zdjecia.00x.eu
 0.0.0.0 www.przegladaj-zdjeecia.eu
 0.0.0.0 www.przejdz.ml
@@ -60784,6 +60774,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pumapl.pl
 0.0.0.0 www.pumaprzeceny.pl
 0.0.0.0 www.pumaskleponline.pl
+0.0.0.0 www.pumaskleppolska.pl
 0.0.0.0 www.pumawyprzedaz.pl
 0.0.0.0 www.pumpkin.co.uk
 0.0.0.0 www.puna.pl
@@ -60952,6 +60943,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.reeboknpcii.pl
 0.0.0.0 www.reebokoutlet.pl
 0.0.0.0 www.reebokpromocje.pl
+0.0.0.0 www.reebokpump.pl
 0.0.0.0 www.reelcentric.com
 0.0.0.0 www.refer.ru
 0.0.0.0 www.refferalstaff.com
@@ -61019,6 +61011,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.riccardochinnici.it
 0.0.0.0 www.rickparty.com
 0.0.0.0 www.rickrolling.com
+0.0.0.0 www.rig-przemysl.com.pl
 0.0.0.0 www.rightmedia.com
 0.0.0.0 www.rightmedia.net
 0.0.0.0 www.rightstats.com
@@ -61061,6 +61054,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.rotator.buzzclicks.com
 0.0.0.0 www.roulettebotplus.com
 0.0.0.0 www.roulettenumber.com
+0.0.0.0 www.roundcube.pl
 0.0.0.0 www.rovion.com
 0.0.0.0 www.rowanmclean.com
 0.0.0.0 www.rowanyne.ooo
@@ -61159,7 +61153,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sb88b.com
 0.0.0.0 www.sbo.it
 0.0.0.0 www.sc.pages03.net
-0.0.0.0 www.sc21.pl
 0.0.0.0 www.scambiobanner.tv
 0.0.0.0 www.scanmyphones.com
 0.0.0.0 www.scanspyware.net
@@ -61255,7 +61248,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.seomarkecik.pl
 0.0.0.0 www.seonetwizard.com
 0.0.0.0 www.sepyqhipq.com
-0.0.0.0 www.serendipitygalenite.club
 0.0.0.0 www.seriale24.com.pl
 0.0.0.0 www.serialefilmy.pl
 0.0.0.0 www.serialowo.pl
@@ -61365,6 +61357,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.siniaki.pl
 0.0.0.0 www.siobhanmcminn.com
 0.0.0.0 www.siom.ac.cn
+0.0.0.0 www.sipp.pl
 0.0.0.0 www.sirijayareddypsychologist.com
 0.0.0.0 www.sirius-expedition.com
 0.0.0.0 www.site-id.nl
@@ -61975,7 +61968,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.todolize.com
 0.0.0.0 www.token-interia.pl
 0.0.0.0 www.tommyhalfigero.top
-0.0.0.0 www.tomojawiara.pl
 0.0.0.0 www.tons-to-see.com
 0.0.0.0 www.toochattoo.com
 0.0.0.0 www.toolbarcounter.com
@@ -62119,6 +62111,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.tribalfusion.com
 0.0.0.0 www.triggerinstalls.com
 0.0.0.0 www.trikegarage.pl
+0.0.0.0 www.trinitybeautypoland.pl
 0.0.0.0 www.trk4.com
 0.0.0.0 www.trkfl.com
 0.0.0.0 www.trkingace.com
@@ -62236,7 +62229,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ukskrokus.pl
 0.0.0.0 www.uleadstrk.com
 0.0.0.0 www.ulink.cc
-0.0.0.0 www.ulink.pl
 0.0.0.0 www.ultimatecounter.com
 0.0.0.0 www.ultimatefashiongifts.com
 0.0.0.0 www.ultimatetopsites.com
@@ -62680,7 +62672,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.wirtuozseksu.pl
 0.0.0.0 www.wisdementive.info
 0.0.0.0 www.wisebanc.com
-0.0.0.0 www.wizjalokalna24.pl
 0.0.0.0 www.wjxcdn.com
 0.0.0.0 www.wkfilms.pl
 0.0.0.0 www.wkladpompy.pl
