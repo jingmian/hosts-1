@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-01-18 11:01 UTC
+# Last updated: 2020-01-19 04:00 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -18729,6 +18729,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d.517sccts.cn
 0.0.0.0 d.a1comm.co.kr
 0.0.0.0 d.abnad.net
+0.0.0.0 d.adand.co.kr
 0.0.0.0 d.adgear.com
 0.0.0.0 d.admob.com
 0.0.0.0 d.admx.baixing.com
