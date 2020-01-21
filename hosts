@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-01-21 07:01 UTC
+# Last updated: 2020-01-21 08:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -21650,6 +21650,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ee.w82ph.cn
 0.0.0.0 ee.wh723.cn
 0.0.0.0 ee.wv26d.cn
+0.0.0.0 ee.wz382.cn
 0.0.0.0 ee.x0u4o.cn
 0.0.0.0 ee.x8r9m.cn
 0.0.0.0 ee.xq375.cn
@@ -32583,6 +32584,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.wxhh678.com
 0.0.0.0 m.wxjrd.cn
 0.0.0.0 m.wywna.cn
+0.0.0.0 m.wz382.cn
 0.0.0.0 m.x2e8id.cn
 0.0.0.0 m.x316f.cn
 0.0.0.0 m.x78tg.cn
@@ -48528,6 +48530,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 t.pswec.com
 0.0.0.0 t.pzclw.cn
 0.0.0.0 t.qiuqiuqipai.com
+0.0.0.0 t.sdpaji.com
 0.0.0.0 t.sellpoints.com
 0.0.0.0 t.senaldos.com
 0.0.0.0 t.senaluno.com
@@ -63840,6 +63843,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--srahah-bua.eu
 0.0.0.0 xn--srahah-bua.pl
 0.0.0.0 xn--wxtr9fwyxk9c.top
+0.0.0.0 xn--xhq9mt12cf5v.ink
 0.0.0.0 xn--xhq9mt12cf5v.website
 0.0.0.0 xn--yotu-1ra.be
 0.0.0.0 xn--zuzy24d.co
