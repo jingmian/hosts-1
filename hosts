@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-01-21 04:01 UTC
+# Last updated: 2020-01-21 07:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -5704,6 +5704,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.cybersales.cz
 0.0.0.0 ads.cybertrader.com
 0.0.0.0 ads.d-msquared.com
+0.0.0.0 ads.daara.co.kr
 0.0.0.0 ads.dada.it
 0.0.0.0 ads.dailycamera.com
 0.0.0.0 ads.danworld.net
