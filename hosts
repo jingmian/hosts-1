@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-01-24 22:00 UTC
+# Last updated: 2020-01-27 15:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -34579,6 +34579,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobalert.net
 0.0.0.0 mobaliyun.res.mgtv.com
 0.0.0.0 mobap.njlbms.com
+0.0.0.0 mobappconfig.securities.eastmoney.com
 0.0.0.0 mobatory.com
 0.0.0.0 mobcdn.com
 0.0.0.0 mobclix.com
@@ -35004,6 +35005,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mp.mmnneo.com
 0.0.0.0 mp.teads.tv
 0.0.0.0 mp.tscapeplay.com
+0.0.0.0 mp.xi9p.com
 0.0.0.0 mp3playersource.com
 0.0.0.0 mp3red.cc
 0.0.0.0 mp4.res.hunantv.com
@@ -42749,6 +42751,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.tcimg.com
 0.0.0.0 s.thebrighttag.com
 0.0.0.0 s.tjys88.com
+0.0.0.0 s.tkm.ink
 0.0.0.0 s.tpctrust.com
 0.0.0.0 s.trafficjam.cn
 0.0.0.0 s.tribalfusion.com
@@ -52469,6 +52472,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vpn-us-west.conversantmedia.com
 0.0.0.0 vpn.baolq666.com
 0.0.0.0 vpn.celueziben.com
+0.0.0.0 vpn.jnj-energy.com
 0.0.0.0 vpn.tuodupingguomiao.com
 0.0.0.0 vpn.yike0515.com
 0.0.0.0 vpn.zhengyejixie.com
