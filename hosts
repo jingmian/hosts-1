@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-01-27 15:01 UTC
+# Last updated: 2020-01-29 03:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -3480,6 +3480,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.hot-mob.com
 0.0.0.0 ad.house365.com
 0.0.0.0 ad.howstuffworks.com
+0.0.0.0 ad.hpplay.cn
 0.0.0.0 ad.hr.doubleclick.net
 0.0.0.0 ad.httpool.com
 0.0.0.0 ad.hu.doubleclick.net
@@ -4440,6 +4441,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adelva.com
 0.0.0.0 ademails.com
 0.0.0.0 aden.baidu.com
+0.0.0.0 adeng.hpplay.cn
 0.0.0.0 adengage.com
 0.0.0.0 adengine.rt.ru
 0.0.0.0 adeptia.pl
@@ -10369,6 +10371,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.tinypass.com
 0.0.0.0 api.toboads.com
 0.0.0.0 api.tongji.today
+0.0.0.0 api.touchxd.com
 0.0.0.0 api.tr.blismedia.com
 0.0.0.0 api.trackuity.com
 0.0.0.0 api.treasuredata.com
@@ -15487,6 +15490,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.xianliao.me
 0.0.0.0 cdn.yb0t.com
 0.0.0.0 cdn.yieldmedia.net
+0.0.0.0 cdn.yimg.com
 0.0.0.0 cdn.yldbt.com
 0.0.0.0 cdn.yottos.com
 0.0.0.0 cdn.z-profit.com
@@ -19624,6 +19628,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 diff4.smartadserver.com
 0.0.0.0 diff5.smartadserver.com
 0.0.0.0 difnxm.cn
+0.0.0.0 dig.bdurl.net
 0.0.0.0 digg-d.openx.net
 0.0.0.0 digg.analytics.live.com
 0.0.0.0 digg.analytics.live.com #[WebBug]
@@ -21375,6 +21380,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 edge.simplereach.com
 0.0.0.0 edge01.chartbeat.net
 0.0.0.0 edge1.certona.net
+0.0.0.0 edgecast-vod.yahoo.net
+0.0.0.0 edgecast-vod.yimg.com
 0.0.0.0 edgecast.tags.tiqcdn.com
 0.0.0.0 edgecastcdn.net
 0.0.0.0 edgeio.com
@@ -25432,6 +25439,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gx-in-f109.1e100.net
 0.0.0.0 gx38.cn
 0.0.0.0 gxb.mmstat.com
+0.0.0.0 gxbr.cnzz.com
 0.0.0.0 gxe.husky.sogou.com
 0.0.0.0 gxny.imanchu.cn
 0.0.0.0 gxplugin.com
@@ -28364,7 +28372,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 is-tracking-pixel-api-prod.appspot.com
 0.0.0.0 is.casalemedia.com
 0.0.0.0 is.luxup.ru
-0.0.0.0 is.snssdk.com
 0.0.0.0 is.yllix.com
 0.0.0.0 is2.websearch.com
 0.0.0.0 isaca.sc.omtrdc.net
@@ -30953,6 +30960,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 logp3.xiti.com
 0.0.0.0 logping.exblog.jp
 0.0.0.0 logpostback.media.net
+0.0.0.0 logrp.hpplay.cn
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 logs.51cto.com
 0.0.0.0 logs.81plug.com
@@ -40634,6 +40642,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pulsix.com #[maxalbums.com]
 0.0.0.0 pulso.butlerelectricsupply.com
 0.0.0.0 pultheworldlink.112.2o7.net
+0.0.0.0 puma-api.iqiyi.com
 0.0.0.0 puma.api.iqiyi.com
 0.0.0.0 pumapl.pl
 0.0.0.0 pumashopjapan.com
@@ -42181,6 +42190,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rp.gwallet.com
 0.0.0.0 rp.himediads.com
 0.0.0.0 rp.hit.gemius.pl
+0.0.0.0 rp.hpplay.cn
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
 0.0.0.0 rpc.ant.com
@@ -42676,6 +42686,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.innovid.com
 0.0.0.0 s.ipinyou.com
 0.0.0.0 s.iroby.com
+0.0.0.0 s.irs03.com
 0.0.0.0 s.iuuff.com
 0.0.0.0 s.ivillage.us.intellitxt.com
 0.0.0.0 s.jandan.com
@@ -49316,7 +49327,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tour.cineble.com
 0.0.0.0 tour.sweetdiscreet.com
 0.0.0.0 tour.xxxblackbook.com
-0.0.0.0 toutiao-frontier.snssdk.com
 0.0.0.0 toutiao.2haha.com
 0.0.0.0 toutiao.jxnews.com.cn
 0.0.0.0 toutoucao1.com
@@ -51000,6 +51010,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 umbs.ero-advertising.com
 0.0.0.0 umeng.co
 0.0.0.0 umeng.com
+0.0.0.0 umengacs.m.taobao.com
 0.0.0.0 umengcloud.com
 0.0.0.0 umengjmacs.m.taobao.com
 0.0.0.0 umid.orion.meizu.com
@@ -63677,6 +63688,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z.dwchaha.com
 0.0.0.0 z.dynad.net
 0.0.0.0 z.extreme-dm.com
+0.0.0.0 z.irs01.com
 0.0.0.0 z.moatads.com
 0.0.0.0 z.motoads.com
 0.0.0.0 z.nomobileads.com
