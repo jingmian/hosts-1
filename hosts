@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-01-31 03:00 UTC
+# Last updated: 2020-02-01 08:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -969,37 +969,37 @@ ff02::3 ip6-allhosts
 0.0.0.0 2017supremetokyo.com
 0.0.0.0 2018.qucaigg.com
 0.0.0.0 201mb.com
-0.0.0.0 20200101.logic.cpm.cm.kankan.com
-0.0.0.0 20200102.logic.cpm.cm.kankan.com
-0.0.0.0 20200103.logic.cpm.cm.kankan.com
-0.0.0.0 20200104.logic.cpm.cm.kankan.com
-0.0.0.0 20200105.logic.cpm.cm.kankan.com
-0.0.0.0 20200106.logic.cpm.cm.kankan.com
-0.0.0.0 20200107.logic.cpm.cm.kankan.com
-0.0.0.0 20200108.logic.cpm.cm.kankan.com
-0.0.0.0 20200109.logic.cpm.cm.kankan.com
-0.0.0.0 20200110.logic.cpm.cm.kankan.com
-0.0.0.0 20200111.logic.cpm.cm.kankan.com
-0.0.0.0 20200112.logic.cpm.cm.kankan.com
-0.0.0.0 20200113.logic.cpm.cm.kankan.com
-0.0.0.0 20200114.logic.cpm.cm.kankan.com
-0.0.0.0 20200115.logic.cpm.cm.kankan.com
-0.0.0.0 20200116.logic.cpm.cm.kankan.com
-0.0.0.0 20200117.logic.cpm.cm.kankan.com
-0.0.0.0 20200118.logic.cpm.cm.kankan.com
-0.0.0.0 20200119.logic.cpm.cm.kankan.com
-0.0.0.0 20200120.logic.cpm.cm.kankan.com
-0.0.0.0 20200121.logic.cpm.cm.kankan.com
-0.0.0.0 20200122.logic.cpm.cm.kankan.com
-0.0.0.0 20200123.logic.cpm.cm.kankan.com
-0.0.0.0 20200124.logic.cpm.cm.kankan.com
-0.0.0.0 20200125.logic.cpm.cm.kankan.com
-0.0.0.0 20200126.logic.cpm.cm.kankan.com
-0.0.0.0 20200127.logic.cpm.cm.kankan.com
-0.0.0.0 20200128.logic.cpm.cm.kankan.com
-0.0.0.0 20200129.logic.cpm.cm.kankan.com
-0.0.0.0 20200130.logic.cpm.cm.kankan.com
-0.0.0.0 20200131.logic.cpm.cm.kankan.com
+0.0.0.0 20200201.logic.cpm.cm.kankan.com
+0.0.0.0 20200202.logic.cpm.cm.kankan.com
+0.0.0.0 20200203.logic.cpm.cm.kankan.com
+0.0.0.0 20200204.logic.cpm.cm.kankan.com
+0.0.0.0 20200205.logic.cpm.cm.kankan.com
+0.0.0.0 20200206.logic.cpm.cm.kankan.com
+0.0.0.0 20200207.logic.cpm.cm.kankan.com
+0.0.0.0 20200208.logic.cpm.cm.kankan.com
+0.0.0.0 20200209.logic.cpm.cm.kankan.com
+0.0.0.0 20200210.logic.cpm.cm.kankan.com
+0.0.0.0 20200211.logic.cpm.cm.kankan.com
+0.0.0.0 20200212.logic.cpm.cm.kankan.com
+0.0.0.0 20200213.logic.cpm.cm.kankan.com
+0.0.0.0 20200214.logic.cpm.cm.kankan.com
+0.0.0.0 20200215.logic.cpm.cm.kankan.com
+0.0.0.0 20200216.logic.cpm.cm.kankan.com
+0.0.0.0 20200217.logic.cpm.cm.kankan.com
+0.0.0.0 20200218.logic.cpm.cm.kankan.com
+0.0.0.0 20200219.logic.cpm.cm.kankan.com
+0.0.0.0 20200220.logic.cpm.cm.kankan.com
+0.0.0.0 20200221.logic.cpm.cm.kankan.com
+0.0.0.0 20200222.logic.cpm.cm.kankan.com
+0.0.0.0 20200223.logic.cpm.cm.kankan.com
+0.0.0.0 20200224.logic.cpm.cm.kankan.com
+0.0.0.0 20200225.logic.cpm.cm.kankan.com
+0.0.0.0 20200226.logic.cpm.cm.kankan.com
+0.0.0.0 20200227.logic.cpm.cm.kankan.com
+0.0.0.0 20200228.logic.cpm.cm.kankan.com
+0.0.0.0 20200229.logic.cpm.cm.kankan.com
+0.0.0.0 20200230.logic.cpm.cm.kankan.com
+0.0.0.0 20200231.logic.cpm.cm.kankan.com
 0.0.0.0 2020iscoming.info
 0.0.0.0 202ch.com
 0.0.0.0 204.scloud.lfengmobile.com
@@ -2418,6 +2418,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.modernmedicine.com
 0.0.0.0 a.monetate.net
 0.0.0.0 a.mouseflow.com
+0.0.0.0 a.n8n7.me
 0.0.0.0 a.net-bt32.stream
 0.0.0.0 a.netmng.com
 0.0.0.0 a.networkworld.com
@@ -2703,6 +2704,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aaxads.com
 0.0.0.0 aaxdetect.com
+0.0.0.0 aazcio.cn
 0.0.0.0 ab-gb.mgid.com
 0.0.0.0 ab-mknodepub.marketo.com
 0.0.0.0 ab.5.p2l.info
@@ -2950,6 +2952,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 acortarurl.es
 0.0.0.0 acount-cheks0912.suport-acount-confrim12.gq
 0.0.0.0 acoustoopticmodulator.com
+0.0.0.0 acoxcv.cn
 0.0.0.0 acp.fyber.com
 0.0.0.0 acpbdf.com.br
 0.0.0.0 acpmagazines.112.2o7.net
@@ -14218,6 +14221,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.isdspeed.qq.com
 0.0.0.0 c.it.msn.com
 0.0.0.0 c.j782e.cn
+0.0.0.0 c.jntxst.cn
 0.0.0.0 c.jp.msn.com
 0.0.0.0 c.jsrdn.com
 0.0.0.0 c.k429fma.com
@@ -14520,6 +14524,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 c7.amazingcounters.com
 0.0.0.0 c7.statcounter.com
 0.0.0.0 c7.zedo.com
+0.0.0.0 c72.microfog.me
+0.0.0.0 c73.microfog.me
 0.0.0.0 c753738.r38.cf2.rackcdn.com
 0.0.0.0 c77777777.com
 0.0.0.0 c7a54a18ef10e6b744d6f367a3313cfc.api.appsee.com
@@ -20457,6 +20463,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ds10.api.baifendian.com
 0.0.0.0 dsa.pl
 0.0.0.0 dsadas.hydp188.com
+0.0.0.0 dsd.dxwpedu.me
 0.0.0.0 dserver.hw.net
 0.0.0.0 dsg.hgigs.info
 0.0.0.0 dsg.sc.omtrdc.net
@@ -21596,6 +21603,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ee.f2z4d.cn
 0.0.0.0 ee.hdboping.com
 0.0.0.0 ee.hit.gemius.pl
+0.0.0.0 ee.hx623.cn
 0.0.0.0 ee.i36mf.cn
 0.0.0.0 ee.j06kc.cn
 0.0.0.0 ee.j5s9b.cn
@@ -21618,6 +21626,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eee.kj78.org
 0.0.0.0 eee.ttyy888.co
 0.0.0.0 eee771.com
+0.0.0.0 eef.51dmn.top
 0.0.0.0 eega.hit.gemius.pl
 0.0.0.0 eegad.freeservers.com #[Tracking.Cookie]
 0.0.0.0 eegde.adocean.pl
@@ -32053,6 +32062,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.huoyiad1.cn
 0.0.0.0 m.huyulh.com
 0.0.0.0 m.hvjxf.cn
+0.0.0.0 m.hx623.cn
 0.0.0.0 m.hyzui.com
 0.0.0.0 m.hzuic.com
 0.0.0.0 m.hzuok.com
@@ -32554,6 +32564,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.xsm98e.cn
 0.0.0.0 m.xt2d.cn
 0.0.0.0 m.xuanlimin.top
+0.0.0.0 m.xuehelei.com
 0.0.0.0 m.xxkio.com
 0.0.0.0 m.y195j.cn
 0.0.0.0 m.y7s6ro.cn
@@ -43815,6 +43826,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sbkozmohwzerlldb.capture.umbel.com
 0.0.0.0 sbnationbidder-d.openx.net
 0.0.0.0 sbnc.hak.su
+0.0.0.0 sboite.cn
 0.0.0.0 sbpb1.qulishi.com
 0.0.0.0 sbs-ad.com
 0.0.0.0 sbsblukgov.112.2o7.net
@@ -46482,6 +46494,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssdc.icelandair.com
 0.0.0.0 ssdk.adkmob.com
 0.0.0.0 ssend.microad.jp
+0.0.0.0 ssf.51dmn.top
 0.0.0.0 ssh.hbhtbn.com
 0.0.0.0 ssh.hxlif.com
 0.0.0.0 ssh.jsyzw132.com
@@ -48204,6 +48217,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 system.litaheart.com
 0.0.0.0 systemscheckusa.com
 0.0.0.0 systweak.com
+0.0.0.0 syy.dxwpedu.me
 0.0.0.0 sz.met.vgwort.de
 0.0.0.0 szabadonebredok.info
 0.0.0.0 szachysieradzkie.pl
@@ -52047,6 +52061,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 v.gougeyy.com
 0.0.0.0 v.inigsplan.ru
 0.0.0.0 v.irs01.com
+0.0.0.0 v.jntxst.cn
 0.0.0.0 v.landingzone.se
 0.0.0.0 v.lkqd.net
 0.0.0.0 v.lvlt.crcdn.net
@@ -54232,6 +54247,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wp9.ru
 0.0.0.0 wpad.cinci.rr.com
 0.0.0.0 wpadx.com
+0.0.0.0 wpan.sc2yun.com
 0.0.0.0 wpc.32df9.rhocdn.net
 0.0.0.0 wpcdn1.herokuapp.com
 0.0.0.0 wpengine.taplytics.com
@@ -64316,6 +64332,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 y2k.hitbox.com
 0.0.0.0 y3.ifengimg.com
 0.0.0.0 y4681.6128786.com
+0.0.0.0 y71.ylems.club
+0.0.0.0 y76.ylems.club
 0.0.0.0 y7e.us
 0.0.0.0 y8xn.pen8nggjf.com
 0.0.0.0 y9ji.getnewsupdate.info
@@ -64597,6 +64615,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yuilop.com
 0.0.0.0 yujyjms.cn
 0.0.0.0 yukoyuko.112.2o7.net
+0.0.0.0 yule.fulevmy.com
 0.0.0.0 yumcs.xiaohuau.xyz
 0.0.0.0 yume.com
 0.0.0.0 yumekin.com
