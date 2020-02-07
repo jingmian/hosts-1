@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-02-05 17:01 UTC
+# Last updated: 2020-02-07 09:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -35271,6 +35271,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mp.cheering3d.com
 0.0.0.0 mp.clicksor.net
 0.0.0.0 mp.mmnneo.com
+0.0.0.0 mp.nextmedia.com
 0.0.0.0 mp.teads.tv
 0.0.0.0 mp.tscapeplay.com
 0.0.0.0 mp.xi9p.com
