@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-02-07 10:01 UTC
+# Last updated: 2020-02-08 13:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -2762,6 +2762,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 abcdespanol.com
 0.0.0.0 abcdn.nanigans.com
 0.0.0.0 abcj.dooccn.com
+0.0.0.0 abckzo.cn
 0.0.0.0 abclauncher.com
 0.0.0.0 abclnks.com
 0.0.0.0 abcnews.footprint.net
@@ -21553,6 +21554,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ee.j06kc.cn
 0.0.0.0 ee.j5s9b.cn
 0.0.0.0 ee.m19ud.cn
+0.0.0.0 ee.mfufanj.cn
 0.0.0.0 ee.t3j6a.cn
 0.0.0.0 ee.w82ph.cn
 0.0.0.0 ee.wh723.cn
@@ -31949,6 +31951,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.gcaog.com
 0.0.0.0 m.gcheg.com
 0.0.0.0 m.gcouh.com
+0.0.0.0 m.gd881.cn
 0.0.0.0 m.gdeih.com
 0.0.0.0 m.gdt.qq.com
 0.0.0.0 m.gdt.vip1790.cn
@@ -32176,6 +32179,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.mdous.com
 0.0.0.0 m.menwww.com
 0.0.0.0 m.mffcf.cn
+0.0.0.0 m.mfufanj.cn
 0.0.0.0 m.mgogo.com
 0.0.0.0 m.mgsue.cn
 0.0.0.0 m.mh89w.cn
@@ -48415,6 +48419,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 t.leady.com
 0.0.0.0 t.linkpage.cn
 0.0.0.0 t.lkqd.net
+0.0.0.0 t.lzrkj.top
 0.0.0.0 t.macadlinkingnow.com
 0.0.0.0 t.manage.com
 0.0.0.0 t.mdn2015x1.com
@@ -53000,6 +53005,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vpn.jnj-energy.com
 0.0.0.0 vpn.tuodupingguomiao.com
 0.0.0.0 vpn.yike0515.com
+0.0.0.0 vpn.youyisheng.net
 0.0.0.0 vpn.zhengyejixie.com
 0.0.0.0 vpn2.branch.io
 0.0.0.0 vpnaffiliates.com
@@ -53476,6 +53482,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wap.mygeneclub.com
 0.0.0.0 wap.tanwan.com
 0.0.0.0 wap.txwdn.com
+0.0.0.0 wap.utmei.cn
 0.0.0.0 wap.wooboo.com.cn
 0.0.0.0 wap.wsrssl.cn
 0.0.0.0 wap3.ucweb.com
