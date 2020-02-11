@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-02-11 04:01 UTC
+# Last updated: 2020-02-11 17:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -41301,6 +41301,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qczx1.com
 0.0.0.0 qd.admetricspro.com
 0.0.0.0 qde.chinaqirun.cn
+0.0.0.0 qdsfzz.cn
 0.0.0.0 qe8dc4gw.com
 0.0.0.0 qenabled.com
 0.0.0.0 qeoa.hawbfa.com
