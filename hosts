@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-02-14 14:01 UTC
+# Last updated: 2020-02-15 02:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -29549,7 +29549,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jtug.code.poyang.com
 0.0.0.0 ju-ma.pl
 0.0.0.0 ju.lmpvjs.top
-0.0.0.0 ju.taobao.com
 0.0.0.0 ju2g8tzj.com
 0.0.0.0 jua.sirenshujua.com
 0.0.0.0 judo.salon.com
