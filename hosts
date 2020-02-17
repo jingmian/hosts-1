@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-02-15 04:01 UTC
+# Last updated: 2020-02-17 05:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -21565,6 +21565,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ee.i36mf.cn
 0.0.0.0 ee.j06kc.cn
 0.0.0.0 ee.j5s9b.cn
+0.0.0.0 ee.k2d98mi.cn
 0.0.0.0 ee.m19ud.cn
 0.0.0.0 ee.mfufanj.cn
 0.0.0.0 ee.t3j6a.cn
@@ -32136,6 +32137,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.jyvlpg.cn
 0.0.0.0 m.jzvog.cn
 0.0.0.0 m.k079j.cn
+0.0.0.0 m.k2d98mi.cn
 0.0.0.0 m.kafka8.com
 0.0.0.0 m.kbwmt.cn
 0.0.0.0 m.kcenu.com
@@ -43266,6 +43268,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.update.rubiconproject.com
 0.0.0.0 s.update.wtag.adaptv.advertising.com
 0.0.0.0 s.uuidksinc.net
+0.0.0.0 s.vaedan.top
 0.0.0.0 s.vclick.vn
 0.0.0.0 s.vertamedia.com
 0.0.0.0 s.vi-serve.com
@@ -52169,6 +52172,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 v-wrd.com
 0.0.0.0 v.37uta.cn
 0.0.0.0 v.6dvip.com
+0.0.0.0 v.76768hwj.cn
 0.0.0.0 v.9y88.com
 0.0.0.0 v.admaster.com.cn
 0.0.0.0 v.admedia.com
