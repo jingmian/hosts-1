@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-02-17 05:01 UTC
+# Last updated: 2020-02-18 03:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -1053,6 +1053,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 2376.engine.mobileapptracking.com
 0.0.0.0 23837.hittail.com
 0.0.0.0 24-ak.ru
+0.0.0.0 24-biznes.eu
 0.0.0.0 24-sklep.pl
 0.0.0.0 24-xxx.biz
 0.0.0.0 2405.api.swrve.com
@@ -8866,6 +8867,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 alf-img.com
 0.0.0.0 alfa-img.com
 0.0.0.0 alfa-medosmotr.ru
+0.0.0.0 alfa-projekt.com.pl
 0.0.0.0 alfa-search.com
 0.0.0.0 alfa9.com
 0.0.0.0 alfabetnieruchomosci.pl
@@ -9659,6 +9661,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 animalrank.com
 0.0.0.0 animaltoplist.com
 0.0.0.0 animate.adobe.com
+0.0.0.0 anitkakurier.com
 0.0.0.0 aniventure.co.uk
 0.0.0.0 aniview.com
 0.0.0.0 ankieta-online.pl
@@ -9863,6 +9866,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 apac-tw-ad-track.aralego.com
 0.0.0.0 apac.rel.msn.com
 0.0.0.0 apartahotelfamilyhouse.com
+0.0.0.0 apartamentylirowa.pl
 0.0.0.0 apartamentypoleska.pl
 0.0.0.0 aparthema.org.pl
 0.0.0.0 apas.aipai.com
@@ -10362,7 +10366,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.swrve.com
 0.0.0.0 api.taboola.com
 0.0.0.0 api.tag.adtima.vn
-0.0.0.0 api.tapas.io
 0.0.0.0 api.tapjoy.com
 0.0.0.0 api.taplytics.com
 0.0.0.0 api.tapone.jp
@@ -10758,7 +10761,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 app3.letmacwork.world
 0.0.0.0 app3.letslowbefast.site
 0.0.0.0 app3.makeitworkfaster.life
-0.0.0.0 app3.prd.telematics.uconnectcar.com
 0.0.0.0 app4.greatmacsoft.tech
 0.0.0.0 app4.kromtech.net
 0.0.0.0 app4.letitbefaster.life
@@ -10766,7 +10768,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 app4.letslowbefast.life
 0.0.0.0 app4.letslowbefast.site
 0.0.0.0 app4.letslowbefast.today
-0.0.0.0 app4.prd.telematics.uconnectcar.com
 0.0.0.0 app4com.bestgrade4update.trade
 0.0.0.0 app5.fastermac.tech
 0.0.0.0 app5.letitbefaster.life
@@ -11305,6 +11306,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 asicsgel.pl
 0.0.0.0 asicsgeloutlet.pl
 0.0.0.0 asicspl.pl
+0.0.0.0 asicspoland.pl
 0.0.0.0 asicspoland.top
 0.0.0.0 asicstanio.pl
 0.0.0.0 asicswyprzedaz.pl
@@ -13811,6 +13813,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 butysportowe-online.pl
 0.0.0.0 butysportowereebok.pl
 0.0.0.0 butysuperstar.pl
+0.0.0.0 butytblpromocje.pl
 0.0.0.0 butytimberlandtanio.pl
 0.0.0.0 butyultraboost.pl
 0.0.0.0 buy-adipex-cheap-adipex-online.com
@@ -18279,6 +18282,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 crmbuyer.us.intellitxt.com
 0.0.0.0 crmwpraktyce.pl
 0.0.0.0 crocs-pl.pl
+0.0.0.0 crocsdamskie.pl
 0.0.0.0 crocspolskasklepy.pl
 0.0.0.0 croissed.info
 0.0.0.0 crops.dunight.eu
@@ -18864,7 +18868,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 da.mgtv.com
 0.0.0.0 da.mmarket.com
 0.0.0.0 da.newstogram.com
-0.0.0.0 da.tapas.io
 0.0.0.0 daa.shuzilm.cn
 0.0.0.0 daaa.ero-advertising.com
 0.0.0.0 dabcc.us.intellitxt.com
@@ -20051,6 +20054,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 do69ifsly4.me
 0.0.0.0 dobbenetes.com
 0.0.0.0 dobieraniefryzury.pl
+0.0.0.0 dobre-filmy.pl
 0.0.0.0 dobre-programy.pl
 0.0.0.0 dobre-programy.xyz
 0.0.0.0 dobreprogramy.pro
@@ -21808,6 +21812,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ekerisiltihaliyikama.com
 0.0.0.0 ekfe.idanmei.cn
 0.0.0.0 ekfe.tmmjgcp.cn
+0.0.0.0 ekino.com.pl
 0.0.0.0 ekipl.eu
 0.0.0.0 ekmas.com
 0.0.0.0 ekoinnowacyjne.pl
@@ -23297,6 +23302,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 filiser.online
 0.0.0.0 film-base.pl
 0.0.0.0 film-milosc.pl
+0.0.0.0 filmanteria.pl
 0.0.0.0 filmdrunk.us.intellitxt.com
 0.0.0.0 filmes-hd.com
 0.0.0.0 filmfanatic.com
@@ -23549,6 +23555,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fmsads.com
 0.0.0.0 fmx-req.fractionalmedia.com
 0.0.0.0 fnatfee.ero-advertising.com
+0.0.0.0 fndsdaytings.com
 0.0.0.0 fnlpic.com
 0.0.0.0 fnmsk.ru
 0.0.0.0 fo-api.omnitagjs.com
@@ -24816,6 +24823,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gifts-flowers-rewardpath.com
 0.0.0.0 gifts-for-free.online
 0.0.0.0 giftscom.122.2o7.net
+0.0.0.0 giga-tech.pl
 0.0.0.0 gigamon.sc.omtrdc.net
 0.0.0.0 gigamon.tt.omtrdc.net
 0.0.0.0 gigaonclick.com
@@ -25587,6 +25595,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gustaver.ddns.net
 0.0.0.0 gustaw-harnas.pl
 0.0.0.0 gutebaby.com
+0.0.0.0 gutfilm.pl
 0.0.0.0 guthyrenker.112.2o7.net
 0.0.0.0 guthyrenker.tt.omtrdc.net
 0.0.0.0 guyscards.com
@@ -29879,9 +29888,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 kingdeecn.cn
 0.0.0.0 kingskillz.ru
 0.0.0.0 kino-tv.pl
+0.0.0.0 kinofilm-tv.pl
 0.0.0.0 kinofree.popunder.ru
+0.0.0.0 kinoman-tv.eu
 0.0.0.0 kinoman-tv.pl
+0.0.0.0 kinomaniac.pl
+0.0.0.0 kinomaniak.pl
 0.0.0.0 kinotek.pl
+0.0.0.0 kinovod.tv
 0.0.0.0 kinowelt.oewabox.at
 0.0.0.0 kinujemy.pl
 0.0.0.0 kiosked-d.openx.net
@@ -32933,7 +32947,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ma312-r.analytics.edgesuite.net
 0.0.0.0 ma322-r.analytics.edgekey.net
 0.0.0.0 ma343-r.analytics.edgekey.net
-0.0.0.0 ma345-r.analytics.edgekey.net
 0.0.0.0 ma479-r.analytics.edgekey.net
 0.0.0.0 ma512-r.analytics.edgekey.net
 0.0.0.0 ma562-r.analytics.edgekey.net
@@ -35299,6 +35312,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 moviestarplanethacks.pl
 0.0.0.0 movieweb.us.intellitxt.com
 0.0.0.0 movip.wps.com
+0.0.0.0 movipax.com
 0.0.0.0 movitex.122.2o7.net
 0.0.0.0 movsflix.com
 0.0.0.0 mowfruit.com
@@ -35996,6 +36010,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nactx.com
 0.0.0.0 nad1.mklaud.com
 0.0.0.0 nadegda-95.ru
+0.0.0.0 nadhirotultaqwa.com
 0.0.0.0 nads.lumieyes.com
 0.0.0.0 nads.wuaiso.com
 0.0.0.0 nadscdn.wuaiso.com
@@ -39466,7 +39481,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ping.hellobar.com
 0.0.0.0 ping.onscroll.com
 0.0.0.0 ping.pinyin.sogou.com
-0.0.0.0 ping.tapas.io
 0.0.0.0 ping.taplytics.com
 0.0.0.0 ping.ublock.org
 0.0.0.0 ping.weiduofan.com
@@ -40692,6 +40706,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 propellerpops.com
 0.0.0.0 proper.io
 0.0.0.0 propermedia-d.openx.net
+0.0.0.0 prophere.pl
 0.0.0.0 proprofs-d.openx.net
 0.0.0.0 props.id
 0.0.0.0 prorodeosportmed.com
@@ -40840,6 +40855,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 przedsiebieblog.pl
 0.0.0.0 przedszkoleglobus.pl
 0.0.0.0 przedszkolekrainadziecka.pl
+0.0.0.0 przedszkoleszkrab.pl
 0.0.0.0 przedszkolewlipnicy.pl
 0.0.0.0 przegladaj-zdjeecia.eu
 0.0.0.0 przejdz.ml
@@ -54926,6 +54942,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.231498.com
 0.0.0.0 www.233fa.com
 0.0.0.0 www.2345at.com
+0.0.0.0 www.24-biznes.eu
 0.0.0.0 www.24-sklep.pl
 0.0.0.0 www.2468.go2cloud.org
 0.0.0.0 www.247realmedia.com
@@ -55880,6 +55897,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.aleshop.pl
 0.0.0.0 www.alexsoff.com
 0.0.0.0 www.alexxe.com
+0.0.0.0 www.alfa-projekt.com.pl
 0.0.0.0 www.alfabetnieruchomosci.pl
 0.0.0.0 www.algocashmaster.com
 0.0.0.0 www.algocashmaster.net
@@ -55965,6 +55983,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.animal36.com
 0.0.0.0 www.animalrank.com
 0.0.0.0 www.animaltoplist.com
+0.0.0.0 www.anitkakurier.com
 0.0.0.0 www.aniventure.co.uk
 0.0.0.0 www.ankiety-konsumenckie.pl
 0.0.0.0 www.anmira.info
@@ -55996,6 +56015,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.aombjl099.com
 0.0.0.0 www.aombjl17.com
 0.0.0.0 www.apartahotelfamilyhouse.com
+0.0.0.0 www.apartamentylirowa.pl
 0.0.0.0 www.apartamentypoleska.pl
 0.0.0.0 www.aparthema.org.pl
 0.0.0.0 www.api.ad.intl.xiaomi.com
@@ -56112,6 +56132,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.asicsgel.pl
 0.0.0.0 www.asicsgeloutlet.pl
 0.0.0.0 www.asicspl.pl
+0.0.0.0 www.asicspoland.pl
 0.0.0.0 www.asicspoland.top
 0.0.0.0 www.asicstanio.pl
 0.0.0.0 www.asicswyprzedaz.pl
@@ -56642,6 +56663,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.butysportowe-online.pl
 0.0.0.0 www.butysportowereebok.pl
 0.0.0.0 www.butysuperstar.pl
+0.0.0.0 www.butytblpromocje.pl
 0.0.0.0 www.butytimberlandtanio.pl
 0.0.0.0 www.butyultraboost.pl
 0.0.0.0 www.buwobarun.cn
@@ -57170,6 +57192,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.criteo.com
 0.0.0.0 www.crmwpraktyce.pl
 0.0.0.0 www.crocs-pl.pl
+0.0.0.0 www.crocsdamskie.pl
 0.0.0.0 www.crocspolskasklepy.pl
 0.0.0.0 www.crossfitchojnice.pl
 0.0.0.0 www.crossoverchina.com
@@ -57401,6 +57424,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.dnps.com
 0.0.0.0 www.dntx.com
 0.0.0.0 www.dobieraniefryzury.pl
+0.0.0.0 www.dobre-filmy.pl
 0.0.0.0 www.dobre-programy.pl
 0.0.0.0 www.dobre-programy.xyz
 0.0.0.0 www.dobreprogramy.pro
@@ -57640,6 +57664,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.eivamos.com
 0.0.0.0 www.ejynyf.cn
 0.0.0.0 www.ekerisiltihaliyikama.com
+0.0.0.0 www.ekino.com.pl
 0.0.0.0 www.ekipl.eu
 0.0.0.0 www.ekoinnowacyjne.pl
 0.0.0.0 www.ekonkarserai.com
@@ -57972,6 +57997,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.filiser.online
 0.0.0.0 www.film-base.pl
 0.0.0.0 www.film-milosc.pl
+0.0.0.0 www.filmanteria.pl
 0.0.0.0 www.filmhd.ek1.pl
 0.0.0.0 www.filmline.pl
 0.0.0.0 www.filmobox.pl
@@ -58427,6 +58453,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.giftrewardzone.com
 0.0.0.0 www.gifts-flowers-rewardpath.com
 0.0.0.0 www.gifts-for-free.online
+0.0.0.0 www.giga-tech.pl
 0.0.0.0 www.gigdnetwork.com
 0.0.0.0 www.gigup.net
 0.0.0.0 www.gikon.pl
@@ -58603,6 +58630,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.guowaidiaocha.com
 0.0.0.0 www.guptamedianetwork.com
 0.0.0.0 www.gustaw-harnas.pl
+0.0.0.0 www.gutfilm.pl
 0.0.0.0 www.gvc.vn
 0.0.0.0 www.gw.firesub.pl
 0.0.0.0 www.gwh682.com
@@ -59339,9 +59367,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.kineman.pl
 0.0.0.0 www.kingdeecn.cn
 0.0.0.0 www.kino-tv.pl
+0.0.0.0 www.kinofilm-tv.pl
+0.0.0.0 www.kinoman-tv.eu
 0.0.0.0 www.kinoman-tv.pl
+0.0.0.0 www.kinomaniac.pl
+0.0.0.0 www.kinomaniak.pl
 0.0.0.0 www.kinomarathon.ru
 0.0.0.0 www.kinotek.pl
+0.0.0.0 www.kinovod.tv
 0.0.0.0 www.kinujemy.pl
 0.0.0.0 www.kipasdenim.com
 0.0.0.0 www.kipokahynr.xyz
@@ -60117,6 +60150,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.moviestarplanetcheatstool.com
 0.0.0.0 www.moviestarplanethackers.co
 0.0.0.0 www.moviestarplanethacks.pl
+0.0.0.0 www.movipax.com
 0.0.0.0 www.moyodo.pl
 0.0.0.0 www.mozebyctwoje.com
 0.0.0.0 www.mp3downloadhq.com
@@ -60243,6 +60277,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.n9856.com
 0.0.0.0 www.na47.com
 0.0.0.0 www.nabazarze.pl
+0.0.0.0 www.nadhirotultaqwa.com
 0.0.0.0 www.nadzorbudowa.pl
 0.0.0.0 www.nagroda-sms.pl
 0.0.0.0 www.nagrodzkaart.pl
@@ -61182,6 +61217,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.prooexpert.com
 0.0.0.0 www.propan.ru
 0.0.0.0 www.propdfconverter.com
+0.0.0.0 www.prophere.pl
 0.0.0.0 www.proslandvietnam.com
 0.0.0.0 www.prosoccer1.dyndns.info
 0.0.0.0 www.prosoccer2.dyndns.info
@@ -61196,6 +61232,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.przedsiebieblog.pl
 0.0.0.0 www.przedszkoleglobus.pl
 0.0.0.0 www.przedszkolekrainadziecka.pl
+0.0.0.0 www.przedszkoleszkrab.pl
 0.0.0.0 www.przedszkolewlipnicy.pl
 0.0.0.0 www.przegladaj-zdjeecia.eu
 0.0.0.0 www.przejdz.ml
@@ -63424,6 +63461,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.wyjazd24.pl
 0.0.0.0 www.wyklady-krakowskie.pl
 0.0.0.0 www.wyleczpc.pl
+0.0.0.0 www.wylewkibetonowe.com.pl
 0.0.0.0 www.wymowek.pl
 0.0.0.0 www.wymyslprezent.pl
 0.0.0.0 www.wypad3k0.blogspot.com
@@ -63773,6 +63811,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.zs3x.net
 0.0.0.0 www.zshacker.com
 0.0.0.0 www.zskleczany.pl
+0.0.0.0 www.zsklembow.pl
 0.0.0.0 www.zsniemce.pl
 0.0.0.0 www.zsoupu.net
 0.0.0.0 www.zspbytonia.pl
@@ -64163,6 +64202,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wyklady-krakowskie.pl
 0.0.0.0 wykop.hit.gemius.pl
 0.0.0.0 wyleczpc.pl
+0.0.0.0 wylewkibetonowe.com.pl
 0.0.0.0 wymowek.pl
 0.0.0.0 wymyslprezent.pl
 0.0.0.0 wypad3k0.blogspot.com
@@ -65406,6 +65446,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zsc.scmspain.com
 0.0.0.0 zsisk.com
 0.0.0.0 zskleczany.pl
+0.0.0.0 zsklembow.pl
 0.0.0.0 zsniemce.pl
 0.0.0.0 zsoupu.net
 0.0.0.0 zspbytonia.pl
