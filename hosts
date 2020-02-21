@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-02-18 03:01 UTC
+# Last updated: 2020-02-21 03:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -9968,6 +9968,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.adlure.net
 0.0.0.0 api.admob.com
 0.0.0.0 api.admob.xiaomi.com
+0.0.0.0 api.adnet.mob.com
 0.0.0.0 api.adns.contentlink.co.kr
 0.0.0.0 api.adnxs.com
 0.0.0.0 api.adrenalads.com
@@ -33472,6 +33473,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mb01.com
 0.0.0.0 mba-online.petrovka.info
 0.0.0.0 mbank.hit.gemius.pl
+0.0.0.0 mbd.baidu.com
 0.0.0.0 mbd.weathercn.com
 0.0.0.0 mbdlog.iqiyi.com
 0.0.0.0 mbe-cdn-staging.fyber.com
