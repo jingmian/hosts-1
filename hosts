@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-02-25 17:00 UTC
+# Last updated: 2020-02-26 04:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -51993,7 +51993,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 usdm.122.2o7.net
 0.0.0.0 usdsp-ali.mobvista.com
 0.0.0.0 usdsp.mobvista.com
-0.0.0.0 use-application-dns.net
 0.0.0.0 use-data.adsrvr.org
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 use-tr01.fuse-ad.com
