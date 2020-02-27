@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-02-26 04:01 UTC
+# Last updated: 2020-02-27 09:00 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -9911,6 +9911,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api-log-analytics.cloud.toast.com
 0.0.0.0 api-log.immomo.com
 0.0.0.0 api-logsink-prod.zedge.io
+0.0.0.0 api-luckycoinsdk.doglobal.net
 0.0.0.0 api-master.netsparkmobile.com
 0.0.0.0 api-owr-bootstrap.metaps.net
 0.0.0.0 api-product.kameleoon.com
@@ -12609,6 +12610,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bdnad1.bangornews.com
 0.0.0.0 bdplus.baidu.com
 0.0.0.0 bds.hainan.net
+0.0.0.0 bds.snssdk.com
 0.0.0.0 bds.soarfi.cn
 0.0.0.0 bdsearch.2345.com
 0.0.0.0 bdsmcompany.com
@@ -20528,6 +20530,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 duramo.pl
 0.0.0.0 durasoft.pl
 0.0.0.0 duration.logger.baofeng.com
+0.0.0.0 durdcn.doglobal.net
 0.0.0.0 dv-fw-a-nat.iovation.com
 0.0.0.0 dvb.pandora.xiaomi.com
 0.0.0.0 dvdhentai.net
@@ -25700,7 +25703,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 h21.ru
 0.0.0.0 h5.3ps03.cn
 0.0.0.0 h5.7vyou.com
-0.0.0.0 h5.analytics.126.net
 0.0.0.0 h5.appadhoc.com
 0.0.0.0 h5.holalauncher.com
 0.0.0.0 h5.jiumaster.com
@@ -33455,7 +33457,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mb01.com
 0.0.0.0 mba-online.petrovka.info
 0.0.0.0 mbank.hit.gemius.pl
-0.0.0.0 mbd.baidu.com
 0.0.0.0 mbd.weathercn.com
 0.0.0.0 mbdlog.iqiyi.com
 0.0.0.0 mbe-cdn-staging.fyber.com
@@ -49674,6 +49675,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tnttv.112.2o7.net
 0.0.0.0 toads.osdn.com
 0.0.0.0 tob-cms.bj.bcebos.com
+0.0.0.0 toblog.ctobsnssdk.com
 0.0.0.0 todacell.com
 0.0.0.0 todaymediainc-d.openx.net
 0.0.0.0 todayresearch.com
