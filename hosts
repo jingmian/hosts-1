@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-02-27 09:00 UTC
+# Last updated: 2020-02-28 02:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -346,6 +346,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 hao.faioo.com
 0.0.0.0 hostloc.ml
+0.0.0.0 imgs.jads.co
+0.0.0.0 jads.co
 0.0.0.0 jiegeng.com
 0.0.0.0 js001.b0.upaiyun.com
 0.0.0.0 logic.cpm.cm.kankan.com
@@ -353,6 +355,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 p.yiqifa.com
 0.0.0.0 pcvqee5qa.bkt.clouddn.com
 0.0.0.0 player.pptv.com
+0.0.0.0 poweredby.jads.co
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 rabc1.iteye.com
 0.0.0.0 rabc2.iteye.com
@@ -383,6 +386,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.flash.cn
 0.0.0.0 www.google.cn
 0.0.0.0 www.hostloc.ml
+0.0.0.0 www.jads.co
 0.0.0.0 www.jiegeng.com
 0.0.0.0 www.wenbo58.com
 0.0.0.0 www.yushushangcheng.cn
