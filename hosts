@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-02-28 02:01 UTC
+# Last updated: 2020-02-28 11:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -14232,6 +14232,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.oix.com
 0.0.0.0 c.oix.net
 0.0.0.0 c.okmgy.cn
+0.0.0.0 c.originz.cn
 0.0.0.0 c.panqis.cn
 0.0.0.0 c.panqishu.com
 0.0.0.0 c.pc.qq.com
@@ -21530,6 +21531,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 edukacjawakcji.pl
 0.0.0.0 edukacjawysylkowa.pl
 0.0.0.0 edumedix.pl
+0.0.0.0 ee.0pi84.cn
 0.0.0.0 ee.1s8pj.cn
 0.0.0.0 ee.2v0ni.cn
 0.0.0.0 ee.32z8d.cn
@@ -21554,6 +21556,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ee.d6s2pn5t.cn
 0.0.0.0 ee.f2z4d.cn
 0.0.0.0 ee.gd881.cn
+0.0.0.0 ee.h2tywo.cn
 0.0.0.0 ee.hdboping.com
 0.0.0.0 ee.hit.gemius.pl
 0.0.0.0 ee.hx623.cn
@@ -21563,6 +21566,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ee.k2d98mi.cn
 0.0.0.0 ee.m19ud.cn
 0.0.0.0 ee.mfufanj.cn
+0.0.0.0 ee.oikqfwv.cn
+0.0.0.0 ee.s47e8.cn
 0.0.0.0 ee.t3j6a.cn
 0.0.0.0 ee.w82ph.cn
 0.0.0.0 ee.wh723.cn
@@ -21572,6 +21577,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ee.x8r9m.cn
 0.0.0.0 ee.xq375.cn
 0.0.0.0 ee.xr883.cn
+0.0.0.0 ee.zowmgxpz.cn
 0.0.0.0 ee.zq13n.cn
 0.0.0.0 eecd179r3b.com
 0.0.0.0 eecky.butlerelectricsupply.com
@@ -28900,6 +28906,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jc.revolvermaps.com
 0.0.0.0 jc.shenglonghg.net
 0.0.0.0 jc.szjianxin.net
+0.0.0.0 jc.vtqifk86868.cn
 0.0.0.0 jc.xuqinqi.cn
 0.0.0.0 jcarter.spinbox.net
 0.0.0.0 jcb.sc.omtrdc.net
@@ -31579,6 +31586,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.0cec5.com
 0.0.0.0 m.0o8iuh.cn
 0.0.0.0 m.0phunw.cn
+0.0.0.0 m.0pi84.cn
 0.0.0.0 m.0uk9e.cn
 0.0.0.0 m.0v15b.cn
 0.0.0.0 m.0vj6i.cn
@@ -32024,6 +32032,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.gxunj.com
 0.0.0.0 m.gybdtg.com
 0.0.0.0 m.h24q5c.cn
+0.0.0.0 m.h2tywo.cn
 0.0.0.0 m.haishuxue.com
 0.0.0.0 m.haowj.com.cn
 0.0.0.0 m.harbinbaojia.net
@@ -32273,6 +32282,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.ocenp.com
 0.0.0.0 m.oesnw.com
 0.0.0.0 m.ogeigs.com
+0.0.0.0 m.oikqfwv.cn
 0.0.0.0 m.ojues.com
 0.0.0.0 m.okuis.com
 0.0.0.0 m.omztf.cn
@@ -32345,6 +32355,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.rrsdl.com
 0.0.0.0 m.rwganw.cn
 0.0.0.0 m.s0o5g.cn
+0.0.0.0 m.s47e8.cn
 0.0.0.0 m.s52dv.com
 0.0.0.0 m.s76xid.cn
 0.0.0.0 m.sancdn.net
@@ -32628,6 +32639,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.zkwsdf.com
 0.0.0.0 m.zmlfk.com
 0.0.0.0 m.zougg.com
+0.0.0.0 m.zowmgxpz.cn
 0.0.0.0 m.zq13n.cn
 0.0.0.0 m.zq4ka.cn
 0.0.0.0 m.zr9f7.cn
@@ -41316,6 +41328,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qe8dc4gw.com
 0.0.0.0 qenabled.com
 0.0.0.0 qeoa.hawbfa.com
+0.0.0.0 qevcxo.cn
 0.0.0.0 qfdn3gyfbs.com
 0.0.0.0 qgss8.com
 0.0.0.0 qguwoq.cn
@@ -46610,6 +46623,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssl.51lhcx.com
 0.0.0.0 ssl.ad.dotandad.com
 0.0.0.0 ssl.aszy.club
+0.0.0.0 ssl.bbba8.com
+0.0.0.0 ssl.bbbr8.com
 0.0.0.0 ssl.bezpieczne-platnosci.pl
 0.0.0.0 ssl.bsriedu.cn
 0.0.0.0 ssl.clickbank.net
@@ -48528,6 +48543,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 t.wayfair.com
 0.0.0.0 t.wowanalytics.co.uk
 0.0.0.0 t.xamaky.top
+0.0.0.0 t.xiumii.top
 0.0.0.0 t.xymj.xyz
 0.0.0.0 t.yesware.com
 0.0.0.0 t.youhua.pw
@@ -52182,6 +52198,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 v.lkqd.net
 0.0.0.0 v.lvlt.crcdn.net
 0.0.0.0 v.oq68.com
+0.0.0.0 v.originz.cn
 0.0.0.0 v.popcash.net
 0.0.0.0 v.qudwrj.cn
 0.0.0.0 v.rmbn.net
@@ -60400,6 +60417,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.nkuop.com
 0.0.0.0 www.nl1.ero-advertising.com
 0.0.0.0 www.nl2.ero-advertising.com
+0.0.0.0 www.nlzq888.com
 0.0.0.0 www.nmkhwd.cn
 0.0.0.0 www.nmpcdn.com
 0.0.0.0 www.nn1313.com
@@ -63743,6 +63761,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.zoosexart.com
 0.0.0.0 www.zootoplist.com
 0.0.0.0 www.zootravel.com
+0.0.0.0 www.zopeynxv.top
 0.0.0.0 www.zoracle.com
 0.0.0.0 www.zostanfitjakja.pl
 0.0.0.0 www.zpafiska.pl
@@ -64494,7 +64513,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--poyczaj-xwb.online.pl
 0.0.0.0 xn--srahah-bua.eu
 0.0.0.0 xn--srahah-bua.pl
+0.0.0.0 xn--wxtr44c.video
 0.0.0.0 xn--wxtr9fwyxk9c.top
+0.0.0.0 xn--xhq9mt12cf5v.art
 0.0.0.0 xn--xhq9mt12cf5v.ink
 0.0.0.0 xn--xhq9mt12cf5v.website
 0.0.0.0 xn--yotu-1ra.be
@@ -65009,6 +65030,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z1.cnzz.com
 0.0.0.0 z1.dawanjiahn.com
 0.0.0.0 z1.extreme-dm.com
+0.0.0.0 z1.yunl1.com
 0.0.0.0 z1.zedo.com
 0.0.0.0 z1.zhishidu.com
 0.0.0.0 z10.cnzz.com
@@ -65021,6 +65043,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z2.cnzz.com
 0.0.0.0 z2.dawanjiahn.com
 0.0.0.0 z2.lnymd.com
+0.0.0.0 z2.yunl1.com
 0.0.0.0 z2.zedo.com
 0.0.0.0 z2.zhishidu.com
 0.0.0.0 z2jakqoshx.com
