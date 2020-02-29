@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-02-28 11:01 UTC
+# Last updated: 2020-02-29 15:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -14246,6 +14246,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.pt.msn.com
 0.0.0.0 c.ptffw.net
 0.0.0.0 c.pub.network
+0.0.0.0 c.qhruixin.cn
 0.0.0.0 c.quantserve.com
 0.0.0.0 c.queene.cn
 0.0.0.0 c.r10.mopub.com
@@ -43747,6 +43748,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 saifudesigner.com
 0.0.0.0 sail-horizon.com
 0.0.0.0 sailsteam.pl
+0.0.0.0 saitef.cn
 0.0.0.0 saksfifthavenue.122.2o7.net
 0.0.0.0 sakuraboxs.com
 0.0.0.0 sakuraset.top
@@ -52200,6 +52202,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 v.oq68.com
 0.0.0.0 v.originz.cn
 0.0.0.0 v.popcash.net
+0.0.0.0 v.qhruixin.cn
 0.0.0.0 v.qudwrj.cn
 0.0.0.0 v.rmbn.net
 0.0.0.0 v.smtcdns.net
@@ -65030,6 +65033,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z1.cnzz.com
 0.0.0.0 z1.dawanjiahn.com
 0.0.0.0 z1.extreme-dm.com
+0.0.0.0 z1.xysmai.com
 0.0.0.0 z1.yunl1.com
 0.0.0.0 z1.zedo.com
 0.0.0.0 z1.zhishidu.com
@@ -65043,6 +65047,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z2.cnzz.com
 0.0.0.0 z2.dawanjiahn.com
 0.0.0.0 z2.lnymd.com
+0.0.0.0 z2.xysmai.com
 0.0.0.0 z2.yunl1.com
 0.0.0.0 z2.zedo.com
 0.0.0.0 z2.zhishidu.com
