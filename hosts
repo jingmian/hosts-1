@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-03-01 06:00 UTC
+# Last updated: 2020-03-01 10:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -972,37 +972,37 @@ ff02::3 ip6-allhosts
 0.0.0.0 2017supremetokyo.com
 0.0.0.0 2018.qucaigg.com
 0.0.0.0 201mb.com
-0.0.0.0 20200201.logic.cpm.cm.kankan.com
-0.0.0.0 20200202.logic.cpm.cm.kankan.com
-0.0.0.0 20200203.logic.cpm.cm.kankan.com
-0.0.0.0 20200204.logic.cpm.cm.kankan.com
-0.0.0.0 20200205.logic.cpm.cm.kankan.com
-0.0.0.0 20200206.logic.cpm.cm.kankan.com
-0.0.0.0 20200207.logic.cpm.cm.kankan.com
-0.0.0.0 20200208.logic.cpm.cm.kankan.com
-0.0.0.0 20200209.logic.cpm.cm.kankan.com
-0.0.0.0 20200210.logic.cpm.cm.kankan.com
-0.0.0.0 20200211.logic.cpm.cm.kankan.com
-0.0.0.0 20200212.logic.cpm.cm.kankan.com
-0.0.0.0 20200213.logic.cpm.cm.kankan.com
-0.0.0.0 20200214.logic.cpm.cm.kankan.com
-0.0.0.0 20200215.logic.cpm.cm.kankan.com
-0.0.0.0 20200216.logic.cpm.cm.kankan.com
-0.0.0.0 20200217.logic.cpm.cm.kankan.com
-0.0.0.0 20200218.logic.cpm.cm.kankan.com
-0.0.0.0 20200219.logic.cpm.cm.kankan.com
-0.0.0.0 20200220.logic.cpm.cm.kankan.com
-0.0.0.0 20200221.logic.cpm.cm.kankan.com
-0.0.0.0 20200222.logic.cpm.cm.kankan.com
-0.0.0.0 20200223.logic.cpm.cm.kankan.com
-0.0.0.0 20200224.logic.cpm.cm.kankan.com
-0.0.0.0 20200225.logic.cpm.cm.kankan.com
-0.0.0.0 20200226.logic.cpm.cm.kankan.com
-0.0.0.0 20200227.logic.cpm.cm.kankan.com
-0.0.0.0 20200228.logic.cpm.cm.kankan.com
-0.0.0.0 20200229.logic.cpm.cm.kankan.com
-0.0.0.0 20200230.logic.cpm.cm.kankan.com
-0.0.0.0 20200231.logic.cpm.cm.kankan.com
+0.0.0.0 20200301.logic.cpm.cm.kankan.com
+0.0.0.0 20200302.logic.cpm.cm.kankan.com
+0.0.0.0 20200303.logic.cpm.cm.kankan.com
+0.0.0.0 20200304.logic.cpm.cm.kankan.com
+0.0.0.0 20200305.logic.cpm.cm.kankan.com
+0.0.0.0 20200306.logic.cpm.cm.kankan.com
+0.0.0.0 20200307.logic.cpm.cm.kankan.com
+0.0.0.0 20200308.logic.cpm.cm.kankan.com
+0.0.0.0 20200309.logic.cpm.cm.kankan.com
+0.0.0.0 20200310.logic.cpm.cm.kankan.com
+0.0.0.0 20200311.logic.cpm.cm.kankan.com
+0.0.0.0 20200312.logic.cpm.cm.kankan.com
+0.0.0.0 20200313.logic.cpm.cm.kankan.com
+0.0.0.0 20200314.logic.cpm.cm.kankan.com
+0.0.0.0 20200315.logic.cpm.cm.kankan.com
+0.0.0.0 20200316.logic.cpm.cm.kankan.com
+0.0.0.0 20200317.logic.cpm.cm.kankan.com
+0.0.0.0 20200318.logic.cpm.cm.kankan.com
+0.0.0.0 20200319.logic.cpm.cm.kankan.com
+0.0.0.0 20200320.logic.cpm.cm.kankan.com
+0.0.0.0 20200321.logic.cpm.cm.kankan.com
+0.0.0.0 20200322.logic.cpm.cm.kankan.com
+0.0.0.0 20200323.logic.cpm.cm.kankan.com
+0.0.0.0 20200324.logic.cpm.cm.kankan.com
+0.0.0.0 20200325.logic.cpm.cm.kankan.com
+0.0.0.0 20200326.logic.cpm.cm.kankan.com
+0.0.0.0 20200327.logic.cpm.cm.kankan.com
+0.0.0.0 20200328.logic.cpm.cm.kankan.com
+0.0.0.0 20200329.logic.cpm.cm.kankan.com
+0.0.0.0 20200330.logic.cpm.cm.kankan.com
+0.0.0.0 20200331.logic.cpm.cm.kankan.com
 0.0.0.0 2020iscoming.info
 0.0.0.0 202ch.com
 0.0.0.0 204.scloud.lfengmobile.com
@@ -2356,6 +2356,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.environmentaldefense.org
 0.0.0.0 a.epinv.com
 0.0.0.0 a.evo.co.uk
+0.0.0.0 a.exoclick.com
 0.0.0.0 a.fandango.com
 0.0.0.0 a.farlex.com
 0.0.0.0 a.faymobi.com
@@ -9935,6 +9936,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api-s2s.taboola.com
 0.0.0.0 api-scsdk.appcloudbox.net
 0.0.0.0 api-secure.mixpanel.com
+0.0.0.0 api-secure.solvemedia.com
 0.0.0.0 api-selene.prod.adtech.de
 0.0.0.0 api-shoulei-ssl.xunlei.com
 0.0.0.0 api-v3.tinypass.com
@@ -21598,6 +21600,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ee.oikqfwv.cn
 0.0.0.0 ee.s47e8.cn
 0.0.0.0 ee.t3j6a.cn
+0.0.0.0 ee.uh64b.cn
 0.0.0.0 ee.w82ph.cn
 0.0.0.0 ee.wh723.cn
 0.0.0.0 ee.wv26d.cn
@@ -32491,6 +32494,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.ucaii.com
 0.0.0.0 m.uchij.com
 0.0.0.0 m.uczzd.cn
+0.0.0.0 m.uh64b.cn
 0.0.0.0 m.uhor8.cn
 0.0.0.0 m.uissm.com
 0.0.0.0 m.uk.2mdn.net
@@ -59232,6 +59236,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.jav23.com
 0.0.0.0 www.javacenter.pl
 0.0.0.0 www.javascriptobfuscator.com
+0.0.0.0 www.jazdoxthxiv.com
 0.0.0.0 www.jcdfdhx.top
 0.0.0.0 www.jcmarcadolib.com
 0.0.0.0 www.jcwhiney.com
@@ -59357,6 +59362,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.jwg1374.com
 0.0.0.0 www.jwge1406.com
 0.0.0.0 www.jwge1427.com
+0.0.0.0 www.jwmwtcmexc.com
 0.0.0.0 www.jx5m.com
 0.0.0.0 www.jxliu.com
 0.0.0.0 www.jxteerte.net
@@ -63700,6 +63706,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.yeuquynhnhai.com
 0.0.0.0 www.yezilm.com
 0.0.0.0 www.yibaruxet.cn
+0.0.0.0 www.yichunrz.com
 0.0.0.0 www.yidsense.com
 0.0.0.0 www.yieldmanager.net
 0.0.0.0 www.yieldpartners.com
