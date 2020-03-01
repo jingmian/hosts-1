@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-02-29 15:01 UTC
+# Last updated: 2020-03-01 03:00 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -12,7 +12,8 @@
 # localhost name resolution is handled within DNS itself.
 127.0.0.1 hostname
 127.0.0.1 localhost localhost.localdomain
-127.0.1.1 hostname ubuntu-xenial
+127.0.0.1 www www-data
+127.0.1.1 hostname ubuntu ubuntu-xenial
 
 # The following lines are desirable for IPv6 capable hosts
 ::1 hostname
