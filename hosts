@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-03-01 10:01 UTC
+# Last updated: 2020-03-04 07:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -14154,6 +14154,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.danangmo.cn
 0.0.0.0 c.data.mob.com
 0.0.0.0 c.de.msn.com
+0.0.0.0 c.dengbaozx.cn
 0.0.0.0 c.deployads.com
 0.0.0.0 c.dfgyw.com
 0.0.0.0 c.dk.msn.com
@@ -44901,6 +44902,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 seomarkecik.pl
 0.0.0.0 seomatrix.webtrackingservices.com
 0.0.0.0 seonetwizard.com
+0.0.0.0 seordl.cn
 0.0.0.0 seosoftware.onlinedownloads.org
 0.0.0.0 separatesilver.com
 0.0.0.0 september.cityads.com
@@ -52273,6 +52275,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 v.cf.ssacdn.com
 0.0.0.0 v.chartboost.com
 0.0.0.0 v.dbncp.com
+0.0.0.0 v.dengbaozx.cn
 0.0.0.0 v.domob.cn
 0.0.0.0 v.e7002.com
 0.0.0.0 v.extreme-dm.com
@@ -64670,6 +64673,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--srahah-bua.eu
 0.0.0.0 xn--srahah-bua.pl
 0.0.0.0 xn--wxtr44c.video
+0.0.0.0 xn--wxtr9fwyxk9c.club
 0.0.0.0 xn--wxtr9fwyxk9c.top
 0.0.0.0 xn--xhq9mt12cf5v.art
 0.0.0.0 xn--xhq9mt12cf5v.ink
@@ -65185,6 +65189,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z1.cnzz.com
 0.0.0.0 z1.dawanjiahn.com
 0.0.0.0 z1.extreme-dm.com
+0.0.0.0 z1.jilinxinfukeji.com
 0.0.0.0 z1.xysmai.com
 0.0.0.0 z1.yunl1.com
 0.0.0.0 z1.zedo.com
@@ -65198,6 +65203,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z2.cnywst.com
 0.0.0.0 z2.cnzz.com
 0.0.0.0 z2.dawanjiahn.com
+0.0.0.0 z2.jilinxinfukeji.com
 0.0.0.0 z2.lnymd.com
 0.0.0.0 z2.xysmai.com
 0.0.0.0 z2.yunl1.com
