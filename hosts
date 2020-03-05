@@ -3,7 +3,7 @@
 # https://github.com/hishis/hosts
 # https://raw.githubusercontent.com/hishis/hosts/master/hosts
 
-# Last updated: 2020-03-04 07:01 UTC
+# Last updated: 2020-03-05 13:01 UTC
 
 # This hosts file is a merged collection of hosts from reputable sources
 
@@ -9914,6 +9914,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api-device.mocaplatform.com
 0.0.0.0 api-dot-mwm-ab-testing.appspot.com
 0.0.0.0 api-dot-mwm-ad-mediation.appspot.com
+0.0.0.0 api-es.doglobal.net
 0.0.0.0 api-ext.mediav.com
 0.0.0.0 api-flow.flyme.cn
 0.0.0.0 api-game.meizu.com
@@ -16826,6 +16827,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cms.vinaads.vn
 0.0.0.0 cmsapi.wifi8.com
 0.0.0.0 cmshow.gtimg.cn
+0.0.0.0 cmta.yangkeduo.com
 0.0.0.0 cmtrading.ck-cdn.com
 0.0.0.0 cmtvia.112.2o7.net
 0.0.0.0 cmweb.ilike.alibaba.com
@@ -27160,6 +27162,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 id405441215-8305493831.h121h9.com
 0.0.0.0 id5-sync.com
 0.0.0.0 id5576.al21.luxup.ru
+0.0.0.0 id6.me
 0.0.0.0 ida.cnool.net
 0.0.0.0 idas-sex-story.gocunt.com
 0.0.0.0 idb.hitbox.com
@@ -27309,6 +27312,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 il.5.p2l.info
 0.0.0.0 ilb.pns.kt.com
 0.0.0.0 ilbanner.com
+0.0.0.0 ilce.alicdn.com
 0.0.0.0 ilead.itrack.it
 0.0.0.0 ilgde.adocean.pl
 0.0.0.0 ili100.cn
@@ -29370,6 +29374,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 js.jaat3ax.site
 0.0.0.0 js.jianbaimei.com
 0.0.0.0 js.jqsex.com
+0.0.0.0 js.jrjimg.cn
 0.0.0.0 js.juicyads.com
 0.0.0.0 js.kau.li
 0.0.0.0 js.keywordsconnect.com
@@ -34696,6 +34701,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mini.jijiplayer.com
 0.0.0.0 mini.videostrip.com
 0.0.0.0 mini2015.qq.com
+0.0.0.0 miniapp.qiluyidian.mobi
 0.0.0.0 minigameplanet.com
 0.0.0.0 minimob.com
 0.0.0.0 minipage.2345.com
@@ -35207,6 +35213,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mon-gbr-1.inf.nimiq.network
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon.majorserving.com
+0.0.0.0 mon.snssdk.com
 0.0.0.0 mon.trackmysales.website
 0.0.0.0 mon.xtgreat.com
 0.0.0.0 monarchads.com
@@ -52365,6 +52372,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 v2html.atm.youku.com
 0.0.0.0 v2profit.com
 0.0.0.0 v2st.shinobi.jp
+0.0.0.0 v3-ad.ixigua.com
 0.0.0.0 v3-ads-st-vcdn.anthill.vn
 0.0.0.0 v3-st-vcdn.anthill.vn
 0.0.0.0 v3.chartboost.com
